@@ -1,0 +1,15 @@
+{
+  "shimmering-focus@@hide-settings-button": false,
+  "shimmering-focus@@no-floating-metadata": false,
+  "shimmering-focus@@show-sidebar-tabs": true,
+  "shimmering-focus@@show-titlebar": true,
+  "shimmering-focus@@show-urls": false,
+  "shimmering-focus@@show-header-bar": true,
+  "shimmering-focus@@colored-yaml": true,
+  "shimmering-focus@@monospace-font-size": 0.9,
+  "shimmering-focus@@show-titlebar-text": false,
+  "shimmering-focus@@permanently-show-block-ids": false,
+  "shimmering-focus@@show-close-button": false,
+  "shimmering-focus@@permanently-show-collapse-indicators": false,
+  "lyt-mode@@header-style": "lyt-flat-headers"
+}

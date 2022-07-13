@@ -1,0 +1,931 @@
+{
+  "initialized": true,
+  "trackedProjects": [
+    "/"
+  ],
+  "filesCheckpoint": {
+    "C1=学习/C1.1=课程学习/C1.1.1=本科学习/樊昌信通信原理期末复习.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 2
+    },
+    "C1=学习/C1.1=课程学习/C1.1.1=本科学习/自控实验笔记.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Z2=模板库/().md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Y=归档-Archive/Study/【蓝桥杯-笔记】蓝桥杯笔记.md": {
+      "size": 19136,
+      "tags": 2,
+      "links": 0
+    },
+    "B1=纵览-Atlas/MOCs/-【MOC-合集】内容MOC合集.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 7
+    },
+    "B1=纵览-Atlas/MOCs/-【Obsidian-使用】My Obsidian使用手册.md": {
+      "size": 5748,
+      "tags": 3,
+      "links": 3
+    },
+    "B1=纵览-Atlas/MOCs/-【Obsidian-资源】Obsidian参考资料合集.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/02-Markdown/【Markdown-基础语法】Markdown的使用.md": {
+      "size": 6769,
+      "tags": 1,
+      "links": 2
+    },
+    "B2=参考-Handbook/02-Markdown/【Markdown-语法教程】MarkDown超级教程 Obsidian版 2022.1.12.md": {
+      "size": 64604,
+      "tags": 1,
+      "links": 7
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-指南-Johnny学OB】OB所有第三方插件简介.md": {
+      "size": 52257,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md": {
+      "size": 2788,
+      "tags": 2,
+      "links": 43
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Admonition-文本渲染.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Advanced Obsidian URI.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Advanced Tables-表格工具.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Auto Link Title-自动识别链接.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Banners.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Buttons.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Calendar-日历视图插件.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Citations.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Collapse All.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Commits-可视化的笔记仪表盘.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Convert an url into an iframe.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Copy button for code blocks-代码块的复制按钮.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Customizable Menu.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】DataView.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Editor Syntax Highlight-代码高亮工具.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Enhancing Mindmap-思维导图增强.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Excalidraw-Excalidraw 白板支持.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Gallery.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Highlightr.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Homepage.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Icon Folder.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Image auto upload Plugin.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Kanban-看板视图.md": {
+      "size": 3774,
+      "tags": 1,
+      "links": 2
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Mind Map-思维导图视图.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Media Extended BiliBili Plugin-视频增强的Bilibili支持.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 2
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Note Refactor-笔记拆分和重组插件.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Obsidian Charts-交互式图表.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Obsidian Tabs-标签式窗口插件.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Outliner-列表增强, 大纲编辑模式.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Pandoc.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Ozan's Image inEditor Plugin.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Paste image rename-粘贴图片重命名.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】proxy github.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Privacy Glasses-毛玻璃隐私保护.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Recent File.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Remotely Save.md": {
+      "size": 511,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Table Extended.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Sliding Panes (Andy's Mode)-滑动窗口插件.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Media Extended-视频增强.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Tag Wrangler-标签增强工具.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Tasks.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Templater-模板增强.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Text {{expand}}-关键词的MOC.md": {
+      "size": 3707,
+      "tags": 1,
+      "links": 65
+    },
+    "B2=参考-Handbook/03-Obsidian/指南/【Obsidian-入门-视频】由此开始Obsidian使用教程-入门介绍与Markdown详解 by IOI科技.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "B2=参考-Handbook/03-Obsidian/指南/【Obsidian-入门】obsidian 新手不完全指南 - 经验分享 - Obsidian 中文论坛.md": {
+      "size": 23966,
+      "tags": 2,
+      "links": 0
+    },
+    "B2=参考-Handbook/03-Obsidian/配置/【Obsidian-配置】手机端同步.md": {
+      "size": 416,
+      "tags": 2,
+      "links": 0
+    },
+    "B2=参考-Handbook/01-Take Notes/-【Noting-Moc】笔记方法汇总Moc.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "B2=参考-Handbook/04-Zotero/插件/【Zotero-插件】Better BibLatex.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 0
+    },
+    "B2=参考-Handbook/04-Zotero/插件/【Zotero-插件】Jasminum - 茉莉花.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "B2=参考-Handbook/04-Zotero/插件/【Zotero-插件】Zotefile.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "B2=参考-Handbook/04-Zotero/指南/【Zotero-教程】Zotero：科研小白的第一款文献管理软件.md": {
+      "size": 39021,
+      "tags": 0,
+      "links": 0
+    },
+    "B2=参考-Handbook/05-Notion/【Notion-账号】Notion edu邮箱.md": {
+      "size": 101,
+      "tags": 1,
+      "links": 0
+    },
+    "B2=参考-Handbook/10-Dos/【Dos-基础命令】基本的Dos命令.md": {
+      "size": 1197,
+      "tags": 1,
+      "links": 1
+    },
+    "C2=专题-Specialty/卡片盒笔记法/-【卡片盒笔记法-MOC】.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 1
+    },
+    "C2=专题-Specialty/Git&Github/-【Git&Github-Moc】Git和Github的学习Moc.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "C2=专题-Specialty/Obsidian学习/-【Obsidian-教程-Johnny学OB】MOC.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 18
+    },
+    "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】01 做读书笔记.md": {
+      "size": 1053,
+      "tags": 2,
+      "links": 1
+    },
+    "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】02 自动生成思维导图，一键做视频笔记时间戳.md": {
+      "size": 1745,
+      "tags": 2,
+      "links": 4
+    },
+    "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】03 PDF转知识关系图谱.md": {
+      "size": 1145,
+      "tags": 2,
+      "links": 1
+    },
+    "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】04 即时预览（已支持）.md": {
+      "size": 438,
+      "tags": 2,
+      "links": 1
+    },
+    "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】05 第三方插件合集.md": {
+      "size": 1044,
+      "tags": 3,
+      "links": 2
+    },
+    "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】06 手动安装第三方插件.md": {
+      "size": 727,
+      "tags": 2,
+      "links": 1
+    },
+    "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】07 OB新手终极入门库，含大量资源.md": {
+      "size": 791,
+      "tags": 3,
+      "links": 1
+    },
+    "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】08 Obsidian记录笔记链接成长过程.md": {
+      "size": 596,
+      "tags": 2,
+      "links": 1
+    },
+    "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】09 用OB学习唐诗三百首.md": {
+      "size": 1402,
+      "tags": 2,
+      "links": 1
+    },
+    "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】10 Obsidian纯文本处理.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】11 嵌入多媒体，仿Notion.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】12 OB和Pandoc插件制作PPT课件.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】28 Zotero与Obsidian联动简介.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 2
+    },
+    "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】30 Better BibLatex插件与Zetero联动.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 3
+    },
+    "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】32 Zetero的PDF阅读使用和Zotfile插件.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 3
+    },
+    "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】34 用Obsidian搭建个人数字主页.md": {
+      "size": 2186,
+      "tags": 2,
+      "links": 6
+    },
+    "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】35 用Obsidian搭建个人数字主页2.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 3
+    },
+    "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】53 Obsidian插件主题安装全拿下.md": {
+      "size": 909,
+      "tags": 2,
+      "links": 3
+    },
+    "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-负色玻离子】Obsidian实现卡片盒笔记法.md": {
+      "size": 369,
+      "tags": 2,
+      "links": 0
+    },
+    "C2=专题-Specialty/驾考/【驾考-笔记】驾考笔记.md": {
+      "size": 3343,
+      "tags": 1,
+      "links": 0
+    },
+    "B3=资源-Sources/Literature/@2022-梁正平-基于存档和权值扩展的大规模多目标优化算法-计.md": {
+      "size": 1586,
+      "tags": 0,
+      "links": 0
+    },
+    "A=收集-Inbox/Default/ACCESS笔记组织法.md": {
+      "size": 3255,
+      "tags": 0,
+      "links": 2
+    },
+    "B3=资源-Sources/Literature/@--基于优化ZigBee的特高压直流微安表的设计-.md": {
+      "size": 483,
+      "tags": 0,
+      "links": 0
+    },
+    "C1=项目-Project/毕业设计/准备事项/准备事项清单.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "C1=项目-Project/考研学习/D2.2=考研数学/【数学-素养课】考研数学素养课.md": {
+      "size": 927,
+      "tags": 0,
+      "links": 0
+    },
+    "C1=项目-Project/Python全栈/Python基础/【爬虫-笔记】Python 网络爬虫.md": {
+      "size": 3627,
+      "tags": 4,
+      "links": 0
+    },
+    "C1=项目-Project/Python全栈/数据分析/【数据可视化-极客时间】3小时Python 数据分析和可视化.md": {
+      "size": 10230,
+      "tags": 3,
+      "links": 0
+    },
+    "C1=项目-Project/Python全栈/机器学习/【机器学习-吴恩达-EN】机器学习-吴恩达 笔记.md": {
+      "size": 73500,
+      "tags": 3,
+      "links": 0
+    },
+    "A=收集-Inbox/Clip/玩转 Obsidian：以知识内化为目标，做好阅读和记录.md": {
+      "size": 14948,
+      "tags": 0,
+      "links": 0
+    },
+    "A=收集-Inbox/Default/YAML.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "A=收集-Inbox/Daily/2022-07-13-周三.md": {
+      "size": 119,
+      "tags": 1,
+      "links": 2
+    },
+    "Z=附件-Extras/Template/T_DailyNote.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Z=附件-Extras/Template/T_PluginNote.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "Z=附件-Extras/Template/T_Metadata.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "Z=附件-Extras/Template/T_Jhonny学OB.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "A=收集-Inbox/Clip/玩转 Obsidian 01：打造知识循环利器.md": {
+      "size": 31821,
+      "tags": 0,
+      "links": 1
+    },
+    "A=收集-Inbox/Default/B站视频和飞书妙计联动.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Style Setting.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Advanced Slides.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】MarkDown，YAML，HTML，CSS，Javascript，了解个大.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 3
+    },
+    "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】Advanced Slides在OB中做阅读器.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 3
+    }
+  },
+  "commitTypes": {
+    "/": {
+      "Refactor": 1591,
+      "Create": 203,
+      "Link": 299,
+      "Expand": 13
+    }
+  },
+  "dailyCommits": {
+    "/": {
+      "0": 0,
+      "1": 10,
+      "2": 16,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 16,
+      "8": 194,
+      "9": 867,
+      "10": 252,
+      "11": 33,
+      "12": 2,
+      "13": 0,
+      "14": 1,
+      "15": 43,
+      "16": 62,
+      "17": 92,
+      "18": 19,
+      "19": 0,
+      "20": 172,
+      "21": 205,
+      "22": 122,
+      "23": 0
+    }
+  },
+  "weeklyCommits": {
+    "/": {
+      "Mon": 14,
+      "Tue": 215,
+      "Wed": 1324,
+      "Thu": 188,
+      "Fri": 63,
+      "Sat": 0,
+      "Sun": 302
+    }
+  },
+  "recentCommits": {
+    "/": {
+      "Expanded": [
+        "<a class=\"internal-link\" href=\"D1=Python全栈/Python 网络爬虫.md\"> Python 网络爬虫 </a>",
+        "<a class=\"internal-link\" href=\"D1=Python全栈/Python 网络爬虫.md\"> Python 网络爬虫 </a>",
+        "<a class=\"internal-link\" href=\"C1=学习/C1.1=课程学习/通信原理期末复习大纲.md\"> 通信原理期末复习大纲 </a>",
+        "<a class=\"internal-link\" href=\"C1=学习/C1.1=课程学习/通信原理期末复习大纲.md\"> 通信原理期末复习大纲 </a>",
+        "<a class=\"internal-link\" href=\"C1=学习/C1.1=课程学习/通信原理期末复习大纲.md\"> 通信原理期末复习大纲 </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/01-Obsidian/插件/【Obsidian-插件】Text {{expand}}-关键词的MOC.md\"> 【Obsidian-插件】Text {{expand}}-关键词的MOC </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/01-Obsidian/插件/【Obsidian-插件】Kanban-看板视图.md\"> 【Obsidian-插件】Kanban-看板视图 </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/01-Obsidian/插件/【Obsidian-插件】Text {{expand}}-关键词的MOC.md\"> 【Obsidian-插件】Text {{expand}}-关键词的MOC </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/01-Obsidian/插件/-【Obsidian-插件】插件MOC.md\"> -【Obsidian-插件】插件MOC </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/01-Obsidian学习/【Obsidian-教程-Johnny学OB】34 用Obsidian搭建个人数字主页.md\"> 【Obsidian-教程-Johnny学OB】34 用Obsidian搭建个人数字主页 </a>",
+        "<a class=\"internal-link\" href=\"B1=总览/01-使用手册/-【Obsidian-使用】My Obsidian使用手册.md\"> -【Obsidian-使用】My Obsidian使用手册 </a>",
+        "<a class=\"internal-link\" href=\"ACCESS笔记组织法.md\"> ACCESS笔记组织法 </a>",
+        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md\"> -【Obsidian-插件】Obsidian插件MOC </a>"
+      ],
+      "Created": [
+        "<a class=\"internal-link\" href=\"B1=纵览-Atlas/Scopes/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/B站视频和飞书妙计联动.md\"> B站视频和飞书妙计联动 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/【Obsidian-插件】Advanced Slides.md\"> 【Obsidian-插件】Advanced Slides </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Clip/玩转 Obsidian 01：打造知识循环利器.md\"> 玩转 Obsidian 01：打造知识循环利器 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-12.md\"> 2022-07-12 </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/【模板-插件记录】.md\"> 【模板-插件记录】 </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/【模板-Johnny学OB笔记】.md\"> 【模板-Johnny学OB笔记】 </a>",
+        "<a class=\"internal-link\" href=\"_debug_remotely_save/log_hist_exported_on_1657616653575.md\"> log_hist_exported_on_1657616653575 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-13-周三.md\"> 2022-07-13-周三 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/未命名 1.md\"> 未命名 1 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-13-周三.md\"> 2022-07-13-周三 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-13-周三.md\"> 2022-07-13-周三 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-13-周三.md\"> 2022-07-13-周三 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-13-周三.md\"> 2022-07-13-周三 </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"2022-07-13.md\"> 2022-07-13 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/2022-07-13-周三.md\"> 2022-07-13-周三 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/{{Date}}.md\"> {{Date}} </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Clip/玩转 Obsidian：以知识内化为目标，做好阅读和记录.md\"> 玩转 Obsidian：以知识内化为目标，做好阅读和记录 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"B3=资源-Sources/Literature/@--基于优化ZigBee的特高压直流微安表的设计-.md\"> @--基于优化ZigBee的特高压直流微安表的设计- </a>",
+        "<a class=\"internal-link\" href=\"2022-07-13.md\"> 2022-07-13 </a>",
+        "<a class=\"internal-link\" href=\"ACCESS笔记组织法.md\"> ACCESS笔记组织法 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A1=默认收集箱/【Obsidian-插件】Style Setting.md\"> 【Obsidian-插件】Style Setting </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A1=默认收集箱/2022-07-12.md\"> 2022-07-12 </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/02-Obsidian/插件/【Obsidian-插件】Remotely Save.md\"> 【Obsidian-插件】Remotely Save </a>",
+        "<a class=\"internal-link\" href=\"_debug_remotely_save/log_hist_exported_on_1657616653575.md\"> log_hist_exported_on_1657616653575 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A1=默认收集箱/【Obsidian-插件】Remotely Save.md\"> 【Obsidian-插件】Remotely Save </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/02-Obsidian/插件/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/01-Noting/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A1=默认收集箱/Pro Git.md\"> Pro Git </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Git&Github/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A2=简悦收集箱/Zotero：科研小白的第一款文献管理软件.md\"> Zotero：科研小白的第一款文献管理软件 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A1=默认收集箱/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A1=默认收集箱/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A3=文献收集箱/@2022-梁正平-基于存档和权值扩展的大规模多目标优化算法-计.md\"> @2022-梁正平-基于存档和权值扩展的大规模多目标优化算法-计 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A3=文献收集箱/@2022-梁正平-基于存档和权值扩展的大规模多目标优化算法-计.md\"> @2022-梁正平-基于存档和权值扩展的大规模多目标优化算法-计 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A3=文献收集箱/@LiangZhengPing2022.md\"> @LiangZhengPing2022 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A3=文献收集箱/@LiangZhengPing2022.md\"> @LiangZhengPing2022 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A3=文献收集箱/@LiangZhengPing2022.md\"> @LiangZhengPing2022 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A3=文献收集箱/@1961-Relativity_ The special and the general theory-Albert Einstein, Robert W. Lawson.md\"> @1961-Relativity_ The special and the general theory-Albert Einstein, Robert W. Lawson </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A3=文献收集箱/@2022-基于存档和权值扩展的大规模多目标优化算法-梁正平, 刘程, 王志强, 明仲, 朱泽轩.md\"> @2022-基于存档和权值扩展的大规模多目标优化算法-梁正平, 刘程, 王志强, 明仲, 朱泽轩 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A3=文献收集箱/@基于存档和权值扩展的大规模多目标优化算法.md\"> @基于存档和权值扩展的大规模多目标优化算法 </a>"
+      ],
+      "Renamed": [
+        "<a class=\"internal-link\" href=\"B1=纵览-Atlas/Scopes/test Advanced.md\"> test Advanced </a>",
+        "<a class=\"internal-link\" href=\"C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】Advanced Slides在OB中做阅读器.md\"> 【Obsidian-教程-Johnny学OB】Advanced Slides在OB中做阅读器 </a>",
+        "<a class=\"internal-link\" href=\"C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】MarkDown，YAML，HTML，CSS，Javascript，了解个大.md\"> 【Obsidian-教程-Johnny学OB】MarkDown，YAML，HTML，CSS，Javascript，了解个大 </a>",
+        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Advanced Slides.md\"> 【Obsidian-插件】Advanced Slides </a>",
+        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Style Setting.md\"> 【Obsidian-插件】Style Setting </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/T_Jhonny学OB.md\"> T_Jhonny学OB </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/T_Metadata.md\"> T_Metadata </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/T_PluginNote.md\"> T_PluginNote </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/T_DailyNote.md\"> T_DailyNote </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/T元数据.md\"> T元数据 </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/T插件记录.md\"> T插件记录 </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/元数据模板.md\"> 元数据模板 </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/日记模板.md\"> 日记模板 </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/插件note.md\"> 插件note </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/YAML.md\"> YAML </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/dailynote.md\"> dailynote </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/daily diary.md\"> daily diary </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/metadata.md\"> metadata </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/新建metadata模板.md\"> 新建metadata模板 </a>",
+        "<a class=\"internal-link\" href=\"C1=项目-Project/Python全栈/机器学习/【机器学习-吴恩达-EN】机器学习-吴恩达 笔记.md\"> 【机器学习-吴恩达-EN】机器学习-吴恩达 笔记 </a>",
+        "<a class=\"internal-link\" href=\"C1=项目-Project/Python全栈/数据分析/【数据可视化-极客时间】3小时Python 数据分析和可视化.md\"> 【数据可视化-极客时间】3小时Python 数据分析和可视化 </a>",
+        "<a class=\"internal-link\" href=\"C1=项目-Project/Python全栈/Python基础/【爬虫-笔记】Python 网络爬虫.md\"> 【爬虫-笔记】Python 网络爬虫 </a>",
+        "<a class=\"internal-link\" href=\"C1=项目-Project/考研学习/D2.2=考研数学/【数学-素养课】考研数学素养课.md\"> 【数学-素养课】考研数学素养课 </a>",
+        "<a class=\"internal-link\" href=\"C1=项目-Project/毕业设计/准备事项/准备事项清单.md\"> 准备事项清单 </a>",
+        "<a class=\"internal-link\" href=\"Y=归档-Archive/C1=项目-Project/Python全栈/机器学习/【机器学习-吴恩达-EN】机器学习-吴恩达 笔记.md\"> 【机器学习-吴恩达-EN】机器学习-吴恩达 笔记 </a>",
+        "<a class=\"internal-link\" href=\"Y=归档-Archive/C1=项目-Project/Python全栈/数据分析/【数据可视化-极客时间】3小时Python 数据分析和可视化.md\"> 【数据可视化-极客时间】3小时Python 数据分析和可视化 </a>",
+        "<a class=\"internal-link\" href=\"Y=归档-Archive/C1=项目-Project/Python全栈/Python基础/【爬虫-笔记】Python 网络爬虫.md\"> 【爬虫-笔记】Python 网络爬虫 </a>",
+        "<a class=\"internal-link\" href=\"Y=归档-Archive/C1=项目-Project/考研学习/D2.2=考研数学/【数学-素养课】考研数学素养课.md\"> 【数学-素养课】考研数学素养课 </a>",
+        "<a class=\"internal-link\" href=\"Y=归档-Archive/C1=项目-Project/毕业设计/准备事项/准备事项清单.md\"> 准备事项清单 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/ACCESS笔记组织法.md\"> ACCESS笔记组织法 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/【Obsidian-插件】Style Setting.md\"> 【Obsidian-插件】Style Setting </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-12.md\"> 2022-07-12 </a>",
+        "<a class=\"internal-link\" href=\"B3=资源-Sources/Literature/@2022-梁正平-基于存档和权值扩展的大规模多目标优化算法-计.md\"> @2022-梁正平-基于存档和权值扩展的大规模多目标优化算法-计 </a>",
+        "<a class=\"internal-link\" href=\"C2=专题-Specialty/驾考/【驾考-笔记】驾考笔记.md\"> 【驾考-笔记】驾考笔记 </a>",
+        "<a class=\"internal-link\" href=\"C2=专题-Specialty/【驾考-笔记】驾考笔记.md\"> 【驾考-笔记】驾考笔记 </a>",
+        "<a class=\"internal-link\" href=\"C1=项目-Project/Python全栈/机器学习/【机器学习-吴恩达-EN】机器学习-吴恩达 笔记.md\"> 【机器学习-吴恩达-EN】机器学习-吴恩达 笔记 </a>",
+        "<a class=\"internal-link\" href=\"C1=项目-Project/Python全栈/数据分析/【数据可视化-极客时间】3小时Python 数据分析和可视化.md\"> 【数据可视化-极客时间】3小时Python 数据分析和可视化 </a>",
+        "<a class=\"internal-link\" href=\"C1=项目-Project/Python全栈/Python基础/【爬虫-笔记】Python 网络爬虫.md\"> 【爬虫-笔记】Python 网络爬虫 </a>",
+        "<a class=\"internal-link\" href=\"C1=项目-Project/考研学习/D2.2=考研数学/【数学-素养课】考研数学素养课.md\"> 【数学-素养课】考研数学素养课 </a>",
+        "<a class=\"internal-link\" href=\"C1=项目-Project/毕业设计/准备事项/准备事项清单.md\"> 准备事项清单 </a>",
+        "<a class=\"internal-link\" href=\"C2=专题-Specialty/Obsidian学习/【Obsidian-教程-负色玻离子】Obsidian实现卡片盒笔记法.md\"> 【Obsidian-教程-负色玻离子】Obsidian实现卡片盒笔记法 </a>",
+        "<a class=\"internal-link\" href=\"C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】53 Obsidian插件主题安装全拿下.md\"> 【Obsidian-教程-Johnny学OB】53 Obsidian插件主题安装全拿下 </a>",
+        "<a class=\"internal-link\" href=\"C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】35 用Obsidian搭建个人数字主页2.md\"> 【Obsidian-教程-Johnny学OB】35 用Obsidian搭建个人数字主页2 </a>",
+        "<a class=\"internal-link\" href=\"C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】34 用Obsidian搭建个人数字主页.md\"> 【Obsidian-教程-Johnny学OB】34 用Obsidian搭建个人数字主页 </a>",
+        "<a class=\"internal-link\" href=\"C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】32 Zetero的PDF阅读使用和Zotfile插件.md\"> 【Obsidian-教程-Johnny学OB】32 Zetero的PDF阅读使用和Zotfile插件 </a>",
+        "<a class=\"internal-link\" href=\"C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】30 Better BibLatex插件与Zetero联动.md\"> 【Obsidian-教程-Johnny学OB】30 Better BibLatex插件与Zetero联动 </a>",
+        "<a class=\"internal-link\" href=\"C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】28 Zotero与Obsidian联动简介.md\"> 【Obsidian-教程-Johnny学OB】28 Zotero与Obsidian联动简介 </a>",
+        "<a class=\"internal-link\" href=\"C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】12 OB和Pandoc插件制作PPT课件.md\"> 【Obsidian-教程-Johnny学OB】12 OB和Pandoc插件制作PPT课件 </a>",
+        "<a class=\"internal-link\" href=\"C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】11 嵌入多媒体，仿Notion.md\"> 【Obsidian-教程-Johnny学OB】11 嵌入多媒体，仿Notion </a>",
+        "<a class=\"internal-link\" href=\"C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】10 Obsidian纯文本处理.md\"> 【Obsidian-教程-Johnny学OB】10 Obsidian纯文本处理 </a>",
+        "<a class=\"internal-link\" href=\"C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】09 用OB学习唐诗三百首.md\"> 【Obsidian-教程-Johnny学OB】09 用OB学习唐诗三百首 </a>"
+      ],
+      "Tagged": [
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/B站视频和飞书妙计联动.md\"> B站视频和飞书妙计联动 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/【Obsidian-教程-Johnny学OB】Advanced Slides在OB中做阅读器.md\"> 【Obsidian-教程-Johnny学OB】Advanced Slides在OB中做阅读器 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/【Obsidian-插件】Advanced Slides.md\"> 【Obsidian-插件】Advanced Slides </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/【模板-Johnny学OB笔记】.md\"> 【模板-Johnny学OB笔记】 </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/【模板-插件记录】.md\"> 【模板-插件记录】 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-13-周三.md\"> 2022-07-13-周三 </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/metadata.md\"> metadata </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/dailynote.md\"> dailynote </a>",
+        "<a class=\"internal-link\" href=\"B1=总览/01-使用手册/-【Obsidian-使用】My Obsidian使用手册.md\"> -【Obsidian-使用】My Obsidian使用手册 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A1=默认收集箱/【Obsidian-插件】Style Setting.md\"> 【Obsidian-插件】Style Setting </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/02-Obsidian/插件/【Obsidian-插件】Remotely Save.md\"> 【Obsidian-插件】Remotely Save </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A1=默认收集箱/【Obsidian-插件】Remotely Save.md\"> 【Obsidian-插件】Remotely Save </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/04-Zotero/【Zotero-插件】Jasminum - 茉莉花.md\"> 【Zotero-插件】Jasminum - 茉莉花 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A1=默认收集箱/【Zotero-插件】Better BibLatex.md\"> 【Zotero-插件】Better BibLatex </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A1=默认收集箱/【Zotero-插件】Zotefile.md\"> 【Zotero-插件】Zotefile </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Obsidian学习/【Obsidian-教程-Johnny学OB】30 Better BibLatex插件与Zetero联动.md\"> 【Obsidian-教程-Johnny学OB】30 Better BibLatex插件与Zetero联动 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Obsidian学习/【Obsidian-教程-Johnny学OB】32 Zetero的PDF阅读使用和Zotfile插件.md\"> 【Obsidian-教程-Johnny学OB】32 Zetero的PDF阅读使用和Zotfile插件 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/卡片盒笔记法/【卡片笔记-论文】卡片笔记写作法写论文的步骤方法.md\"> 【卡片笔记-论文】卡片笔记写作法写论文的步骤方法 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A1=默认收集箱/【Zotero-插件】Better BibLatex.md\"> 【Zotero-插件】Better BibLatex </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/【Obsidian-插件】Citations.md\"> 【Obsidian-插件】Citations </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Obsidian学习/【Obsidian-教程-Johnny学OB】28 Zotero与Obsidian联动01.md\"> 【Obsidian-教程-Johnny学OB】28 Zotero与Obsidian联动01 </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/01-Obsidian/插件/【Obsidian-插件】Copy button for code blocks-代码块的复制按钮.md\"> 【Obsidian-插件】Copy button for code blocks-代码块的复制按钮 </a>",
+        "<a class=\"internal-link\" href=\"Z2=模板库/【模板-插件记录】.md\"> 【模板-插件记录】 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/01-Obsidian学习/【Obsidian-教程-Johnny学OB】35 用Obsidian搭建个人数字主页2.md\"> 【Obsidian-教程-Johnny学OB】35 用Obsidian搭建个人数字主页2 </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/01-Obsidian/插件/【Obsidian-插件】Recent File.md\"> 【Obsidian-插件】Recent File </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/01-Obsidian/插件/【Obsidian-插件】Advanced Obsidian URI.md\"> 【Obsidian-插件】Advanced Obsidian URI </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/01-Obsidian/插件/-【Obsidian-插件】插件MOC.md\"> -【Obsidian-插件】插件MOC </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/【Obsidian-插件】Tasks.md\"> 【Obsidian-插件】Tasks </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/【Obsidian-插件】Homepage.md\"> 【Obsidian-插件】Homepage </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/【Obsidian-插件】Buttons.md\"> 【Obsidian-插件】Buttons </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/01-Obsidian学习/【Obsidian-教程-Johnny学OB】34 用Obsidian搭建个人数字主页.md\"> 【Obsidian-教程-Johnny学OB】34 用Obsidian搭建个人数字主页 </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/01-Obsidian/插件/【Obsidian-插件】Pandoc.md\"> 【Obsidian-插件】Pandoc </a>",
+        "<a class=\"internal-link\" href=\"B2=Todo/【清单-学习计划】.md\"> 【清单-学习计划】 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/【Obsidian-插件】Banners.md\"> 【Obsidian-插件】Banners </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-项目/Obsidian学习/【Obsidian-教程-Johnny学OB】12 OB和Pandoc插件制作PPT课件.md\"> 【Obsidian-教程-Johnny学OB】12 OB和Pandoc插件制作PPT课件 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-项目/Obsidian学习/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"E1=Python全栈/E1.3=机器学习/【机器学习-吴恩达-EN】机器学习-吴恩达 笔记.md\"> 【机器学习-吴恩达-EN】机器学习-吴恩达 笔记 </a>",
+        "<a class=\"internal-link\" href=\"E1=Python全栈/E1.2=数据分析/【数据可视化-极客时间】3小时Python 数据分析和可视化.md\"> 【数据可视化-极客时间】3小时Python 数据分析和可视化 </a>",
+        "<a class=\"internal-link\" href=\"Y1=Done-学习/【蓝桥杯-笔记】蓝桥杯笔记.md\"> 【蓝桥杯-笔记】蓝桥杯笔记 </a>",
+        "<a class=\"internal-link\" href=\"Y1=Done-学习/【通信原理-期末复习】通信原理期末复习大纲.md\"> 【通信原理-期末复习】通信原理期末复习大纲 </a>",
+        "<a class=\"internal-link\" href=\"E1=Python全栈/E1.1=Python基础/【爬虫-笔记】Python 网络爬虫.md\"> 【爬虫-笔记】Python 网络爬虫 </a>",
+        "<a class=\"internal-link\" href=\"E1=Python全栈/E1.3=机器学习/【机器学习-吴恩达-EN】机器学习-吴恩达 笔记.md\"> 【机器学习-吴恩达-EN】机器学习-吴恩达 笔记 </a>",
+        "<a class=\"internal-link\" href=\"E1=Python全栈/E1.2=数据分析/【数据可视化-极客时间】3小时Python 数据分析和可视化.md\"> 【数据可视化-极客时间】3小时Python 数据分析和可视化 </a>",
+        "<a class=\"internal-link\" href=\"C2=Doing-课题/卡片盒笔记法/-【卡片盒笔记法-MOC】.md\"> -【卡片盒笔记法-MOC】 </a>",
+        "<a class=\"internal-link\" href=\"C2=Doing-课题/驾考/【驾考-笔记】驾考笔记.md\"> 【驾考-笔记】驾考笔记 </a>",
+        "<a class=\"internal-link\" href=\"Y1=Done-学习/【蓝桥杯-笔记】蓝桥杯笔记.md\"> 【蓝桥杯-笔记】蓝桥杯笔记 </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/10-Dos/【Dos-基础命令】基本的Dos命令.md\"> 【Dos-基础命令】基本的Dos命令 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-项目/Obsidian学习/【Obsidian-教程-Johnny学OB】01 做读书笔记.md\"> 【Obsidian-教程-Johnny学OB】01 做读书笔记 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-项目/Obsidian学习/【Obsidian-教程-Johnny学OB】02 自动生成思维导图，一键做视频笔记时间戳.md\"> 【Obsidian-教程-Johnny学OB】02 自动生成思维导图，一键做视频笔记时间戳 </a>"
+      ],
+      "Refactored": [
+        "<a class=\"internal-link\" href=\"B1=参考/01-Obsidian/插件/【Obsidian-插件】插件MOC.md\"> 【Obsidian-插件】插件MOC </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/01-Obsidian/插件/【Obsidian-插件】插件MOC.md\"> 【Obsidian-插件】插件MOC </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/01-Obsidian/插件/【Obsidian-插件】插件MOC.md\"> 【Obsidian-插件】插件MOC </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/01-Obsidian/插件/【Obsidian-插件】插件MOC.md\"> 【Obsidian-插件】插件MOC </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/01-Obsidian/插件/-【Obsidian-插件】插件MOC.md\"> -【Obsidian-插件】插件MOC </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/ACCESS笔记组织法.md\"> ACCESS笔记组织法 </a>"
+      ],
+      "Deleted": [
+        "<a class=\"internal-link\" href=\"B1=纵览-Atlas/Scopes/test Advanced.md\"> test Advanced </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/新建metadata模板.md\"> 新建metadata模板 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-12.md\"> 2022-07-12 </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/【模板-插件记录】.md\"> 【模板-插件记录】 </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/【模板-Johnny学OB笔记】.md\"> 【模板-Johnny学OB笔记】 </a>",
+        "<a class=\"internal-link\" href=\"_debug_remotely_save/log_hist_exported_on_1657616653575.md\"> log_hist_exported_on_1657616653575 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-13-周三.md\"> 2022-07-13-周三 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-13-周三.md\"> 2022-07-13-周三 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-13-周三.md\"> 2022-07-13-周三 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-12.md\"> 2022-07-12 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-13-周三.md\"> 2022-07-13-周三 </a>",
+        "<a class=\"internal-link\" href=\"2022-07-13.md\"> 2022-07-13 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/2022-07-13-周三.md\"> 2022-07-13-周三 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/{{Date}}.md\"> {{Date}} </a>",
+        "<a class=\"internal-link\" href=\"A1=收集-Inbox/Daily/2022-07-13.md\"> 2022-07-13 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/Pro Git.md\"> Pro Git </a>",
+        "<a class=\"internal-link\" href=\"_debug_remotely_save/log_hist_exported_on_1657616653575.md\"> log_hist_exported_on_1657616653575 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A1=默认收集箱/【Obsidian-插件】Remotely Save.md\"> 【Obsidian-插件】Remotely Save </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/卡片盒笔记法/【卡片笔记-论文】卡片笔记写作法写论文的步骤方法.md\"> 【卡片笔记-论文】卡片笔记写作法写论文的步骤方法 </a>",
+        "<a class=\"internal-link\" href=\"Y1=Done-学习/【通信原理-期末复习】通信原理期末复习大纲.md\"> 【通信原理-期末复习】通信原理期末复习大纲 </a>",
+        "<a class=\"internal-link\" href=\"B2=Todo/【清单-终身学习】.md\"> 【清单-终身学习】 </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/01-笔记法.md\"> 01-笔记法 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A1=默认收集箱/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A1=默认收集箱/时间数据的格式.md\"> 时间数据的格式 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A3=文献收集箱/@2022-梁正平-基于存档和权值扩展的大规模多目标优化算法-计算机学报.md\"> @2022-梁正平-基于存档和权值扩展的大规模多目标优化算法-计算机学报 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A3=文献收集箱/@LiangZhengPing2022.md\"> @LiangZhengPing2022 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A3=文献收集箱/@LiangZhengPing2022.md\"> @LiangZhengPing2022 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A3=文献收集箱/@LiangZhengPing2022.md\"> @LiangZhengPing2022 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A3=文献收集箱/@2022-基于存档和权值扩展的大规模多目标优化算法-梁正平, 刘程, 王志强, 明仲, 朱泽轩.md\"> @2022-基于存档和权值扩展的大规模多目标优化算法-梁正平, 刘程, 王志强, 明仲, 朱泽轩 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A3=文献收集箱/@1961-Relativity_ The special and the general theory-Albert Einstein, Robert W. Lawson.md\"> @1961-Relativity_ The special and the general theory-Albert Einstein, Robert W. Lawson </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A3=文献收集箱/@基于存档和权值扩展的大规模多目标优化算法.md\"> @基于存档和权值扩展的大规模多目标优化算法 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A3=文献收集箱/@LiangZhengPing2022.md\"> @LiangZhengPing2022 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A3=文献收集箱/@http___zotero.org_users_9628012_items_3Q5E5LDC.md\"> @http___zotero.org_users_9628012_items_3Q5E5LDC </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Obsidian学习/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Obsidian学习/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A3=文献收集箱/@Einstein1961.md\"> @Einstein1961 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A1=默认收集箱/20220710-0910.png.md\"> 20220710-0910.png </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A1=默认收集箱/20220710-0910.png.md\"> 20220710-0910.png </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/@http___zotero.org_users_9628012_items_4HRHNRD4.md\"> @http___zotero.org_users_9628012_items_4HRHNRD4 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/【OB-指南-Johnny学OB】OB所有第三方插件简介.md\"> 【OB-指南-Johnny学OB】OB所有第三方插件简介 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/MOC 理解.md\"> MOC 理解 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/01-Obsidian学习/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"B2=Todo/【清单-学习计划】.md\"> 【清单-学习计划】 </a>",
+        "<a class=\"internal-link\" href=\"B2=Todo/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/未命名看板.md\"> 未命名看板 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/www.baidu.com.md\"> www.baidu.com </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/【OB-教程-Johnny学OB】01 做读书笔记.md\"> 【OB-教程-Johnny学OB】01 做读书笔记 </a>"
+      ],
+      "Linked": [
+        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md\"> -【Obsidian-插件】Obsidian插件MOC </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-13-周三.md\"> 2022-07-13-周三 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/【Obsidian-教程-Johnny学OB】Advanced Slides在OB中做阅读器.md\"> 【Obsidian-教程-Johnny学OB】Advanced Slides在OB中做阅读器 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/【Obsidian-教程-Johnny学OB】MarkDown，YAML，HTML，CSS，Javascript，了解个大.md\"> 【Obsidian-教程-Johnny学OB】MarkDown，YAML，HTML，CSS，Javascript，了解个大 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/【Obsidian-教程-Johnny学OB】Advanced Slides在OB中做阅读器.md\"> 【Obsidian-教程-Johnny学OB】Advanced Slides在OB中做阅读器 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/【Obsidian-插件】Advanced Slides.md\"> 【Obsidian-插件】Advanced Slides </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/T_PluginNote.md\"> T_PluginNote </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Clip/玩转 Obsidian 01：打造知识循环利器.md\"> 玩转 Obsidian 01：打造知识循环利器 </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/【模板-Johnny学OB笔记】.md\"> 【模板-Johnny学OB笔记】 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-13-周三.md\"> 2022-07-13-周三 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/metadata.md\"> metadata </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/dailynote.md\"> dailynote </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/新建metadata模板.md\"> 新建metadata模板 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/ACCESS笔记组织法.md\"> ACCESS笔记组织法 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/ACCESS笔记组织法.md\"> ACCESS笔记组织法 </a>",
+        "<a class=\"internal-link\" href=\"B=参考/00=Atlas/-【Obsidian-使用】My Obsidian使用手册.md\"> -【Obsidian-使用】My Obsidian使用手册 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A1=默认收集箱/【Obsidian-插件】Style Setting.md\"> 【Obsidian-插件】Style Setting </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/02-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md\"> -【Obsidian-插件】Obsidian插件MOC </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/02-Obsidian/插件/【Obsidian-插件】Remotely Save.md\"> 【Obsidian-插件】Remotely Save </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/A1=默认收集箱/【Obsidian-插件】Remotely Save.md\"> 【Obsidian-插件】Remotely Save </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/02-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md\"> -【Obsidian-插件】Obsidian插件MOC </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/00-我的使用手册/-【MOC-合集】内容MOC合集.md\"> -【MOC-合集】内容MOC合集 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Git&Github/-【Git&Github-Moc】Git和Github的学习Moc.md\"> -【Git&Github-Moc】Git和Github的学习Moc </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/00-我的使用手册/-【MOC-合集】内容MOC合集.md\"> -【MOC-合集】内容MOC合集 </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/01-Obsidian/插件/【Obsidian-插件】DataView.md\"> 【Obsidian-插件】DataView </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/01-Obsidian/插件/【Obsidian-插件】Text {{expand}}-关键词的MOC.md\"> 【Obsidian-插件】Text {{expand}}-关键词的MOC </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Obsidian学习/【Obsidian-教程-Johnny学OB】34 用Obsidian搭建个人数字主页.md\"> 【Obsidian-教程-Johnny学OB】34 用Obsidian搭建个人数字主页 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Obsidian学习/【Obsidian-教程-Johnny学OB】35 用Obsidian搭建个人数字主页2.md\"> 【Obsidian-教程-Johnny学OB】35 用Obsidian搭建个人数字主页2 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Obsidian学习/【Obsidian-教程-Johnny学OB】30 Better BibLatex插件与Zetero联动.md\"> 【Obsidian-教程-Johnny学OB】30 Better BibLatex插件与Zetero联动 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Obsidian学习/-【Obsidian-教程-Johnny学OB】MOC.md\"> -【Obsidian-教程-Johnny学OB】MOC </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Obsidian学习/【Obsidian-教程-Johnny学OB】32 Zetero的PDF阅读使用和Zotfile插件.md\"> 【Obsidian-教程-Johnny学OB】32 Zetero的PDF阅读使用和Zotfile插件 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Obsidian学习/【Obsidian-教程-Johnny学OB】32 Zetero的PDF阅读使用和Zotfile插件.md\"> 【Obsidian-教程-Johnny学OB】32 Zetero的PDF阅读使用和Zotfile插件 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Obsidian学习/【Obsidian-教程-Johnny学OB】32 Zetero的PDF阅读使用和Zotfile插件.md\"> 【Obsidian-教程-Johnny学OB】32 Zetero的PDF阅读使用和Zotfile插件 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Obsidian学习/-【Obsidian-教程-Johnny学OB】.md\"> -【Obsidian-教程-Johnny学OB】 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Obsidian学习/【Obsidian-教程-Johnny学OB】30 Better BibLatex插件与Zetero联动.md\"> 【Obsidian-教程-Johnny学OB】30 Better BibLatex插件与Zetero联动 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Obsidian学习/【Obsidian-教程-Johnny学OB】30 Better BibLatex插件与Zetero联动.md\"> 【Obsidian-教程-Johnny学OB】30 Better BibLatex插件与Zetero联动 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Obsidian学习/【Obsidian-教程-Johnny学OB】30 Better BibLatex插件与Zetero联动.md\"> 【Obsidian-教程-Johnny学OB】30 Better BibLatex插件与Zetero联动 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Obsidian学习/【Obsidian-教程-Johnny学OB】30 Better BibLatex插件与Zetero联动.md\"> 【Obsidian-教程-Johnny学OB】30 Better BibLatex插件与Zetero联动 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/01-Obsidian/插件/-【Obsidian-插件】插件MOC.md\"> -【Obsidian-插件】插件MOC </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Obsidian学习/【Obsidian-教程-Johnny学OB】28 Zotero与Obsidian联动01.md\"> 【Obsidian-教程-Johnny学OB】28 Zotero与Obsidian联动01 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Obsidian学习/【Obsidian-教程-Johnny学OB】28 Zotero与Obsidian联动01.md\"> 【Obsidian-教程-Johnny学OB】28 Zotero与Obsidian联动01 </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/01-Obsidian/插件/【Obsidian-插件】Copy button for code blocks-代码块的复制按钮.md\"> 【Obsidian-插件】Copy button for code blocks-代码块的复制按钮 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/卡片盒笔记法/-【卡片盒笔记法-MOC】.md\"> -【卡片盒笔记法-MOC】 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Obsidian学习/-【Obsidian-教程-Johnny学OB】.md\"> -【Obsidian-教程-Johnny学OB】 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/01-Obsidian学习/【Obsidian-教程-Johnny学OB】35 用Obsidian搭建个人数字主页2.md\"> 【Obsidian-教程-Johnny学OB】35 用Obsidian搭建个人数字主页2 </a>",
+        "<a class=\"internal-link\" href=\"Z2=模板库/【模板-插件记录】.md\"> 【模板-插件记录】 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/01-Obsidian学习/-【Obsidian-教程-Johnny学OB】.md\"> -【Obsidian-教程-Johnny学OB】 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/01-Obsidian学习/【Obsidian-教程-Johnny学OB】35 用Obsidian搭建个人数字主页2.md\"> 【Obsidian-教程-Johnny学OB】35 用Obsidian搭建个人数字主页2 </a>"
+      ],
+      "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"A2=来自手机/Note/【Notion-账号】Notion edu邮箱.md\"> 【Notion-账号】Notion edu邮箱 </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/Obsidian/【obsidian-配置】手机端同步.md\"> 【obsidian-配置】手机端同步 </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/Markdown/【Markdown-语法教程】MarkDown超级教程 Obsidian版 2022.1.12.md\"> 【Markdown-语法教程】MarkDown超级教程 Obsidian版 2022.1.12 </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/02-Markdown/【Markdown-语法教程】MarkDown超级教程 Obsidian版 2022.1.12.md\"> 【Markdown-语法教程】MarkDown超级教程 Obsidian版 2022.1.12 </a>",
+        "<a class=\"internal-link\" href=\"D1=Python全栈/D1.1=Python基础/【爬虫-笔记】Python 网络爬虫.md\"> 【爬虫-笔记】Python 网络爬虫 </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/11-Notion/【Notion-账号】Notion edu邮箱.md\"> 【Notion-账号】Notion edu邮箱 </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/02-Markdown/【Markdown-语法教程】MarkDown超级教程 Obsidian版 2022.1.12.md\"> 【Markdown-语法教程】MarkDown超级教程 Obsidian版 2022.1.12 </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/01-Obsidian/配置/【obsidian-配置】手机端同步.md\"> 【obsidian-配置】手机端同步 </a>",
+        "<a class=\"internal-link\" href=\"Z2=模板库/【模板-Johnny学OB笔记】.md\"> 【模板-Johnny学OB笔记】 </a>",
+        "<a class=\"internal-link\" href=\"C1=学习/C1.1=Doing/Johnny学OB/【OB-教程-Johnny学OB】02 自动生成思维导图，一键做视频笔记时间戳.md\"> 【OB-教程-Johnny学OB】02 自动生成思维导图，一键做视频笔记时间戳 </a>",
+        "<a class=\"internal-link\" href=\"C1=学习/C1.1=Doing/Johnny学OB/【OB-教程-Johnny学OB】01 做读书笔记.md\"> 【OB-教程-Johnny学OB】01 做读书笔记 </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/02-Markdown/【Markdown-语法教程】MarkDown超级教程 Obsidian版 2022.1.12.md\"> 【Markdown-语法教程】MarkDown超级教程 Obsidian版 2022.1.12 </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/01-Obsidian/指南/【Obsidian-入门】obsidian 新手不完全指南 - 经验分享 - Obsidian 中文论坛.md\"> 【Obsidian-入门】obsidian 新手不完全指南 - 经验分享 - Obsidian 中文论坛 </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/01-Obsidian/插件/【Obsidian-插件】Kanban-看板视图.md\"> 【Obsidian-插件】Kanban-看板视图 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/驾考/【驾考-笔记】驾考笔记.md\"> 【驾考-笔记】驾考笔记 </a>"
+      ],
+      "Removed Links from": [
+        "<a class=\"internal-link\" href=\"C1=学习/C1.1=课程学习/樊昌信通信原理期末复习.md\"> 樊昌信通信原理期末复习 </a>",
+        "<a class=\"internal-link\" href=\"C1=学习/C1.1=课程学习/通信原理期末复习大纲.md\"> 通信原理期末复习大纲 </a>",
+        "<a class=\"internal-link\" href=\"A=收集箱/MOC 理解.md\"> MOC 理解 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Obsidian学习/【Obsidian-教程-Johnny学OB】30 Better BibLatex插件与Zetero联动.md\"> 【Obsidian-教程-Johnny学OB】30 Better BibLatex插件与Zetero联动 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Obsidian学习/【Obsidian-教程-Johnny学OB】30 Better BibLatex插件与Zetero联动.md\"> 【Obsidian-教程-Johnny学OB】30 Better BibLatex插件与Zetero联动 </a>",
+        "<a class=\"internal-link\" href=\"B1=参考/02-Obsidian/配置/【Obsidian-配置】手机端同步.md\"> 【Obsidian-配置】手机端同步 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Obsidian学习/【Obsidian-教程-Johnny学OB】30 Better BibLatex插件与Zetero联动.md\"> 【Obsidian-教程-Johnny学OB】30 Better BibLatex插件与Zetero联动 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Obsidian学习/【Obsidian-教程-负色玻离子】Obsidian实现卡片盒笔记法.md\"> 【Obsidian-教程-负色玻离子】Obsidian实现卡片盒笔记法 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Obsidian学习/【Obsidian-教程-Johnny学OB】34 用Obsidian搭建个人数字主页.md\"> 【Obsidian-教程-Johnny学OB】34 用Obsidian搭建个人数字主页 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/Obsidian学习/【Obsidian-教程-Johnny学OB】32 Zetero的PDF阅读使用和Zotfile插件.md\"> 【Obsidian-教程-Johnny学OB】32 Zetero的PDF阅读使用和Zotfile插件 </a>",
+        "<a class=\"internal-link\" href=\"C1=Doing-课题/卡片盒笔记法/-【卡片盒笔记法-MOC】.md\"> -【卡片盒笔记法-MOC】 </a>",
+        "<a class=\"internal-link\" href=\"Z2=模板库/【模板-插件记录】.md\"> 【模板-插件记录】 </a>",
+        "<a class=\"internal-link\" href=\"B1=纵览-Atlas/MOCs/-【Obsidian-使用】My Obsidian使用手册.md\"> -【Obsidian-使用】My Obsidian使用手册 </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/dailynote.md\"> dailynote </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/未命名.md\"> 未命名 </a>"
+      ]
+    }
+  },
+  "ignoreList": [],
+  "divWidth": 50,
+  "divHeight": 400,
+  "divAlign": "left",
+  "topCommits": 2,
+  "commitThreshold": 2000,
+  "commitPerc": 15,
+  "fillColor": "rgba(51, 153, 204, 0.4)",
+  "borderColor": "rgba(51, 153, 204, 1)",
+  "gridColor": "grey"
+}

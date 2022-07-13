@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "B3=资源-Sources\\Literature",
+  "literatureNoteContentTemplate": "```ad-info\ntitle: Information\n#  {{title}}\n**authors**: {{authorString}}\n**year**: {{year}}\n**links**:   [ZoteroLink]({{zoteroSelectURI}})   |   [FilePath]({{entry.data.fields.file}})   |   [URL]({{URL}})\n```\n```ad-important\ntitle:Abstract\n&emsp;&emsp;{{abstract}}\n\n**keywords**： {{entry.data.fields.keywords}}\n```\n```ad-note\ntitle:Note\n{{note}}\n```\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "D:\\MY FILE\\B5=Zotero\\导出\\我的文库.bib"
+}

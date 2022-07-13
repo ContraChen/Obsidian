@@ -1,0 +1,30 @@
+{
+  "menuCommands": [
+    {
+      "name": "Kanban: 创建新看板",
+      "id": "obsidian-kanban:create-new-kanban-board",
+      "icon": "run-command"
+    },
+    {
+      "id": "editor:insert-embed",
+      "name": "嵌入内容",
+      "icon": "code-glyph"
+    },
+    {
+      "name": "Image auto upload Plugin: upload all images",
+      "id": "obsidian-image-auto-upload-plugin:upload all images",
+      "icon": "paper-plane"
+    },
+    {
+      "name": "导出为 PDF",
+      "id": "workspace:export-pdf",
+      "icon": "pdf-file"
+    },
+    {
+      "name": "Templater: Open Insert Template modal",
+      "id": "templater-obsidian:insert-templater",
+      "icon": "chrome"
+    }
+  ],
+  "hideTitles": []
+}
