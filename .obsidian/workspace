@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "defd4a58663d80af",
+        "id": "2b80225e00d5ce7d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "A=收集-Inbox/Daily/2022-07-14-周四.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -21,10 +26,10 @@
       {
         "id": "9829c25bff00bcb8",
         "type": "tabs",
-        "dimension": 64.58333333333333,
+        "dimension": 61.668839634941335,
         "children": [
           {
-            "id": "e3ab03563acffd71",
+            "id": "1d4d9862e681ff1b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -37,12 +42,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#app",
+                "query": "tag:#dailynote",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -59,7 +64,7 @@
       {
         "id": "36bb2cec5e36f24c",
         "type": "tabs",
-        "dimension": 35.416666666666664,
+        "dimension": 38.33116036505867,
         "children": [
           {
             "id": "5fb5b275729a1738",
@@ -67,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md",
+                "file": "A=收集-Inbox/Daily/2022-07-14-周四.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -95,12 +100,20 @@
                 }
               }
             }
+          },
+          {
+            "id": "9c84ad6af9dd59b9",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 389
+    "width": 275
   },
   "right": {
     "id": "65807b9ac34befb3",
@@ -109,7 +122,6 @@
       {
         "id": "635ef8ebb1eab5db",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "4b831222221e5560",
@@ -117,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md",
+                "file": "A=收集-Inbox/Daily/2022-07-14-周四.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md"
+                "file": "A=收集-Inbox/Daily/2022-07-14-周四.md"
               }
             }
           },
@@ -170,7 +182,6 @@
       {
         "id": "65d4654b9fbc7acf",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "65891281d0303e61",
@@ -224,25 +235,24 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 327,
     "collapsed": true
   },
-  "active": "defd4a58663d80af",
+  "active": "2b80225e00d5ce7d",
   "lastOpenFiles": [
-    "B1=纵览-Atlas/Scopes/test Advanced.md",
+    "A=收集-Inbox/Default/【Obsidian-插件】QuickAdd.md",
     "B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md",
+    "A=收集-Inbox/Default/【Obsidian-插件】hover editor-悬浮窗口插件.md",
     "B1=纵览-Atlas/MOCs/-【Obsidian-使用】My Obsidian使用手册.md",
-    "B1=纵览-Atlas/MOCs/-【Obsidian-资源】Obsidian参考资料合集.md",
-    "B1=纵览-Atlas/MOCs/-【MOC-合集】内容MOC合集.md",
-    "C2=专题-Specialty/Git&Github/-【Git&Github-Moc】Git和Github的学习Moc.md",
-    "A=收集-Inbox/Clip/玩转 Obsidian：以知识内化为目标，做好阅读和记录.md",
-    "A=收集-Inbox/Clip/玩转 Obsidian 01：打造知识循环利器.md",
-    "A=收集-Inbox/Daily/2022-07-13-周三.md",
-    "A=收集-Inbox/Default/B站视频和飞书妙计联动.md"
+    "A=收集-Inbox/Default/未命名.md",
+    "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】34 用Obsidian搭建个人数字主页.md",
+    "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】35 用Obsidian搭建个人数字主页2.md",
+    "A=收集-Inbox/Daily/2022-07-14-周四.md",
+    "A=收集-Inbox/Default/【Obsidian-教程-Johnny学OB】本地视频和飞书妙计联动.md",
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Customization Sidebar-侧边栏管理和增添.md"
   ]
 }

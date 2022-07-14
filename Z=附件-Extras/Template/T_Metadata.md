@@ -1,8 +1,12 @@
-- MetaData
-	- author:
-	- time:[[{{date}}]]{{time}}
-	- statue:
-	- tag： #todo 
-	- link：
-		- 
-- Content:
+---
+title: 
+date: 
+tags:
+  - 
+alias: 
+category: 
+stars: 
+from: 
+url: 
+---
+

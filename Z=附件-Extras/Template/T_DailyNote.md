@@ -1,11 +1,11 @@
 * Metadata
 	* date:{{date}}
-	* tag: #fleet
+	* tag: #dailynote 
 	* weather:
 	* address:
 * Dailynote
 	* Todo
-		* 
+		*  
 	* Fleeting
 		* 
 * Summary

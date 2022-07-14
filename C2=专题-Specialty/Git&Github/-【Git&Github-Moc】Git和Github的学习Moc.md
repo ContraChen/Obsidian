@@ -11,7 +11,7 @@ collapse: open
 [尚硅谷Git入门到精通全套教程（涵盖GitHub\Gitee码云\GitLab）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1vy4y1s7k6?share_source=copy_web)
 
 ## 书籍
-[[Pro Git|Pro Git]]
+[[【书籍-技术】Pro Git|Pro Git]]
 
 # 相关内容
 [自学Git，有哪些书籍或者好的学习资源？ - GitHub Daily的回答 - 知乎]( https://www.zhihu.com/question/38008771/answer/611243668)

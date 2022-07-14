@@ -14,6 +14,7 @@
 * ## 闪念笔记 fleeting
 * ## 项目笔记 project
 * ## 永久笔记 permanent
+* ## 日记笔记 dailynote
 
 * ## 兴趣领域
 app/应用软件
@@ -45,6 +46,7 @@ src/t/平台
 [[-【Obsidian-插件】Obsidian插件MOC]]
 
 # 4.各主体文件夹及其用处
+[[【笔记-ACCESS】ACCESS笔记组织法]]
 参考：[ACCESS 笔记组织法 - 🌲 oldwinterの数字花园](https://oldwinter.top/Cards/%E6%B0%B8%E4%B9%85%E7%AC%94%E8%AE%B0/ACCESS+%E7%AC%94%E8%AE%B0%E7%BB%84%E7%BB%87%E6%B3%95)
 
 

@@ -24,6 +24,11 @@
       "name": "Templater: Open Insert Template modal",
       "id": "templater-obsidian:insert-templater",
       "icon": "chrome"
+    },
+    {
+      "id": "obsidian-hover-editor:open-current-file-in-new-popover",
+      "name": "Hover Editor: Open current file in new Hover Editor",
+      "icon": "box-select"
     }
   ],
   "hideTitles": []

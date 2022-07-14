@@ -16,7 +16,7 @@ obsidian -#obsidian
 - [[-【Obsidian-指南-Johnny学OB】OB所有第三方插件简介]]
 - [[-【Obsidian-资源】Obsidian参考资料合集]]
 - [[T_PluginNote]]
-- [[T_Jhonny学OB]]
+- [[T_Johnny学OB]]
 - [[【Markdown-语法教程】MarkDown超级教程 Obsidian版 2022.1.12]]
 - [[【Obsidian-插件】Admonition-文本渲染]]
 - [[【Obsidian-插件】Advanced Obsidian URI]]

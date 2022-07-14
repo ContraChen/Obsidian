@@ -41,5 +41,5 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "A=收集-Inbox/Default",
   "showUnsupportedFiles": false,
-  "showFrontmatter": true
+  "showFrontmatter": false
 }

@@ -12,7 +12,6 @@
   "dataview",
   "obsidian-auto-link-title",
   "highlightr-plugin",
-  "obsidian-icon-folder",
   "obsidian-kanban",
   "privacy-glasses",
   "obsidian-admonition",
@@ -33,5 +32,10 @@
   "remotely-save",
   "obsidian-style-settings",
   "tag-wrangler",
-  "obsidian-advanced-slides"
+  "obsidian-advanced-slides",
+  "obsidian-regex-pipeline",
+  "recent-files-obsidian",
+  "customizable-sidebar",
+  "obsidian-hover-editor",
+  "quickadd"
 ]

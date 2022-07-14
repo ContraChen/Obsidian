@@ -5,7 +5,7 @@
 
 ## 学习笔记：
 
-[B站视频和飞书妙计联动](https://www.bilibili.com/video/BV1bS4y1Y75Z?share_source=copy_web#t=84.697253)[[B站视频和飞书妙计联动]]
+[B站视频和飞书妙计联动](https://www.bilibili.com/video/BV1bS4y1Y75Z?share_source=copy_web#t=84.697253)[[【Obsidian-教程-Johnny学OB】本地视频和飞书妙计联动]]
 
 [插件=Advanced Slides](https://www.bilibili.com/video/BV1bS4y1Y75Z?share_source=copy_web#t=123.754138)[[【Obsidian-插件】Advanced Slides]]
 
