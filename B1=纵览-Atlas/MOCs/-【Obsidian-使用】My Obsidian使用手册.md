@@ -1,5 +1,7 @@
 #app/obsidian #set/info #set/moc 
 
+`button-heian` `button-mingliang`
+
 # 1. 标签系统
 * ## 输入端 input
 * ## 编写未完成 todo
@@ -25,7 +27,7 @@ area/ee 电子工程领域
 area/it 信息技术领域
 area/cs 计算机科学领域
 area/ce 计算机工程领域
-area/o 其他专业相关内容
+area/ot 其他专业相关内容
 
 ## 业余领域
 

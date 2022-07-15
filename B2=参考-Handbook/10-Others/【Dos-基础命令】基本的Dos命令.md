@@ -1,5 +1,5 @@
 # 基本的Dos命令
-#area/o/dos  
+#area/ot/dos  
 ## 打开cmd的方式
 
 1.  开始+系统+命令提示符

@@ -3,11 +3,16 @@
 	* tag: #dailynote 
 	* weather:
 	* address:
-* Dailynote
-	* Todo
-		*  
-	* Fleeting
-		* 
-* Summary
-	* 
+--- 
+# DailyNote
+--- 
+## Todo
+- [ ] 
+- [ ] 
 
+## Fleeting
+
+
+## Summary
+1. 
+2. 

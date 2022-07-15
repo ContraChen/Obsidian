@@ -11,5 +11,8 @@
   "shimmering-focus@@permanently-show-block-ids": false,
   "shimmering-focus@@show-close-button": false,
   "shimmering-focus@@permanently-show-collapse-indicators": false,
-  "lyt-mode@@header-style": "lyt-flat-headers"
+  "lyt-mode@@header-style": "lyt-flat-headers",
+  "ITS@@o-stat-bar": false,
+  "ITS@@rsb-up": false,
+  "ITS@@op-h": false
 }

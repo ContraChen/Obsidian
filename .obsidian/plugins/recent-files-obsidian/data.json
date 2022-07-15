@@ -1,24 +1,176 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-07-15-周五",
+      "path": "D1=日记-Dailynote/2022-07-15-周五.md"
+    },
+    {
+      "basename": "准备事项清单",
+      "path": "C1=项目-Project/毕业设计/准备事项/准备事项清单.md"
+    },
+    {
+      "basename": "-【Obsidian-使用】My Obsidian使用手册",
+      "path": "B1=纵览-Atlas/MOCs/-【Obsidian-使用】My Obsidian使用手册.md"
+    },
+    {
+      "basename": "-【MOC-合集】内容MOC合集",
+      "path": "B1=纵览-Atlas/MOCs/-【MOC-合集】内容MOC合集.md"
+    },
+    {
+      "basename": "-【Obsidian-指南-Johnny学OB】OB所有第三方插件简介",
+      "path": "B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-指南-Johnny学OB】OB所有第三方插件简介.md"
+    },
+    {
+      "basename": "-【卡片盒笔记法-MOC】",
+      "path": "C2=专题-Specialty/卡片盒笔记法/-【卡片盒笔记法-MOC】.md"
+    },
+    {
       "basename": "2022-07-14-周四",
-      "path": "A=收集-Inbox/Daily/2022-07-14-周四.md"
+      "path": "D1=日记-Dailynote/2022-07-14-周四.md"
+    },
+    {
+      "basename": "2022-07-13-周三",
+      "path": "D1=日记-Dailynote/2022-07-13-周三.md"
+    },
+    {
+      "basename": "deleteMemos",
+      "path": "D1=日记-Dailynote/deleteMemos.md"
+    },
+    {
+      "basename": "【Obsidian-教程-Johnny学OB】32 Zetero的PDF阅读使用和Zotfile插件",
+      "path": "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】32 Zetero的PDF阅读使用和Zotfile插件.md"
+    },
+    {
+      "basename": "【Obsidian-教程-Johnny学OB】本地视频和飞书妙计联动",
+      "path": "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】本地视频和飞书妙计联动.md"
+    },
+    {
+      "basename": "【Obsidian-教程-Johnny学OB】Advanced Slides在OB中做阅读器",
+      "path": "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】Advanced Slides在OB中做阅读器.md"
+    },
+    {
+      "basename": "【Obsidian-教程-Johnny学OB】MarkDown，YAML，HTML，CSS，Javascript，了解个大",
+      "path": "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】MarkDown，YAML，HTML，CSS，Javascript，了解个大.md"
+    },
+    {
+      "basename": "@2022-梁正平-基于存档和权值扩展的大规模多目标优化算法-计",
+      "path": "D2=文献-Literature/Inbox/@2022-梁正平-基于存档和权值扩展的大规模多目标优化算法-计.md"
+    },
+    {
+      "basename": "【Obsidian-教程-Johnny学OB】28 Zotero与Obsidian联动简介",
+      "path": "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】28 Zotero与Obsidian联动简介.md"
+    },
+    {
+      "basename": "【Obsidian-入门】obsidian 新手不完全指南 - 经验分享 - Obsidian 中文论坛",
+      "path": "B2=参考-Handbook/03-Obsidian/指南/【Obsidian-入门】obsidian 新手不完全指南 - 经验分享 - Obsidian 中文论坛.md"
+    },
+    {
+      "basename": "【Zotero-插件】Zotefile",
+      "path": "B2=参考-Handbook/04-Zotero/插件/【Zotero-插件】Zotefile.md"
+    },
+    {
+      "basename": "【Obsidian-教程-Johnny学OB】30 Better BibLatex插件与Zetero联动",
+      "path": "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】30 Better BibLatex插件与Zetero联动.md"
+    },
+    {
+      "basename": "【Obsidian-插件】hover editor-悬浮窗口插件",
+      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】hover editor-悬浮窗口插件.md"
+    },
+    {
+      "basename": "【Zotero-指南】五分钟学会文献管理神器—— Zotero_西财宋同学的博客 - CSDN 博客_zotero 文献管理",
+      "path": "B2=参考-Handbook/04-Zotero/指南/【Zotero-指南】五分钟学会文献管理神器—— Zotero_西财宋同学的博客 - CSDN 博客_zotero 文献管理.md"
+    },
+    {
+      "basename": "【Zotero-指南】Zotfile 插件及云同步的使用技巧_好运宝贝 0.0 的博客 - CSDN 博客_zotfile",
+      "path": "B2=参考-Handbook/04-Zotero/指南/【Zotero-指南】Zotfile 插件及云同步的使用技巧_好运宝贝 0.0 的博客 - CSDN 博客_zotfile.md"
     },
     {
       "basename": "【Obsidian-插件】QuickAdd",
-      "path": "A=收集-Inbox/Default/【Obsidian-插件】QuickAdd.md"
+      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】QuickAdd.md"
+    },
+    {
+      "basename": "【Obsidian-插件】Obsidian Memos",
+      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Obsidian Memos.md"
+    },
+    {
+      "basename": "【合集-Buttons】Home Buttons",
+      "path": "B1=纵览-Atlas/Scopes/【合集-Buttons】Home Buttons.md"
+    },
+    {
+      "basename": "【编程-语言】YAML",
+      "path": "B2=参考-Handbook/10-Others/【编程-语言】YAML.md"
+    },
+    {
+      "basename": "【Markdown-语法教程】MarkDown超级教程 Obsidian版 2022.1.12",
+      "path": "B2=参考-Handbook/02-Markdown/【Markdown-语法教程】MarkDown超级教程 Obsidian版 2022.1.12.md"
+    },
+    {
+      "basename": "【Obsidian-教程-负色玻离子】如何利用Obsidian无痛外刊精读？",
+      "path": "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-负色玻离子】如何利用Obsidian无痛外刊精读？.md"
+    },
+    {
+      "basename": "【Obsidian-指南】Obsidian 学习笔记分享",
+      "path": "B2=参考-Handbook/03-Obsidian/指南/【Obsidian-指南】Obsidian 学习笔记分享.md"
+    },
+    {
+      "basename": "【Obsidian-插件】Buttons",
+      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Buttons.md"
+    },
+    {
+      "basename": "【笔记-ACCESS】ACCESS笔记组织法",
+      "path": "B2=参考-Handbook/01-Take Notes/【笔记-ACCESS】ACCESS笔记组织法.md"
+    },
+    {
+      "basename": "【Obsidian-插件】Calendar-日历视图插件",
+      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Calendar-日历视图插件.md"
     },
     {
       "basename": "-【Obsidian-插件】Obsidian插件MOC",
       "path": "B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md"
     },
     {
-      "basename": "【Obsidian-插件】hover editor-悬浮窗口插件",
-      "path": "A=收集-Inbox/Default/【Obsidian-插件】hover editor-悬浮窗口插件.md"
+      "basename": "搜书",
+      "path": "X=资源-Sources/iframe/搜书.md"
     },
     {
-      "basename": "-【Obsidian-使用】My Obsidian使用手册",
-      "path": "B1=纵览-Atlas/MOCs/-【Obsidian-使用】My Obsidian使用手册.md"
+      "basename": "文本处理",
+      "path": "X=资源-Sources/iframe/文本处理.md"
+    },
+    {
+      "basename": "T_DailyNote",
+      "path": "Z=附件-Extras/Template/T_DailyNote.md"
+    },
+    {
+      "basename": "T_PluginNote",
+      "path": "Z=附件-Extras/Template/T_PluginNote.md"
+    },
+    {
+      "basename": "【Obsidian-插件】Admonition-文本渲染",
+      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Admonition-文本渲染.md"
+    },
+    {
+      "basename": "【Obsidian-插件】Advanced Obsidian URI",
+      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Advanced Obsidian URI.md"
+    },
+    {
+      "basename": "【Obsidian-插件】Advanced Slides",
+      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Advanced Slides.md"
+    },
+    {
+      "basename": "【Obsidian-插件】Search on Internet",
+      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Search on Internet.md"
+    },
+    {
+      "basename": "【Obsidian-插件】Sliding Panes (Andy's Mode)-滑动窗口插件",
+      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Sliding Panes (Andy's Mode)-滑动窗口插件.md"
+    },
+    {
+      "basename": "-【Obsidian-资源】Obsidian参考资料合集",
+      "path": "B1=纵览-Atlas/MOCs/-【Obsidian-资源】Obsidian参考资料合集.md"
+    },
+    {
+      "basename": "-【Git&Github-Moc】Git和Github的学习Moc",
+      "path": "C2=专题-Specialty/Git&Github/-【Git&Github-Moc】Git和Github的学习Moc.md"
     },
     {
       "basename": "【Obsidian-教程-Johnny学OB】34 用Obsidian搭建个人数字主页",
@@ -29,24 +181,8 @@
       "path": "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】35 用Obsidian搭建个人数字主页2.md"
     },
     {
-      "basename": "【Obsidian-教程-Johnny学OB】本地视频和飞书妙计联动",
-      "path": "A=收集-Inbox/Default/【Obsidian-教程-Johnny学OB】本地视频和飞书妙计联动.md"
-    },
-    {
       "basename": "【Obsidian-插件】Customization Sidebar-侧边栏管理和增添",
       "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Customization Sidebar-侧边栏管理和增添.md"
-    },
-    {
-      "basename": "T_DailyNote",
-      "path": "Z=附件-Extras/Template/T_DailyNote.md"
-    },
-    {
-      "basename": "【Obsidian-教程-负色玻离子】如何利用Obsidian无痛外刊精读？",
-      "path": "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-负色玻离子】如何利用Obsidian无痛外刊精读？.md"
-    },
-    {
-      "basename": "-【Git&Github-Moc】Git和Github的学习Moc",
-      "path": "C2=专题-Specialty/Git&Github/-【Git&Github-Moc】Git和Github的学习Moc.md"
     },
     {
       "basename": "【Obsidian-发布】Obsidian的发布方案",
@@ -57,76 +193,12 @@
       "path": "B2=参考-Handbook/01-Take Notes/-【Note-Moc】笔记方法汇总Moc.md"
     },
     {
-      "basename": "【笔记-ACCESS】ACCESS笔记组织法",
-      "path": "B2=参考-Handbook/01-Take Notes/【笔记-ACCESS】ACCESS笔记组织法.md"
-    },
-    {
-      "basename": "2022-07-13-周三",
-      "path": "A=收集-Inbox/Daily/2022-07-13-周三.md"
-    },
-    {
-      "basename": "【编程-语言】YAML",
-      "path": "B2=参考-Handbook/10-Others/【编程-语言】YAML.md"
-    },
-    {
       "basename": "【书籍-技术】Pro Git",
-      "path": "B3=资源-Sources/Books/【书籍-技术】Pro Git.md"
-    },
-    {
-      "basename": "-【MOC-合集】内容MOC合集",
-      "path": "B1=纵览-Atlas/MOCs/-【MOC-合集】内容MOC合集.md"
+      "path": "X=资源-Sources/Books/【书籍-技术】Pro Git.md"
     },
     {
       "basename": "【Obsidian-插件】Regex Pipeline",
       "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Regex Pipeline.md"
-    },
-    {
-      "basename": "【Obsidian-插件】Citations",
-      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Citations.md"
-    },
-    {
-      "basename": "【Obsidian-教程-负色玻离子】Obsidian实现卡片盒笔记法",
-      "path": "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-负色玻离子】Obsidian实现卡片盒笔记法.md"
-    },
-    {
-      "basename": "@2022-梁正平-基于存档和权值扩展的大规模多目标优化算法-计",
-      "path": "B3=资源-Sources/Literature/@2022-梁正平-基于存档和权值扩展的大规模多目标优化算法-计.md"
-    },
-    {
-      "basename": "T_PluginNote",
-      "path": "Z=附件-Extras/Template/T_PluginNote.md"
-    },
-    {
-      "basename": "【Obsidian-教程-Johnny学OB】28 Zotero与Obsidian联动简介",
-      "path": "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】28 Zotero与Obsidian联动简介.md"
-    },
-    {
-      "basename": "【Obsidian-教程-Johnny学OB】30 Better BibLatex插件与Zetero联动",
-      "path": "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】30 Better BibLatex插件与Zetero联动.md"
-    },
-    {
-      "basename": "【Obsidian-教程-Johnny学OB】32 Zetero的PDF阅读使用和Zotfile插件",
-      "path": "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】32 Zetero的PDF阅读使用和Zotfile插件.md"
-    },
-    {
-      "basename": "【Obsidian-入门】obsidian 新手不完全指南 - 经验分享 - Obsidian 中文论坛",
-      "path": "B2=参考-Handbook/03-Obsidian/指南/【Obsidian-入门】obsidian 新手不完全指南 - 经验分享 - Obsidian 中文论坛.md"
-    },
-    {
-      "basename": "【文献管理软件 Zotero】Zotfile 插件及云同步的使用技巧_好运宝贝 0.0 的博客 - CSDN 博客_zotfile",
-      "path": "A=收集-Inbox/Clip/【文献管理软件 Zotero】Zotfile 插件及云同步的使用技巧_好运宝贝 0.0 的博客 - CSDN 博客_zotfile.md"
-    },
-    {
-      "basename": "五分钟学会文献管理神器—— Zotero_西财宋同学的博客 - CSDN 博客_zotero 文献管理",
-      "path": "A=收集-Inbox/Clip/五分钟学会文献管理神器—— Zotero_西财宋同学的博客 - CSDN 博客_zotero 文献管理.md"
-    },
-    {
-      "basename": "准备事项清单",
-      "path": "C1=项目-Project/毕业设计/准备事项/准备事项清单.md"
-    },
-    {
-      "basename": "【Zotero-插件】Zotefile",
-      "path": "B2=参考-Handbook/04-Zotero/插件/【Zotero-插件】Zotefile.md"
     }
   ],
   "omittedPaths": [

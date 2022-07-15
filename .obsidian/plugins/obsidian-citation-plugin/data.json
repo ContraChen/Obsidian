@@ -1,7 +1,7 @@
 {
   "citationExportFormat": "biblatex",
   "literatureNoteTitleTemplate": "@{{citekey}}",
-  "literatureNoteFolder": "B3=资源-Sources\\Literature",
+  "literatureNoteFolder": "D2=文献-Literature/Inbox",
   "literatureNoteContentTemplate": "```ad-info\ntitle: Information\n#  {{title}}\n**authors**: {{authorString}}\n**year**: {{year}}\n**links**:   [ZoteroLink]({{zoteroSelectURI}})   |   [FilePath]({{entry.data.fields.file}})   |   [URL]({{URL}})\n```\n```ad-important\ntitle:Abstract\ncollapse:open\n&emsp;&emsp;{{abstract}}\n\n**keywords**： {{entry.data.fields.keywords}}\n```\n```ad-note\ntitle:Note\n{{note}}\n```\n",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",

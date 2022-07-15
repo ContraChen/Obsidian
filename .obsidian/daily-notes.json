@@ -1,5 +1,5 @@
 {
   "format": "YYYY-MM-DD-ddd",
-  "folder": "A=收集-Inbox/Daily",
+  "folder": "D1=日记-Dailynote",
   "template": "Z=附件-Extras/Template/T_DailyNote"
 }

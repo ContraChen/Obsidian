@@ -1,4 +1,4 @@
-#todo #project #area/cs #area/o/python 
+#todo #project #area/cs #area/ot/python 
 # 1 初识网络爬虫
 ## 1.1 分类
 * 通用网络爬虫

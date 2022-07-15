@@ -1,0 +1,23 @@
+{
+  "searches": [
+    {
+      "tags": [],
+      "query": "https://translate.google.cn/?sl=en&tl=zh-CN&text={{query}}%0A&op=translate",
+      "name": "Google翻译",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://www.google.com/search?&q={{query}}",
+      "name": "Google搜索",
+      "encode": true
+    },
+    {
+      "name": "汉语词典",
+      "query": "https://hanyu.sogou.com/result?query={{query}}",
+      "tags": [],
+      "encode": true
+    }
+  ],
+  "useIframe": true
+}

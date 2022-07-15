@@ -16,6 +16,9 @@
 
 [Zotfile插件安装](https://www.bilibili.com/video/BV1m341127aU?share_source=copy_web#t=413.287782)[[【Zotero-插件】Zotefile]]
 
+<mark style="background: #FFB86CA6;">更新：20220714</mark> 
+Zotero和OB联动，复制高亮的方法ctrl+c，注意粘贴为ctrl+shift+v可以粘贴链接
+
 
 ## 相关
 [Johnny学OB 如何在Obsidian中用RegexPipeline快速美化Zotero导出的PDF高亮及评论_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1BF411x7EE?share_source=copy_web)

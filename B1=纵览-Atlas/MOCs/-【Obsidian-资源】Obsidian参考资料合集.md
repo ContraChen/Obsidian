@@ -25,3 +25,25 @@ https://forum-zh.obsidian.md/
 ## 导出知乎收藏夹为md
 [导出知乎收藏夹为markdown文件 - 经验分享 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/3910)
 [GitHub - Geralt-TYH/obsidian-zhihu-crawler](https://github.com/Geralt-TYH/obsidian-zhihu-crawler)
+
+## 一个很棒的主页
+from:微信公众号“朽木新枝”
+```ad-quote
+请按步骤操作，否则会出错！
+
+1.把“_obsidian”文件夹重命名为“.obsidian”。
+2.用Obsidian打开库。
+3.有提示后：选择关闭安全模式。
+4.首次打开未正常显示，请刷新或重新打开。
+
+  
+使用下面链接注册，多得800 GB，阿里云盘不限速。
+https://pages.aliyundrive.com/mobile-page/web/beinvited.html?code=2da5ff9
+
+阿里云，v0.6，2022-06-16，
+此模板会持续更新
+https://www.aliyundrive.com/s/T1ZEEeLcNd4 提取码: 55js
+
+百度云盘 请回复 yyds
+```
+

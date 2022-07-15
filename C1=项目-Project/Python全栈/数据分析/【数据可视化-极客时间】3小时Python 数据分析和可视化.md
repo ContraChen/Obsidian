@@ -1,5 +1,5 @@
 # 3小时Python 数据分析和可视化
-#area/cs #area/o/python #end
+#area/cs #area/ot/python #end
 1. 分解问题
 
 2. 数据分析

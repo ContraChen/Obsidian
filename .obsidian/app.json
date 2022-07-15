@@ -39,7 +39,7 @@
   "attachmentFolderPath": "Z=附件-Extras/Media",
   "fileSortOrder": "alphabetical",
   "newFileLocation": "folder",
-  "newFileFolderPath": "A=收集-Inbox/Default",
+  "newFileFolderPath": "A=收集-Inbox",
   "showUnsupportedFiles": false,
   "showFrontmatter": false
 }

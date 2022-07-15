@@ -1,4 +1,4 @@
-#area/o/markdown
+#area/ot/markdown
 from CSDN官方Markdown编辑器文档
 # Markdown学习
 

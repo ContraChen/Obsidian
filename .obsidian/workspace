@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2b80225e00d5ce7d",
+        "id": "2db166116bd710af",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A=收集-Inbox/Daily/2022-07-14-周四.md",
+            "file": "D1=日记-Dailynote/2022-07-15-周五.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dailynote",
+                "query": "tag:#set/moc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "A=收集-Inbox/Daily/2022-07-14-周四.md",
+                "file": "D1=日记-Dailynote/2022-07-15-周五.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -95,7 +95,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.12102024442731928,
+                  "scale": 0.2816532814678953,
                   "close": true
                 }
               }
@@ -109,11 +109,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 275
+    "width": 238.5
   },
   "right": {
     "id": "65807b9ac34befb3",
@@ -122,6 +123,7 @@
       {
         "id": "635ef8ebb1eab5db",
         "type": "tabs",
+        "dimension": 49.544863459037714,
         "children": [
           {
             "id": "4b831222221e5560",
@@ -129,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A=收集-Inbox/Daily/2022-07-14-周四.md",
+                "file": "D1=日记-Dailynote/2022-07-15-周五.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A=收集-Inbox/Daily/2022-07-14-周四.md"
+                "file": "D1=日记-Dailynote/2022-07-15-周五.md"
               }
             }
           },
@@ -177,12 +179,22 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "65d4654b9fbc7acf",
         "type": "tabs",
+        "dimension": 50.455136540962286,
         "children": [
+          {
+            "id": "0fb0c3341e7d083d",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
+          },
           {
             "id": "65891281d0303e61",
             "type": "leaf",
@@ -190,7 +202,7 @@
               "type": "markdown",
               "state": {
                 "file": "B1=纵览-Atlas/MOCs/-【Obsidian-使用】My Obsidian使用手册.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -235,24 +247,24 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 327,
-    "collapsed": true
+    "width": 369
   },
-  "active": "2b80225e00d5ce7d",
+  "active": "2db166116bd710af",
   "lastOpenFiles": [
-    "A=收集-Inbox/Default/【Obsidian-插件】QuickAdd.md",
-    "B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md",
-    "A=收集-Inbox/Default/【Obsidian-插件】hover editor-悬浮窗口插件.md",
+    "C1=项目-Project/毕业设计/准备事项/准备事项清单.md",
     "B1=纵览-Atlas/MOCs/-【Obsidian-使用】My Obsidian使用手册.md",
-    "A=收集-Inbox/Default/未命名.md",
-    "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】34 用Obsidian搭建个人数字主页.md",
-    "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】35 用Obsidian搭建个人数字主页2.md",
-    "A=收集-Inbox/Daily/2022-07-14-周四.md",
-    "A=收集-Inbox/Default/【Obsidian-教程-Johnny学OB】本地视频和飞书妙计联动.md",
-    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Customization Sidebar-侧边栏管理和增添.md"
+    "B1=纵览-Atlas/MOCs/-【MOC-合集】内容MOC合集.md",
+    "B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-指南-Johnny学OB】OB所有第三方插件简介.md",
+    "C2=专题-Specialty/卡片盒笔记法/-【卡片盒笔记法-MOC】.md",
+    "D1=日记-Dailynote/2022-07-15-周五.md",
+    "D1=日记-Dailynote/2022-07-14-周四.md",
+    "D1=日记-Dailynote/2022-07-13-周三.md",
+    "D1=日记-Dailynote/deleteMemos.md",
+    "C2=专题-Specialty/Obsidian学习/【Obsidian-教程-Johnny学OB】32 Zetero的PDF阅读使用和Zotfile插件.md"
   ]
 }

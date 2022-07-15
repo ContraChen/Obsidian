@@ -24,7 +24,7 @@ aliases： 别名1，别名2
 
 [workspace核心插件](https://www.bilibili.com/video/BV1pm4y1U7VU?share_source=copy_web#t=717.897825)保存当前工作空间的状态
 
-[Search on internet插件](https://www.bilibili.com/video/BV1pm4y1U7VU?share_source=copy_web#t=781.058605)
+[Search on internet插件](https://www.bilibili.com/video/BV1pm4y1U7VU?share_source=copy_web#t=781.058605)[[【Obsidian-插件】Search on Internet]]
 
 [英语视频学习](https://www.bilibili.com/video/BV1pm4y1U7VU?share_source=copy_web#t=872.347439)
 

@@ -10,4 +10,3 @@
 
 [[-【Git&Github-Moc】Git和Github的学习Moc]]
 [[-【Note-Moc】笔记方法汇总Moc]]
-[[-【外刊-MOC】我的外刊阅读手册]]
