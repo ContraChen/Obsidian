@@ -1,4 +1,7 @@
-#app/obsidian 
+---
+tags: app/obsidian
+alias:  Advanced Tables
+---
 **简介：**
 高级表格功能。包括：制表过程中自动美化编辑模式下的表格格式，提供排序、换行等功能。
 

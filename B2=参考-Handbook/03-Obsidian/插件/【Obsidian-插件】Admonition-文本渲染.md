@@ -1,4 +1,8 @@
-#app/obsidian 
+---
+tags: app/obsidian
+alias: Admonition 
+---
+
 **简介：**
 文本框渲染
 

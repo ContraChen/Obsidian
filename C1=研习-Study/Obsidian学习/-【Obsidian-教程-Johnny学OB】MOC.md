@@ -2,7 +2,7 @@
 #project #set/moc 
 
 [Johnny学的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/432408734/channel/seriesdetail?sid=299464)
-
+待完成
 [[【Obsidian-教程-Johnny学OB】01 做读书笔记]]
 [[【Obsidian-教程-Johnny学OB】02 自动生成思维导图，一键做视频笔记时间戳]]
 [[【Obsidian-教程-Johnny学OB】03 PDF转知识关系图谱]]

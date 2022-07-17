@@ -29,6 +29,7 @@ https://forum-zh.obsidian.md/
 ## 一个很棒的主页
 from:微信公众号“朽木新枝”
 ```ad-quote
+collapse:close
 请按步骤操作，否则会出错！
 
 1.把“_obsidian”文件夹重命名为“.obsidian”。
@@ -47,3 +48,5 @@ https://www.aliyundrive.com/s/T1ZEEeLcNd4 提取码: 55js
 百度云盘 请回复 yyds
 ```
 
+## 吴刚的卡片笔记主页
+[_Homepage - 中国第一个开放式卢曼笔记](https://www.coachwugang.com/_Homepage)

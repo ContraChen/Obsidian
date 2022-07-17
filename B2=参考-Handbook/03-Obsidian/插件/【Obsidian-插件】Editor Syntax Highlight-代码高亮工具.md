@@ -1,4 +1,7 @@
-#app/obsidian #todo 
+---
+tags: app/obsidian,pending 
+alias:  Editor Syntax Highlight
+---
 **简介：**
 可在编辑器中突出显示代码块的语法.（不需要选项）
 

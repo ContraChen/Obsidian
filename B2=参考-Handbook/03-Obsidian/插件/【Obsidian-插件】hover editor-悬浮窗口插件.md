@@ -1,4 +1,7 @@
-#app/obsidian #todo 
+---
+tags: app/obsidian,pending 
+alias:  hover editor
+---
 **简介：**
 
 

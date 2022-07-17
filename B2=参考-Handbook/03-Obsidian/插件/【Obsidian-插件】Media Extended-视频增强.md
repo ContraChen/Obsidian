@@ -1,4 +1,7 @@
-#app/obsidian 
+---
+tags: app/obsidian,pending 
+alias:  Media Extended
+---
 **简介：**
 该插件引入了一些新功能, 可以改善媒体(视频/音频)的播放, 例如嵌入视频/音频片段, 添加时间戳等
 **使用方法：**

@@ -1,4 +1,7 @@
-#app/obsidian 
+---
+tags: app/obsidian
+alias:  Media Extended BiliBili Plugin
+---
 **简介：**
 Obsidian的Bilibili视频支持
 

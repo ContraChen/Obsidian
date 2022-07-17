@@ -1,4 +1,7 @@
-#app/obsidian 
+---
+tags: app/obsidian
+alias:  Outliner
+---
 **简介：**
 一款在 Obsidian 中实现类似 RoamResearch 大纲模式编辑的插件
 **使用方法：**

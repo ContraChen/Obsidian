@@ -1,4 +1,7 @@
-#app/obsidian 
+---
+tags: app/obsidian
+alias:  Kanban
+---
 **简介：**
 允许创建由 Markdown 支持的看板. 并且可以导出为 Markdown 格式
 

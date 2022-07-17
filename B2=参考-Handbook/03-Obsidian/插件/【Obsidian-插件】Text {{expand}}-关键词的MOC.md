@@ -1,4 +1,7 @@
-#app/obsidian 
+---
+tags: app/obsidian,pending 
+alias:  Text {{expand}}
+---
 **简介：**
 搜索关键词, 并且自动将与关键词有关的笔记, 以列表的形式粘贴到当前文本中
 

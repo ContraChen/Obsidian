@@ -2,17 +2,21 @@
 	* date:{{date}}
 	* tag: #dailynote 
 	* weather:
-	* address:
+	* location:
 --- 
 # DailyNote
 --- 
 ## Todo
+#todo
 - [ ] 
 - [ ] 
 
 ## Fleeting
 
 
-## Summary
+## Encounter
+* 
+
+## Review
 1. 
 2. 

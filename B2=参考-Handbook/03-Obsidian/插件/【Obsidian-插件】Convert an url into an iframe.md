@@ -1,4 +1,7 @@
-#app/obsidian #todo 
+---
+tags: app/obsidian,pending 
+alias:  Convert an url into an iframe
+---
 **简介：**
 将 url 直接转化为可嵌入的 iframe 链接。并非所有网站都支持。
 

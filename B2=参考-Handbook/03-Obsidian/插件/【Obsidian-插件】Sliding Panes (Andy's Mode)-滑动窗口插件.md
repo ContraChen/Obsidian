@@ -1,4 +1,7 @@
-#app/obsidian #todo 
+---
+tags: app/obsidian,pending 
+alias:  Sliding Panes (Andy's Mode)
+---
 **简介：**
 让笔记多窗口可以无限横向卷动
 **实例：**

@@ -1,4 +1,7 @@
-#app/obsidian 
+---
+tags: app/obsidian
+alias:  Privacy Glasses
+---
 **简介：**
 毛玻璃效果，遮蔽关键字
 **使用方法：**

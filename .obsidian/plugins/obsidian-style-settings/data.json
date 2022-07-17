@@ -14,5 +14,14 @@
   "lyt-mode@@header-style": "lyt-flat-headers",
   "ITS@@o-stat-bar": false,
   "ITS@@rsb-up": false,
-  "ITS@@op-h": false
+  "ITS@@op-h": false,
+  "blue-topaz-theme@@setting-etc-pane-style": "setting-style-traditional",
+  "blue-topaz-theme@@hr-for-pagination": false,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
+  "blue-topaz-theme@@left-ribbon-style": "default-left-ribbon-style",
+  "blue-topaz-theme@@right-ribbon-style": "hide-right-ribbon-button-top",
+  "blue-topaz-theme@@layout-style-options": "layout-style-options-default",
+  "blue-topaz-theme@@hide-vault-name": false,
+  "blue-topaz-theme@@search-bar-style-option": "default-search-bar",
+  "blue-topaz-theme@@rainbow-checklist": false
 }

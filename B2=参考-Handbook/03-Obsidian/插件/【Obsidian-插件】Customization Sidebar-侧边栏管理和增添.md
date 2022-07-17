@@ -1,4 +1,7 @@
-#app/obsidian
+---
+tags: app/obsidian,pending 
+alias:  Customization Sidebar
+---
 **简介：**
 实现侧边栏管理和增添
 

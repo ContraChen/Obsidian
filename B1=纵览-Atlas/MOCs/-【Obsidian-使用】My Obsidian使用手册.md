@@ -4,8 +4,9 @@
 
 # 1. 标签系统
 * ## 输入端 input
-* ## 编写未完成 todo
+* ## 编写未完成 pending
 * ## 可利用率低 end
+* ## 待办 todo
 
 ## 集锦set
 * 内容集锦 moc
@@ -30,8 +31,6 @@ area/ce 计算机工程领域
 area/ot 其他专业相关内容
 
 ## 业余领域
-
-
 * 来源src（只突出一个重点来源）
 src/p/人名
 src/b/书籍名
@@ -48,11 +47,19 @@ src/t/平台
 [[-【Obsidian-插件】Obsidian插件MOC]]
 
 # 4.各主体文件夹及其用处
-[[【笔记-ACCESS】ACCESS笔记组织法]]
+[[【Note-组织】ACCESS笔记组织法]]
 参考：[ACCESS 笔记组织法 - 🌲 oldwinterの数字花园](https://oldwinter.top/Cards/%E6%B0%B8%E4%B9%85%E7%AC%94%E8%AE%B0/ACCESS+%E7%AC%94%E8%AE%B0%E7%BB%84%E7%BB%87%E6%B3%95)
 
-
-
+# 5. YAML
+title: 实际文件名，因为我的文件名可能会是数字串  
+date: 建立日期  
+tags:  
+\- 标签1  
+alias/aliases: 别名1  
+category: 类别  
+stars: 星级（可选，当为评测笔记的时候会存在）  
+from: 基于什么，来自什么  
+url: 文章链接（如果已经发文或者已经存在在 Obsidian publish 上的话）
 
 # 相关参考
 01- [[-【Obsidian-资源】Obsidian参考资料合集]]

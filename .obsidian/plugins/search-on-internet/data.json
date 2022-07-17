@@ -13,8 +13,14 @@
       "encode": true
     },
     {
-      "name": "汉语词典",
+      "tags": [],
       "query": "https://hanyu.sogou.com/result?query={{query}}",
+      "name": "汉语词典",
+      "encode": true
+    },
+    {
+      "name": "百度百科",
+      "query": "https://baike.baidu.com/item/{{query}}",
       "tags": [],
       "encode": true
     }

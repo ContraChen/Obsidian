@@ -1,4 +1,7 @@
-#app/obsidian 
+---
+tags: app/obsidian
+alias:  Obsidian Charts
+---
 **简介：**
 该插件可让在 Obsidian 中创建交互式图表
 **使用方法：**

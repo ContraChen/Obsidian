@@ -1,4 +1,7 @@
-#app/obsidian 
+---
+tags: app/obsidian
+alias:  Auto Link Title
+---
 **简介：**
 自动提取 URL 的标题, 同时转换为 Markdown 格式.
 

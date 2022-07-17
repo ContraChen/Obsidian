@@ -1,4 +1,7 @@
-#app/obsidian #todo 
+---
+tags: app/obsidian,pending 
+alias:  Advanced Slides
+---
 **简介：**
 
 

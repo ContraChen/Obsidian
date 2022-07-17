@@ -1,4 +1,8 @@
-#app/obsidian #todo #app/zotero 
+---
+tags: app/obsidian,pending,app/zotero 
+alias:  Citations
+---
+#app/obsidian #pending #app/zotero 
 **简介：**
 
 

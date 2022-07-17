@@ -1,4 +1,7 @@
-#app/obsidian #todo 
+---
+tags: app/obsidian,pending 
+alias:  Note Refactor
+---
 **简介：**
 1.将笔记中选中的一段文字提取到新笔记中
 2.以1-3级标题或光标所在位置分割笔记

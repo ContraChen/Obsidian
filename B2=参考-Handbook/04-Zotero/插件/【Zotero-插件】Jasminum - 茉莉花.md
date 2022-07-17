@@ -1,4 +1,4 @@
-#app/zotero  #todo 
+#app/zotero  #pending 
 **简介：**
 
 

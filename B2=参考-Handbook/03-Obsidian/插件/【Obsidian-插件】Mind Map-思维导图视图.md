@@ -1,4 +1,7 @@
-#app/obsidian #todo 
+---
+tags: app/obsidian,pending 
+alias:  Mind Map
+---
 **简介：**
 为笔记添加思维导图视图
 **使用方法：**

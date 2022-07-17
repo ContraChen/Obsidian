@@ -1,4 +1,7 @@
-#app/obsidian #todo 
+---
+tags: app/obsidian,pending 
+alias:  Enhancing Mindmap
+---
 **简介：**
 
 

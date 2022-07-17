@@ -1,4 +1,7 @@
-#app/obsidian #todo 
+---
+tags: app/obsidian,pending 
+alias:  Templater
+---
 **简介：**
 Templater 可以执行处理 JavaScript 变量和函数的代码, 并且将结果插入 Obsidian 笔记中
 

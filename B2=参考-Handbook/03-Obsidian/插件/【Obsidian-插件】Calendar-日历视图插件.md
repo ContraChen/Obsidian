@@ -1,4 +1,7 @@
-#app/obsidian #todo
+---
+tags: app/obsidian,pending 
+alias:  Calendar
+---
 **简介：**
 一个简单的日历视图, 让日历与笔记之间有一些可视化联动
 **使用方法：**
