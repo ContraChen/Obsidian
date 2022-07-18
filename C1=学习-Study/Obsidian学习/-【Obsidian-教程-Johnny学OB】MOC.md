@@ -1,5 +1,5 @@
 # Johnny学OB MOC
-#project #set/moc 
+#set/moc 
 
 [Johnny学的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/432408734/channel/seriesdetail?sid=299464)
 待完成

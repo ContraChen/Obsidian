@@ -48,5 +48,8 @@ https://www.aliyundrive.com/s/T1ZEEeLcNd4 提取码: 55js
 百度云盘 请回复 yyds
 ```
 
-## 吴刚的卡片笔记主页
+
+ ## 吴刚的卡片笔记主页
 [_Homepage - 中国第一个开放式卢曼笔记](https://www.coachwugang.com/_Homepage)
+
+[Use callouts - Obsidian Help](https://help.obsidian.md/How+to/Use+callouts)

@@ -13,6 +13,6 @@
 ## 相关
 [[-【Obsidian-教程-Johnny学OB】MOC]]
 [[【Obsidian-教程-Johnny学OB】Advanced Slides在OB中做阅读器]]
-
+[[【YAML-简介】YAML]]
 ## 问题与解决
 >https://learnxinyminutes.com/ MarkDown，YAML，HTML，CSS，Javascript，了解个大概，Obsidian会用的更加得心应手。 不用学太深，适可而止，各取所需。

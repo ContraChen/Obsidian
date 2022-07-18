@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "D1=日记-Dailynote/2022-07-17-周日.md",
+            "file": "C1=学习-Study/AE学习/【AE-教程】于干AE模板七天宝典学习笔记.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#set/res",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "D1=日记-Dailynote/2022-07-17-周日.md",
+                "file": "C1=学习-Study/AE学习/【AE-教程】于干AE模板七天宝典学习笔记.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D1=日记-Dailynote/2022-07-17-周日.md",
+                "file": "C1=学习-Study/AE学习/【AE-教程】于干AE模板七天宝典学习笔记.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D1=日记-Dailynote/2022-07-17-周日.md"
+                "file": "C1=学习-Study/AE学习/【AE-教程】于干AE模板七天宝典学习笔记.md"
               }
             }
           },
@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "65d4654b9fbc7acf",
@@ -210,9 +210,9 @@
               "type": "markdown",
               "state": {
                 "file": "B1=纵览-Atlas/MOCs/-【Obsidian-使用】My Obsidian使用手册.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           },
@@ -249,7 +249,7 @@
               "type": "markdown",
               "state": {
                 "file": "B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -259,19 +259,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 499
+    "width": 350,
+    "collapsed": true
   },
-  "active": "22bb047546a68d58",
+  "active": "5aa1504a02c8be6f",
   "lastOpenFiles": [
-    "D1=日记-Dailynote/2022-07-15-周五.md",
-    "D1=日记-Dailynote/2022-07-16-周六.md",
-    "D1=日记-Dailynote/2022-07-17-周日.md",
-    "D2=文献-Literature/Inbox/@2022-梁正平-基于存档和权值扩展的大规模多目标优化算法-计.md",
-    "D1=日记-Dailynote/2022-07-13-周三.md",
-    "C1=研习-Study/Obsidian学习/【Obsidian-教程-Johnny学OB】本地视频和飞书妙计联动.md",
-    "X=资源-Sources/iframe/时光序iframe.md",
-    "C1=研习-Study/Obsidian学习/【Obsidian-教程-Johnny学OB】11 嵌入多媒体，仿Notion.md",
-    "C1=研习-Study/Obsidian学习/【Obsidian-教程-Johnny学OB】01 做读书笔记.md",
-    "X=资源-Sources/iframe/搜书集iframe.md"
+    "C1=学习-Study/AE学习/【AE-教程】于干AE模板七天宝典参考文档.md",
+    "C1=学习-Study/AE学习/【AE-教程】于干AE模板七天宝典学习笔记.md",
+    "B1=纵览-Atlas/MOCs/-【Obsidian-使用】My Obsidian使用手册.md",
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Admonition-文本渲染.md",
+    "B1=纵览-Atlas/MOCs/-【Obsidian-资源】Obsidian参考资料合集.md",
+    "D1=日记-Dailynote/2022-07-18-周一.md",
+    "B1=纵览-Atlas/MOCs/-【MOC-合集】内容MOC合集.md",
+    "C1=学习-Study/Obsidian学习/-【Obsidian-教程-Johnny学OB】MOC.md",
+    "C2=工作-Work/Python/Python基础/【爬虫-笔记】Python 网络爬虫.md",
+    "C1=学习-Study/卡片盒笔记法/-【卡片盒笔记法-MOC】.md"
   ]
 }
