@@ -1,6 +1,6 @@
 ---
 aliases: Buttons Set,Home Buttons,Buttons database
-tags: list,set/database
+tags: set/db
 ---
 
 

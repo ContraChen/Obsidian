@@ -14,6 +14,7 @@
 * 资源集锦 res
 * 清单集锦 list
 * 参考集锦 info
+* 数据集锦 db
 
 * ## 闪念笔记 fleeting
 * ## 项目笔记 project
