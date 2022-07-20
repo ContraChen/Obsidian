@@ -4,6 +4,7 @@
 [【自创Obsidian外语工作流】如何利用Obsidian无痛外刊精读？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1pm4y1U7VU?share_source=copy_web)
 
 ## 学习笔记：
+[如何使用Obsidian进行高效外刊精读 - 哔哩哔哩](https://www.bilibili.com/read/cv14712529)
 
 [文章打标签及介绍](https://www.bilibili.com/video/BV1pm4y1U7VU?share_source=copy_web#t=46.188861)
 

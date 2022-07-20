@@ -40,9 +40,9 @@
       "links": 1
     },
     "B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md": {
-      "size": 2788,
+      "size": 3229,
       "tags": 2,
-      "links": 50
+      "links": 51
     },
     "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Admonition-文本渲染.md": {
       "size": 0,
@@ -171,7 +171,7 @@
     },
     "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Note Refactor-笔记拆分和重组插件.md": {
       "size": 0,
-      "tags": 2,
+      "tags": 1,
       "links": 1
     },
     "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Obsidian Charts-交互式图表.md": {
@@ -235,7 +235,7 @@
       "links": 1
     },
     "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Media Extended-视频增强.md": {
-      "size": 0,
+      "size": 2111,
       "tags": 2,
       "links": 0
     },
@@ -250,8 +250,8 @@
       "links": 1
     },
     "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Templater-模板增强.md": {
-      "size": 0,
-      "tags": 2,
+      "size": 3626,
+      "tags": 1,
       "links": 1
     },
     "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Text {{expand}}-关键词的MOC.md": {
@@ -385,8 +385,8 @@
       "links": 1
     },
     "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】QuickAdd.md": {
-      "size": 0,
-      "tags": 2,
+      "size": 2146,
+      "tags": 1,
       "links": 1
     },
     "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Search on Internet.md": {
@@ -514,11 +514,6 @@
       "tags": 4,
       "links": 1
     },
-    "C3=生活-Life/驾考/【驾考-笔记】驾考笔记.md": {
-      "size": 3343,
-      "tags": 0,
-      "links": 0
-    },
     "C1=学习-Study/卡片盒笔记法/-【卡片盒笔记法-MOC】.md": {
       "size": 0,
       "tags": 2,
@@ -526,7 +521,7 @@
     },
     "C1=学习-Study/卡片盒笔记法/【卡片盒笔记法-介绍】卡片盒笔记法详细介绍.md": {
       "size": 50137,
-      "tags": 1,
+      "tags": 0,
       "links": 4
     },
     "C1=学习-Study/Git&Github/-【Git&Github-Moc】Git和Github的学习Moc.md": {
@@ -709,23 +704,43 @@
       "tags": 1,
       "links": 0
     },
-    "D3=外刊-Periodicals/National Geographic-Introduce the Roman-介绍罗马.md": {
+    "D1=日记-Dailynote/2022-07-20-周三.md": {
+      "size": 181,
+      "tags": 2,
+      "links": 0
+    },
+    "B1=纵览-Atlas/Scopes/Homepage.md": {
       "size": 0,
       "tags": 0,
       "links": 0
     },
-    "D1=日记-Dailynote/2022-07-20-周三.md": {
-      "size": 181,
+    "A=收集-Inbox/【Obsidian-插件】Workspaces Plus.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "C1=学习-Study/Obsidian学习/【Obsidian-教程】QuickAdd一键生成读书笔记演示及使用方法.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 7
+    },
+    "C1=学习-Study/驾考/【驾考-笔记】驾考笔记.md": {
+      "size": 3343,
+      "tags": 0,
+      "links": 0
+    },
+    "D5=外刊-Periodical/【外刊-路透社】羽生结弦宣布退役.md": {
+      "size": 3579,
       "tags": 2,
       "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2056,
-      "Create": 269,
-      "Link": 434,
-      "Expand": 24
+      "Refactor": 2083,
+      "Create": 282,
+      "Link": 446,
+      "Expand": 29
     }
   },
   "dailyCommits": {
@@ -738,14 +753,14 @@
       "5": 0,
       "6": 0,
       "7": 32,
-      "8": 232,
-      "9": 957,
+      "8": 234,
+      "9": 968,
       "10": 252,
-      "11": 45,
+      "11": 50,
       "12": 2,
       "13": 65,
-      "14": 162,
-      "15": 127,
+      "14": 172,
+      "15": 156,
       "16": 101,
       "17": 107,
       "18": 21,
@@ -760,7 +775,7 @@
     "/": {
       "Mon": 227,
       "Tue": 244,
-      "Wed": 1385,
+      "Wed": 1442,
       "Thu": 313,
       "Fri": 286,
       "Sat": 0,
@@ -793,9 +808,27 @@
         "<a class=\"internal-link\" href=\"C1=学习-Study/AE学习/【AE-教程】于干AE模板七天宝典学习笔记.md\"> 【AE-教程】于干AE模板七天宝典学习笔记 </a>",
         "<a class=\"internal-link\" href=\"C1=学习-Study/AE学习/【AE-教程】于干AE模板七天宝典学习笔记.md\"> 【AE-教程】于干AE模板七天宝典学习笔记 </a>",
         "<a class=\"internal-link\" href=\"C2=工作-Work/毕业设计/笔记/【毕设-选题】我的毕设选题.md\"> 【毕设-选题】我的毕设选题 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/MOC理解.md\"> MOC理解 </a>"
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/MOC理解.md\"> MOC理解 </a>",
+        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md\"> -【Obsidian-插件】Obsidian插件MOC </a>",
+        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】QuickAdd.md\"> 【Obsidian-插件】QuickAdd </a>",
+        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Media Extended-视频增强.md\"> 【Obsidian-插件】Media Extended-视频增强 </a>",
+        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Templater-模板增强.md\"> 【Obsidian-插件】Templater-模板增强 </a>",
+        "<a class=\"internal-link\" href=\"D3=外刊-Periodical/未命名.md\"> 未命名 </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"3日常/读书/书单.md\"> 书单 </a>",
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/《如何阅读一本书》.md\"> 《如何阅读一本书》 </a>",
+        "<a class=\"internal-link\" href=\"3日常/读书/书单.md\"> 书单 </a>",
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/被讨厌的勇气.md\"> 被讨厌的勇气 </a>",
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"C1=学习-Study/Obsidian学习/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/【Obsidian-插件】Workspaces Plus.md\"> 【Obsidian-插件】Workspaces Plus </a>",
+        "<a class=\"internal-link\" href=\"B1=纵览-Atlas/Scopes/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"D3=外刊-Periodical/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/-【Obsidian-插件】插件MOC.md\"> -【Obsidian-插件】插件MOC </a>",
+        "<a class=\"internal-link\" href=\"https%3A/github.com/aidenlx/media-extended/wiki/Audio-Recorder.md\"> Audio-Recorder </a>",
         "<a class=\"internal-link\" href=\"D1=日记-Dailynote/2022-07-20-周三.md\"> 2022-07-20-周三 </a>",
         "<a class=\"internal-link\" href=\"D3=外刊-Periodicals/未命名.md\"> 未命名 </a>",
         "<a class=\"internal-link\" href=\"A=收集-Inbox/用potplayer打开swf视频文件.md\"> 用potplayer打开swf视频文件 </a>",
@@ -833,22 +866,22 @@
         "<a class=\"internal-link\" href=\"A=收集-Inbox/未命名.md\"> 未命名 </a>",
         "<a class=\"internal-link\" href=\"Z=附件-Extras/Database/【合集-Buttons】Home Buttons.md\"> 【合集-Buttons】Home Buttons </a>",
         "<a class=\"internal-link\" href=\"A=收集-Inbox/未命名.md\"> 未命名 </a>",
-        "<a class=\"internal-link\" href=\"D1=日记-Dailynote/2022-07-15-周五.md\"> 2022-07-15-周五 </a>",
-        "<a class=\"internal-link\" href=\"B1=纵览-Atlas/Scopes/未命名.md\"> 未命名 </a>",
-        "<a class=\"internal-link\" href=\"B3=资源-Sources/iframe/未命名.md\"> 未命名 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/未命名.md\"> 未命名 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/delete.md\"> delete </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/delete.md\"> delete </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/【Obsidian-插件】Obsidian Memos.md\"> 【Obsidian-插件】Obsidian Memos </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/【Obsidian-插件】Search on Internet.md\"> 【Obsidian-插件】Search on Internet </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-15-周五.md\"> 2022-07-15-周五 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-13-周三.md\"> 2022-07-13-周三 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-14-周四.md\"> 2022-07-14-周四 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/【Obsidian-插件】Quick add.md\"> 【Obsidian-插件】Quick add </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/未命名.md\"> 未命名 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/【Obsidian-插件】hover editor.md\"> 【Obsidian-插件】hover editor </a>"
+        "<a class=\"internal-link\" href=\"D1=日记-Dailynote/2022-07-15-周五.md\"> 2022-07-15-周五 </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/《被讨厌的勇气》.md\"> 《被讨厌的勇气》 </a>",
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/书单.md\"> 书单 </a>",
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/Booknote.md\"> Booknote </a>",
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/书单1.md\"> 书单1 </a>",
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/读书.md\"> 读书 </a>",
+        "<a class=\"internal-link\" href=\"D5=外刊-Periodical/【外刊-路透社】羽生结弦宣布退役.md\"> 【外刊-路透社】羽生结弦宣布退役 </a>",
+        "<a class=\"internal-link\" href=\"D4=外刊-Periodical/【外刊-路透社】羽生结弦宣布退役.md\"> 【外刊-路透社】羽生结弦宣布退役 </a>",
+        "<a class=\"internal-link\" href=\"C1=学习-Study/驾考/【驾考-笔记】驾考笔记.md\"> 【驾考-笔记】驾考笔记 </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/T_readnote.md\"> T_readnote </a>",
+        "<a class=\"internal-link\" href=\"C1=学习-Study/Obsidian学习/【Obsidian-教程】QuickAdd一键生成读书笔记演示及使用方法.md\"> 【Obsidian-教程】QuickAdd一键生成读书笔记演示及使用方法 </a>",
+        "<a class=\"internal-link\" href=\"B1=纵览-Atlas/Scopes/Homepage.md\"> Homepage </a>",
+        "<a class=\"internal-link\" href=\"D3=外刊-Periodical/【外刊-路透社】羽生结弦宣布退役.md\"> 【外刊-路透社】羽生结弦宣布退役 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/-【Obsidian-插件】Bo插件MOC.md\"> -【Obsidian-插件】Bo插件MOC </a>",
         "<a class=\"internal-link\" href=\"D3=外刊-Periodicals/National Geographic-Introduce the Roman-介绍罗马.md\"> National Geographic-Introduce the Roman-介绍罗马 </a>",
         "<a class=\"internal-link\" href=\"D3=外刊-Periodicals/National Geographic-介绍罗马.md\"> National Geographic-介绍罗马 </a>",
         "<a class=\"internal-link\" href=\"A=收集-Inbox/【PotPlayer-sef】用potplayer打开swf视频文件.md\"> 【PotPlayer-sef】用potplayer打开swf视频文件 </a>",
@@ -886,22 +919,14 @@
         "<a class=\"internal-link\" href=\"C1=学习-Study/Obsidian学习/【Obsidian-教程-Johnny学OB】11 嵌入多媒体，仿Notion.md\"> 【Obsidian-教程-Johnny学OB】11 嵌入多媒体，仿Notion </a>",
         "<a class=\"internal-link\" href=\"C1=学习-Study/Obsidian学习/【Obsidian-教程-Johnny学OB】09 用OB学习唐诗三百首.md\"> 【Obsidian-教程-Johnny学OB】09 用OB学习唐诗三百首 </a>",
         "<a class=\"internal-link\" href=\"C1=学习-Study/Obsidian学习/【Obsidian-教程-Johnny学OB】08 Obsidian记录笔记链接成长过程.md\"> 【Obsidian-教程-Johnny学OB】08 Obsidian记录笔记链接成长过程 </a>",
-        "<a class=\"internal-link\" href=\"C1=学习-Study/Obsidian学习/【Obsidian-教程-Johnny学OB】05 第三方插件合集.md\"> 【Obsidian-教程-Johnny学OB】05 第三方插件合集 </a>",
-        "<a class=\"internal-link\" href=\"C1=学习-Study/Obsidian学习/【Obsidian-教程-Johnny学OB】07 OB新手终极入门库，含大量资源.md\"> 【Obsidian-教程-Johnny学OB】07 OB新手终极入门库，含大量资源 </a>",
-        "<a class=\"internal-link\" href=\"C1=学习-Study/Obsidian学习/【Obsidian-教程-Johnny学OB】06 手动安装第三方插件.md\"> 【Obsidian-教程-Johnny学OB】06 手动安装第三方插件 </a>",
-        "<a class=\"internal-link\" href=\"C1=学习-Study/Obsidian学习/【Obsidian-教程-Johnny学OB】04 即时预览（已支持）.md\"> 【Obsidian-教程-Johnny学OB】04 即时预览（已支持） </a>",
-        "<a class=\"internal-link\" href=\"C1=学习-Study/Obsidian学习/【Obsidian-教程-Johnny学OB】03 PDF转知识关系图谱.md\"> 【Obsidian-教程-Johnny学OB】03 PDF转知识关系图谱 </a>",
-        "<a class=\"internal-link\" href=\"C1=学习-Study/Obsidian学习/【Obsidian-教程-Johnny学OB】02 自动生成思维导图，一键做视频笔记时间戳.md\"> 【Obsidian-教程-Johnny学OB】02 自动生成思维导图，一键做视频笔记时间戳 </a>",
-        "<a class=\"internal-link\" href=\"C1=学习-Study/Obsidian学习/【Obsidian-教程-Johnny学OB】01 做读书笔记.md\"> 【Obsidian-教程-Johnny学OB】01 做读书笔记 </a>",
-        "<a class=\"internal-link\" href=\"C1=学习-Study/Obsidian学习/-【Obsidian-教程-Johnny学OB】MOC.md\"> -【Obsidian-教程-Johnny学OB】MOC </a>",
-        "<a class=\"internal-link\" href=\"C1=学习-Study/Git&Github/-【Git&Github-Moc】Git和Github的学习Moc.md\"> -【Git&Github-Moc】Git和Github的学习Moc </a>",
-        "<a class=\"internal-link\" href=\"C1=学习-Study/卡片盒笔记法/【卡片盒笔记法-介绍】卡片盒笔记法详细介绍.md\"> 【卡片盒笔记法-介绍】卡片盒笔记法详细介绍 </a>",
-        "<a class=\"internal-link\" href=\"C1=学习-Study/卡片盒笔记法/-【卡片盒笔记法-MOC】.md\"> -【卡片盒笔记法-MOC】 </a>",
-        "<a class=\"internal-link\" href=\"C3=生活-Life/驾考/【驾考-笔记】驾考笔记.md\"> 【驾考-笔记】驾考笔记 </a>",
-        "<a class=\"internal-link\" href=\"C1=短期-Short/驾考/【驾考-笔记】驾考笔记.md\"> 【驾考-笔记】驾考笔记 </a>",
-        "<a class=\"internal-link\" href=\"C1=短期-Short/卡片盒笔记法/【卡片盒笔记法-介绍】卡片盒笔记法详细介绍.md\"> 【卡片盒笔记法-介绍】卡片盒笔记法详细介绍 </a>"
+        "<a class=\"internal-link\" href=\"C1=学习-Study/Obsidian学习/【Obsidian-教程-Johnny学OB】05 第三方插件合集.md\"> 【Obsidian-教程-Johnny学OB】05 第三方插件合集 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/《如何阅读一本书》.md\"> 《如何阅读一本书》 </a>",
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/被讨厌的勇气.md\"> 被讨厌的勇气 </a>",
+        "<a class=\"internal-link\" href=\"C1=学习-Study/Obsidian学习/【Obsidian-教程】QuickAdd一键生成读书笔记演示及使用方法.md\"> 【Obsidian-教程】QuickAdd一键生成读书笔记演示及使用方法 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/【Obsidian-插件】Workspaces Plus.md\"> 【Obsidian-插件】Workspaces Plus </a>",
+        "<a class=\"internal-link\" href=\"D3=外刊-Periodical/【外刊-路透社】羽生结弦宣布退役.md\"> 【外刊-路透社】羽生结弦宣布退役 </a>",
         "<a class=\"internal-link\" href=\"D1=日记-Dailynote/2022-07-20-周三.md\"> 2022-07-20-周三 </a>",
         "<a class=\"internal-link\" href=\"D1=日记-Dailynote/2022-07-19-周二.md\"> 2022-07-19-周二 </a>",
         "<a class=\"internal-link\" href=\"A=收集-Inbox/【PotPlayer-sef】用potplayer打开swf视频文件.md\"> 【PotPlayer-sef】用potplayer打开swf视频文件 </a>",
@@ -947,12 +972,7 @@
         "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Media Extended-视频增强.md\"> 【Obsidian-插件】Media Extended-视频增强 </a>",
         "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Mind Map-思维导图视图.md\"> 【Obsidian-插件】Mind Map-思维导图视图 </a>",
         "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Note Refactor-笔记拆分和重组插件.md\"> 【Obsidian-插件】Note Refactor-笔记拆分和重组插件 </a>",
-        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Obsidian Memos.md\"> 【Obsidian-插件】Obsidian Memos </a>",
-        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Obsidian Tabs-标签式窗口插件.md\"> 【Obsidian-插件】Obsidian Tabs-标签式窗口插件 </a>",
-        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Ozan's Image inEditor Plugin.md\"> 【Obsidian-插件】Ozan's Image inEditor Plugin </a>",
-        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Pandoc.md\"> 【Obsidian-插件】Pandoc </a>",
-        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Paste image rename-粘贴图片重命名.md\"> 【Obsidian-插件】Paste image rename-粘贴图片重命名 </a>",
-        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】proxy github.md\"> 【Obsidian-插件】proxy github </a>"
+        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Obsidian Memos.md\"> 【Obsidian-插件】Obsidian Memos </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"B1=参考/01-Obsidian/插件/【Obsidian-插件】插件MOC.md\"> 【Obsidian-插件】插件MOC </a>",
@@ -964,6 +984,16 @@
         "<a class=\"internal-link\" href=\"B1=纵览-Atlas/MOCs/-【Obsidian-使用】My Obsidian使用手册.md\"> -【Obsidian-使用】My Obsidian使用手册 </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/T_readnote.md\"> T_readnote </a>",
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/书单.md\"> 书单 </a>",
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/《如何阅读一本书》.md\"> 《如何阅读一本书》 </a>",
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/《被讨厌的勇气》.md\"> 《被讨厌的勇气》 </a>",
+        "<a class=\"internal-link\" href=\"3日常/读书/书单.md\"> 书单 </a>",
+        "<a class=\"internal-link\" href=\"3日常/读书/书单.md\"> 书单 </a>",
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/Booknote.md\"> Booknote </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/-【Obsidian-插件】Bo插件MOC.md\"> -【Obsidian-插件】Bo插件MOC </a>",
+        "<a class=\"internal-link\" href=\"https%3A/github.com/aidenlx/media-extended/wiki/Audio-Recorder.md\"> Audio-Recorder </a>",
+        "<a class=\"internal-link\" href=\"D3=外刊-Periodicals/National Geographic-Introduce the Roman-介绍罗马.md\"> National Geographic-Introduce the Roman-介绍罗马 </a>",
         "<a class=\"internal-link\" href=\"A=收集-Inbox/粤菜.md\"> 粤菜 </a>",
         "<a class=\"internal-link\" href=\"A=收集-Inbox/MOC.md\"> MOC </a>",
         "<a class=\"internal-link\" href=\"X=资源-Sources/iframe/时光序.md\"> 时光序 </a>",
@@ -1004,19 +1034,16 @@
         "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/【模板-插件记录】.md\"> 【模板-插件记录】 </a>",
         "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/【模板-Johnny学OB笔记】.md\"> 【模板-Johnny学OB笔记】 </a>",
         "<a class=\"internal-link\" href=\"_debug_remotely_save/log_hist_exported_on_1657616653575.md\"> log_hist_exported_on_1657616653575 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-13-周三.md\"> 2022-07-13-周三 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-13-周三.md\"> 2022-07-13-周三 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-13-周三.md\"> 2022-07-13-周三 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-12.md\"> 2022-07-12 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-13-周三.md\"> 2022-07-13-周三 </a>",
-        "<a class=\"internal-link\" href=\"2022-07-13.md\"> 2022-07-13 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/2022-07-13-周三.md\"> 2022-07-13-周三 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/未命名.md\"> 未命名 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/{{Date}}.md\"> {{Date}} </a>",
-        "<a class=\"internal-link\" href=\"A1=收集-Inbox/Daily/2022-07-13.md\"> 2022-07-13 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/Pro Git.md\"> Pro Git </a>"
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-13-周三.md\"> 2022-07-13-周三 </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"C1=学习-Study/Obsidian学习/【Obsidian-教程】QuickAdd一键生成读书笔记演示及使用方法.md\"> 【Obsidian-教程】QuickAdd一键生成读书笔记演示及使用方法 </a>",
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/《如何阅读一本书》.md\"> 《如何阅读一本书》 </a>",
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/被讨厌的勇气.md\"> 被讨厌的勇气 </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/T_readnote.md\"> T_readnote </a>",
+        "<a class=\"internal-link\" href=\"C1=学习-Study/Obsidian学习/【Obsidian-教程】QuickAdd一键生成读书笔记演示及使用方法.md\"> 【Obsidian-教程】QuickAdd一键生成读书笔记演示及使用方法 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/【Obsidian-插件】Workspaces Plus.md\"> 【Obsidian-插件】Workspaces Plus </a>",
+        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md\"> -【Obsidian-插件】Obsidian插件MOC </a>",
         "<a class=\"internal-link\" href=\"D1=日记-Dailynote/2022-07-19-周二.md\"> 2022-07-19-周二 </a>",
         "<a class=\"internal-link\" href=\"D1=日记-Dailynote/2022-07-19-周二.md\"> 2022-07-19-周二 </a>",
         "<a class=\"internal-link\" href=\"C2=工作-Work/毕业设计/笔记/【毕设-选题】我的毕设选题.md\"> 【毕设-选题】我的毕设选题 </a>",
@@ -1060,16 +1087,13 @@
         "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md\"> -【Obsidian-插件】Obsidian插件MOC </a>",
         "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Customization Sidebar-侧边栏管理和增添.md\"> 【Obsidian-插件】Customization Sidebar-侧边栏管理和增添 </a>",
         "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-14-周四.md\"> 2022-07-14-周四 </a>",
-        "<a class=\"internal-link\" href=\"B2=参考-Handbook/01-Take Notes/-【Note-Moc】笔记方法汇总Moc.md\"> -【Note-Moc】笔记方法汇总Moc </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-14-周四.md\"> 2022-07-14-周四 </a>",
-        "<a class=\"internal-link\" href=\"B1=纵览-Atlas/MOCs/-【Obsidian-使用】My Obsidian使用手册.md\"> -【Obsidian-使用】My Obsidian使用手册 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/【Obsidian-教程-负色玻离子】如何利用Obsidian无痛外刊精读？.md\"> 【Obsidian-教程-负色玻离子】如何利用Obsidian无痛外刊精读？ </a>",
-        "<a class=\"internal-link\" href=\"C3=提升-Improve/01-外刊阅读/-【外刊-MOC】我的外刊阅读手册.md\"> -【外刊-MOC】我的外刊阅读手册 </a>",
-        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Citations.md\"> 【Obsidian-插件】Citations </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/【Obsidian-插件】Regex Pipeline.md\"> 【Obsidian-插件】Regex Pipeline </a>",
-        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md\"> -【Obsidian-插件】Obsidian插件MOC </a>"
+        "<a class=\"internal-link\" href=\"B2=参考-Handbook/01-Take Notes/-【Note-Moc】笔记方法汇总Moc.md\"> -【Note-Moc】笔记方法汇总Moc </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"C1=学习-Study/卡片盒笔记法/【卡片盒笔记法-介绍】卡片盒笔记法详细介绍.md\"> 【卡片盒笔记法-介绍】卡片盒笔记法详细介绍 </a>",
+        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Templater-模板增强.md\"> 【Obsidian-插件】Templater-模板增强 </a>",
+        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Note Refactor-笔记拆分和重组插件.md\"> 【Obsidian-插件】Note Refactor-笔记拆分和重组插件 </a>",
+        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】QuickAdd.md\"> 【Obsidian-插件】QuickAdd </a>",
         "<a class=\"internal-link\" href=\"Z=附件-Extras/Database/【合集-Buttons】Home Buttons.md\"> 【合集-Buttons】Home Buttons </a>",
         "<a class=\"internal-link\" href=\"C1=学习-Study/卡片盒笔记法/-【卡片盒笔记法-MOC】.md\"> -【卡片盒笔记法-MOC】 </a>",
         "<a class=\"internal-link\" href=\"C1=学习-Study/Obsidian学习/-【Obsidian-教程-Johnny学OB】MOC.md\"> -【Obsidian-教程-Johnny学OB】MOC </a>",
@@ -1116,11 +1140,7 @@
         "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Style Setting.md\"> 【Obsidian-插件】Style Setting </a>",
         "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Search on Internet.md\"> 【Obsidian-插件】Search on Internet </a>",
         "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Remotely Save.md\"> 【Obsidian-插件】Remotely Save </a>",
-        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Regex Pipeline.md\"> 【Obsidian-插件】Regex Pipeline </a>",
-        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Recent File.md\"> 【Obsidian-插件】Recent File </a>",
-        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】QuickAdd.md\"> 【Obsidian-插件】QuickAdd </a>",
-        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】proxy github.md\"> 【Obsidian-插件】proxy github </a>",
-        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Paste image rename-粘贴图片重命名.md\"> 【Obsidian-插件】Paste image rename-粘贴图片重命名 </a>"
+        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Regex Pipeline.md\"> 【Obsidian-插件】Regex Pipeline </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"C1=学习/C1.1=课程学习/樊昌信通信原理期末复习.md\"> 樊昌信通信原理期末复习 </a>",

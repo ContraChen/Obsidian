@@ -1,20 +1,112 @@
 {
   "recentFiles": [
     {
+      "basename": "【Obsidian-教程】QuickAdd一键生成读书笔记演示及使用方法",
+      "path": "C1=学习-Study/Obsidian学习/【Obsidian-教程】QuickAdd一键生成读书笔记演示及使用方法.md"
+    },
+    {
+      "basename": "-【Obsidian-插件】Obsidian插件MOC",
+      "path": "B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "B1=纵览-Atlas/Scopes/Homepage.md"
+    },
+    {
+      "basename": "-【MOC-合集】内容MOC合集",
+      "path": "B1=纵览-Atlas/MOCs/-【MOC-合集】内容MOC合集.md"
+    },
+    {
+      "basename": "【Obsidian-插件】Workspaces Plus",
+      "path": "A=收集-Inbox/【Obsidian-插件】Workspaces Plus.md"
+    },
+    {
+      "basename": "-【Obsidian-资源】Obsidian参考资料合集",
+      "path": "B1=纵览-Atlas/MOCs/-【Obsidian-资源】Obsidian参考资料合集.md"
+    },
+    {
+      "basename": "【PotPlayer-sef】用potplayer打开swf视频文件",
+      "path": "A=收集-Inbox/【PotPlayer-sef】用potplayer打开swf视频文件.md"
+    },
+    {
+      "basename": "MOC理解",
+      "path": "A=收集-Inbox/MOC理解.md"
+    },
+    {
       "basename": "2022-07-20-周三",
       "path": "D1=日记-Dailynote/2022-07-20-周三.md"
     },
     {
-      "basename": "2022-07-19-周二",
-      "path": "D1=日记-Dailynote/2022-07-19-周二.md"
+      "basename": "【Obsidian-教程-负色玻离子】如何利用Obsidian无痛外刊精读？",
+      "path": "C1=学习-Study/Obsidian学习/【Obsidian-教程-负色玻离子】如何利用Obsidian无痛外刊精读？.md"
+    },
+    {
+      "basename": "【外刊-路透社】羽生结弦宣布退役",
+      "path": "D5=外刊-Periodical/【外刊-路透社】羽生结弦宣布退役.md"
+    },
+    {
+      "basename": "-【Obsidian-使用】My Obsidian使用手册",
+      "path": "B1=纵览-Atlas/MOCs/-【Obsidian-使用】My Obsidian使用手册.md"
+    },
+    {
+      "basename": "【Obsidian-指南】玩转 Obsidian 01：打造知识循环利器",
+      "path": "B2=参考-Handbook/03-Obsidian/指南/【Obsidian-指南】玩转 Obsidian 01：打造知识循环利器.md"
+    },
+    {
+      "basename": "【卡片盒笔记法-介绍】卡片盒笔记法详细介绍",
+      "path": "C1=学习-Study/卡片盒笔记法/【卡片盒笔记法-介绍】卡片盒笔记法详细介绍.md"
+    },
+    {
+      "basename": "【Obsidian-插件】Calendar-日历视图插件",
+      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Calendar-日历视图插件.md"
+    },
+    {
+      "basename": "【Obsidian-插件】Checklist",
+      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Checklist.md"
+    },
+    {
+      "basename": "【Obsidian-插件】Templater-模板增强",
+      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Templater-模板增强.md"
+    },
+    {
+      "basename": "【Obsidian-插件】Media Extended-视频增强",
+      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Media Extended-视频增强.md"
+    },
+    {
+      "basename": "【Obsidian-插件】Text {{expand}}-关键词的MOC",
+      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Text {{expand}}-关键词的MOC.md"
+    },
+    {
+      "basename": "【Obsidian-插件】Advanced Tables-表格工具",
+      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Advanced Tables-表格工具.md"
+    },
+    {
+      "basename": "【Obsidian-插件】QuickAdd",
+      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】QuickAdd.md"
+    },
+    {
+      "basename": "【Obsidian-插件】Note Refactor-笔记拆分和重组插件",
+      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Note Refactor-笔记拆分和重组插件.md"
+    },
+    {
+      "basename": "【Obsidian-插件】Buttons",
+      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Buttons.md"
+    },
+    {
+      "basename": "deleteMemos",
+      "path": "D1=日记-Dailynote/deleteMemos.md"
+    },
+    {
+      "basename": "2022-07-13-周三",
+      "path": "D1=日记-Dailynote/2022-07-13-周三.md"
     },
     {
       "basename": "【机器学习-吴恩达-EN】机器学习-吴恩达 笔记",
       "path": "C2=工作-Work/Python/机器学习/【机器学习-吴恩达-EN】机器学习-吴恩达 笔记.md"
     },
     {
-      "basename": "【PotPlayer-sef】用potplayer打开swf视频文件",
-      "path": "A=收集-Inbox/【PotPlayer-sef】用potplayer打开swf视频文件.md"
+      "basename": "2022-07-19-周二",
+      "path": "D1=日记-Dailynote/2022-07-19-周二.md"
     },
     {
       "basename": "时光序iframe",
@@ -33,24 +125,8 @@
       "path": "D1=日记-Dailynote/2022-07-18-周一.md"
     },
     {
-      "basename": "National Geographic-Introduce the Roman-介绍罗马",
-      "path": "D3=外刊-Periodicals/National Geographic-Introduce the Roman-介绍罗马.md"
-    },
-    {
       "basename": "【合集-Buttons】Home Buttons",
       "path": "Z=附件-Extras/Database/【合集-Buttons】Home Buttons.md"
-    },
-    {
-      "basename": "-【Obsidian-使用】My Obsidian使用手册",
-      "path": "B1=纵览-Atlas/MOCs/-【Obsidian-使用】My Obsidian使用手册.md"
-    },
-    {
-      "basename": "MOC理解",
-      "path": "A=收集-Inbox/MOC理解.md"
-    },
-    {
-      "basename": "【Obsidian-插件】Text {{expand}}-关键词的MOC",
-      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Text {{expand}}-关键词的MOC.md"
     },
     {
       "basename": "-【Obsidian-指南-Johnny学OB】OB所有第三方插件简介",
@@ -59,10 +135,6 @@
     {
       "basename": "-【Obsidian-教程-Johnny学OB】MOC",
       "path": "C1=学习-Study/Obsidian学习/-【Obsidian-教程-Johnny学OB】MOC.md"
-    },
-    {
-      "basename": "-【MOC-合集】内容MOC合集",
-      "path": "B1=纵览-Atlas/MOCs/-【MOC-合集】内容MOC合集.md"
     },
     {
       "basename": "-【Note-Moc】笔记方法汇总Moc",
@@ -89,10 +161,6 @@
       "path": "C2=工作-Work/毕业设计/笔记/【毕设-选题】我的毕设选题.md"
     },
     {
-      "basename": "-【Obsidian-插件】Obsidian插件MOC",
-      "path": "B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md"
-    },
-    {
       "basename": "【Obsidian-插件】DataView",
       "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】DataView.md"
     },
@@ -109,96 +177,8 @@
       "path": "C1=学习-Study/Obsidian学习/【Obsidian-教程-Johnny学OB】MarkDown，YAML，HTML，CSS，Javascript，了解个大.md"
     },
     {
-      "basename": "-【Obsidian-资源】Obsidian参考资料合集",
-      "path": "B1=纵览-Atlas/MOCs/-【Obsidian-资源】Obsidian参考资料合集.md"
-    },
-    {
       "basename": "准备事项清单",
       "path": "C2=工作-Work/毕业设计/准备事项/准备事项清单.md"
-    },
-    {
-      "basename": "【AE-教程】于干AE模板七天宝典学习笔记",
-      "path": "C1=学习-Study/AE学习/【AE-教程】于干AE模板七天宝典学习笔记.md"
-    },
-    {
-      "basename": "2022-07-14-周四",
-      "path": "D1=日记-Dailynote/2022-07-14-周四.md"
-    },
-    {
-      "basename": "2022-07-13-周三",
-      "path": "D1=日记-Dailynote/2022-07-13-周三.md"
-    },
-    {
-      "basename": "2022-07-15-周五",
-      "path": "D1=日记-Dailynote/2022-07-15-周五.md"
-    },
-    {
-      "basename": "2022-07-16-周六",
-      "path": "D1=日记-Dailynote/2022-07-16-周六.md"
-    },
-    {
-      "basename": "2022-07-17-周日",
-      "path": "D1=日记-Dailynote/2022-07-17-周日.md"
-    },
-    {
-      "basename": "deleteMemos",
-      "path": "D1=日记-Dailynote/deleteMemos.md"
-    },
-    {
-      "basename": "【AE-教程】于干AE模板七天宝典参考文档",
-      "path": "C1=学习-Study/AE学习/【AE-教程】于干AE模板七天宝典参考文档.md"
-    },
-    {
-      "basename": "【Obsidian-插件】Admonition-文本渲染",
-      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Admonition-文本渲染.md"
-    },
-    {
-      "basename": "【爬虫-笔记】Python 网络爬虫",
-      "path": "C2=工作-Work/Python/Python基础/【爬虫-笔记】Python 网络爬虫.md"
-    },
-    {
-      "basename": "【驾考-笔记】驾考笔记",
-      "path": "C3=生活-Life/驾考/【驾考-笔记】驾考笔记.md"
-    },
-    {
-      "basename": "【YAML-简介】YAML",
-      "path": "B2=参考-Handbook/10-Others/【YAML-简介】YAML.md"
-    },
-    {
-      "basename": "【数学-素养课】考研数学素养课",
-      "path": "C2=工作-Work/考研学习/D2.2=考研数学/【数学-素养课】考研数学素养课.md"
-    },
-    {
-      "basename": "【Obsidian-指南】Obsidian 学习笔记分享",
-      "path": "B2=参考-Handbook/03-Obsidian/指南/【Obsidian-指南】Obsidian 学习笔记分享.md"
-    },
-    {
-      "basename": "@2022-梁正平-基于存档和权值扩展的大规模多目标优化算法-计",
-      "path": "D2=文献-Literature/Inbox/@2022-梁正平-基于存档和权值扩展的大规模多目标优化算法-计.md"
-    },
-    {
-      "basename": "【Obsidian-教程-Johnny学OB】本地视频和飞书妙计联动",
-      "path": "C1=学习-Study/Obsidian学习/【Obsidian-教程-Johnny学OB】本地视频和飞书妙计联动.md"
-    },
-    {
-      "basename": "【Obsidian-教程-Johnny学OB】11 嵌入多媒体，仿Notion",
-      "path": "C1=学习-Study/Obsidian学习/【Obsidian-教程-Johnny学OB】11 嵌入多媒体，仿Notion.md"
-    },
-    {
-      "basename": "【Obsidian-教程-Johnny学OB】01 做读书笔记",
-      "path": "C1=学习-Study/Obsidian学习/【Obsidian-教程-Johnny学OB】01 做读书笔记.md"
-    },
-    {
-      "basename": "【资源-项目】24 种机器学习最佳入门项目",
-      "path": "X=资源-Sources/Project/【资源-项目】24 种机器学习最佳入门项目.md"
-    },
-    {
-      "basename": "【Obsidian-插件】Checklist",
-      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Checklist.md"
-    },
-    {
-      "basename": "【竞赛-蓝桥杯-单片机】蓝桥杯笔记",
-      "path": "Y=归档-Archive/Study/【竞赛-蓝桥杯-单片机】蓝桥杯笔记.md"
     }
   ],
   "omittedPaths": [

@@ -19,8 +19,14 @@
       "encode": true
     },
     {
-      "name": "百度百科",
+      "tags": [],
       "query": "https://baike.baidu.com/item/{{query}}",
+      "name": "百度百科",
+      "encode": true
+    },
+    {
+      "name": "百度翻译",
+      "query": "https://fanyi.baidu.com/?aldtype=16047#en/zh/{{query}}",
       "tags": [],
       "encode": true
     }

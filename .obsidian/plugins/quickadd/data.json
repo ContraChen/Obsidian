@@ -4,7 +4,7 @@
       "id": "bea3d2d7-2165-4242-9b38-19405a7da582",
       "name": "Daily-Fleeting",
       "type": "Capture",
-      "command": false,
+      "command": true,
       "appendLink": false,
       "captureTo": "D1=日记-Dailynote/{{DATE:YYYY-MM-DD-ddd}}",
       "captureToActiveFile": false,
@@ -35,6 +35,54 @@
       "openFileInMode": "default"
     }
   ],
-  "macros": [],
+  "macros": [
+    {
+      "name": "生成读书笔记",
+      "id": "05bd0dd5-3dcd-412d-8466-bbb7ca0aaee9",
+      "commands": [
+        {
+          "name": "douban",
+          "type": "UserScript",
+          "id": "75f26001-90ca-40ab-b1e5-7e48c14ae54c",
+          "path": "Z=附件-Extras/Script/douban.js",
+          "settings": {}
+        },
+        {
+          "name": "生成读书笔记",
+          "type": "NestedChoice",
+          "id": "cb9cf46f-c32c-462b-9ff1-fde6d9a6b845",
+          "choice": {
+            "id": "969280cc-38c6-47ac-854c-7e674d7331cd",
+            "name": "生成读书笔记",
+            "type": "Template",
+            "command": false,
+            "templatePath": "Z=附件-Extras/Template/T_readnote.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "《{{VALUE:name}}》"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "D3=读书-Reading"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
   "inputPrompt": "single-line"
 }

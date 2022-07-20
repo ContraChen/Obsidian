@@ -40,6 +40,6 @@
   "fileSortOrder": "alphabetical",
   "newFileLocation": "folder",
   "newFileFolderPath": "A=收集-Inbox",
-  "showUnsupportedFiles": false,
+  "showUnsupportedFiles": true,
   "showFrontmatter": false
 }

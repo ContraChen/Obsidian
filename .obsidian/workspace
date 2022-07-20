@@ -4,29 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b5cce2d24e2aea2",
+        "id": "3e8ac0b37106ff67",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "C2=工作-Work/Python/机器学习/【机器学习-吴恩达-EN】机器学习-吴恩达 笔记.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "19d5d8a58743b5c8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "D1=日记-Dailynote/2022-07-20-周三.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -39,7 +21,7 @@
       {
         "id": "9829c25bff00bcb8",
         "type": "tabs",
-        "dimension": 61.668839634941335,
+        "dimension": 44.58058435438266,
         "children": [
           {
             "id": "4ff809925e594524",
@@ -72,13 +54,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "36bb2cec5e36f24c",
         "type": "tabs",
-        "dimension": 38.33116036505867,
+        "dimension": 55.41941564561734,
         "children": [
           {
             "id": "5fb5b275729a1738",
@@ -86,7 +67,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "D1=日记-Dailynote/2022-07-20-周三.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,7 +149,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D1=日记-Dailynote/2022-07-20-周三.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,13 +175,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "D1=日记-Dailynote/2022-07-20-周三.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "65d4654b9fbc7acf",
@@ -224,7 +201,7 @@
               "type": "markdown",
               "state": {
                 "file": "B1=纵览-Atlas/MOCs/-【Obsidian-使用】My Obsidian使用手册.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -275,17 +252,17 @@
     "direction": "horizontal",
     "width": 350
   },
-  "active": "19d5d8a58743b5c8",
+  "active": "4ff809925e594524",
   "lastOpenFiles": [
-    "D1=日记-Dailynote/2022-07-19-周二.md",
-    "C2=工作-Work/Python/机器学习/【机器学习-吴恩达-EN】机器学习-吴恩达 笔记.md",
-    "A=收集-Inbox/【PotPlayer-sef】用potplayer打开swf视频文件.md",
-    "X=资源-Sources/iframe/时光序iframe.md",
-    "X=资源-Sources/iframe/搜书集iframe.md",
-    "X=资源-Sources/iframe/文本处理iframe.md",
-    "D1=日记-Dailynote/2022-07-18-周一.md",
-    "D3=外刊-Periodicals/National Geographic-Introduce the Roman-介绍罗马.md",
-    "Z=附件-Extras/Database/【合集-Buttons】Home Buttons.md",
-    "B1=纵览-Atlas/MOCs/-【Obsidian-使用】My Obsidian使用手册.md"
+    "D3=读书-Reading/《被讨厌的勇气》.md",
+    "D3=读书-Reading/《如何阅读一本书》.md",
+    "D3=读书-Reading/书单.md",
+    "Z=附件-Extras/Template/T_readnote.md",
+    "C1=学习-Study/Obsidian学习/【Obsidian-教程】QuickAdd一键生成读书笔记演示及使用方法.md",
+    "3日常/读书/书单.md",
+    "B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md",
+    "D3=读书-Reading/Booknote.md",
+    "B1=纵览-Atlas/Scopes/Homepage.md",
+    "B1=纵览-Atlas/MOCs/-【MOC-合集】内容MOC合集.md"
   ]
 }

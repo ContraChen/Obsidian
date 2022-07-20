@@ -19,7 +19,7 @@
 - [ ] [[【Obsidian-插件】Gallery]]
 - [ ] [[【Obsidian-插件】Highlightr]]
 - [ ] [[【Obsidian-插件】hover editor-悬浮窗口插件]]
-- [ ] [[【Obsidian-插件】Icon Folder]]
+- [x] [[【Obsidian-插件】Icon Folder]]
 - [ ] [[【Obsidian-插件】Image auto upload Plugin]]
 - [ ] [[【Obsidian-插件】Kanban-看板视图]]
 - [ ] [[【Obsidian-插件】Media Extended BiliBili Plugin-视频增强的Bilibili支持]]
@@ -44,7 +44,7 @@
 - [ ] [[【Obsidian-插件】Tag Wrangler-标签增强工具]]
 - [ ] [[【Obsidian-插件】Templater-模板增强]]
 - [ ] [[【Obsidian-插件】Text {{expand}}-关键词的MOC]]
-- [ ] 
+- [ ] [[【Obsidian-插件】Workspaces Plus]]
 
 # 暂未安装：
 - [ ] [[【Obsidian-插件】proxy github]]
@@ -58,4 +58,4 @@
 * [Obsidian 插件记录 - 樊殊的文章 - 知乎](https://zhuanlan.zhihu.com/p/368487154)
 * [[-【Obsidian-指南-Johnny学OB】OB所有第三方插件简介]]
 * [2022年7月，obsidian 依然必装的 10 个插件 - 经验分享 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/8728)
-* 
+* [我的Obsidian入门之旅 - 知乎](https://zhuanlan.zhihu.com/p/441013488)

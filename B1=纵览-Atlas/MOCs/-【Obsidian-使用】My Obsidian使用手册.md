@@ -37,6 +37,7 @@ area/ot 其他专业相关内容
 src/p/人名
 src/b/书籍名
 src/t/平台
+src/m/媒体
 
 # 2. Highlight的使用
 | 颜色                                               | 用法       |

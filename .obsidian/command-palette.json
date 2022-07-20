@@ -1,5 +1,6 @@
 {
   "pinned": [
+    "templater-obsidian:insert-templater",
     "obsidian-citation-plugin:insert-literature-note-content"
   ]
 }
