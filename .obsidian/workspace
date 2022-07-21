@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3e8ac0b37106ff67",
+        "id": "a60870524b175b23",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "B1=纵览-Atlas/Scopes/Homepage.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -21,7 +26,7 @@
       {
         "id": "9829c25bff00bcb8",
         "type": "tabs",
-        "dimension": 44.58058435438266,
+        "dimension": 59.71316818774446,
         "children": [
           {
             "id": "4ff809925e594524",
@@ -37,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#dailynote",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +64,7 @@
       {
         "id": "36bb2cec5e36f24c",
         "type": "tabs",
-        "dimension": 55.41941564561734,
+        "dimension": 40.28683181225554,
         "children": [
           {
             "id": "5fb5b275729a1738",
@@ -67,6 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "B1=纵览-Atlas/Scopes/Homepage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -103,12 +109,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 299
+    "width": 275
   },
   "right": {
     "id": "65807b9ac34befb3",
@@ -117,16 +122,8 @@
       {
         "id": "635ef8ebb1eab5db",
         "type": "tabs",
-        "dimension": 47.979139504563236,
+        "dimension": 47.45762711864407,
         "children": [
-          {
-            "id": "70aafa0bbf816e0e",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
           {
             "id": "3b72d47620d80631",
             "type": "leaf",
@@ -149,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "B1=纵览-Atlas/Scopes/Homepage.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,16 +173,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "B1=纵览-Atlas/Scopes/Homepage.md"
+              }
+            }
+          },
+          {
+            "id": "be9671d3a77b6b2f",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "65d4654b9fbc7acf",
         "type": "tabs",
-        "dimension": 52.02086049543677,
+        "dimension": 52.54237288135594,
         "children": [
           {
             "id": "22bb047546a68d58",
@@ -250,19 +257,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350
+    "width": 330
   },
-  "active": "4ff809925e594524",
+  "active": "5fb5b275729a1738",
   "lastOpenFiles": [
-    "D3=读书-Reading/《被讨厌的勇气》.md",
-    "D3=读书-Reading/《如何阅读一本书》.md",
-    "D3=读书-Reading/书单.md",
-    "Z=附件-Extras/Template/T_readnote.md",
-    "C1=学习-Study/Obsidian学习/【Obsidian-教程】QuickAdd一键生成读书笔记演示及使用方法.md",
-    "3日常/读书/书单.md",
-    "B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md",
-    "D3=读书-Reading/Booknote.md",
+    "D1=日记-Dailynote/2022-07-21-周四.md",
     "B1=纵览-Atlas/Scopes/Homepage.md",
-    "B1=纵览-Atlas/MOCs/-【MOC-合集】内容MOC合集.md"
+    "B1=纵览-Atlas/Database/【合集-Buttons】Buttons Set.md",
+    "D4=观影-Viewing/-我的影单.md",
+    "D4=观影-Viewing/《爱，死亡和机器人 第一季》.md",
+    "B1=纵览-Atlas/MOCs/-【Obsidian-使用】My Obsidian使用手册.md",
+    "D4=观影-Viewing/综艺/《非正式会谈 第七季》.md",
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】DataView.md",
+    "D3=读书-Reading/- 我的书单.md",
+    "D3=读书-Reading/《人类简史》.md"
   ]
 }

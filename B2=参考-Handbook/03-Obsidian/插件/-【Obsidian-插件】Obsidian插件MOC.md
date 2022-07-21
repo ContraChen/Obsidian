@@ -4,6 +4,7 @@
 - [ ] [[【Obsidian-插件】Advanced Slides]]
 - [ ] [[【Obsidian-插件】Advanced Tables-表格工具]]
 - [ ] [[【Obsidian-插件】Auto Link Title-自动识别链接]]
+- [ ] [[【Obsidian-插件】Banners]]
 - [ ] [[【Obsidian-插件】Buttons]]
 - [ ] [[【Obsidian-插件】Calendar-日历视图插件]]
 - [ ] [[【Obsidian-插件】Checklist]]
@@ -49,7 +50,6 @@
 # 暂未安装：
 - [ ] [[【Obsidian-插件】proxy github]]
 - [ ] [[【Obsidian-插件】Pandoc]]
-- [ ] [[【Obsidian-插件】Banners]]
 - [ ] [[【Obsidian-插件】Homepage]]
 - [ ] [[【Obsidian-插件】Tasks]]
 - [ ] [[【Obsidian-插件】Advanced Obsidian URI]]

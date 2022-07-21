@@ -39,7 +39,9 @@ color blue
 同理，套用这个命令功能，事实上所有我们在命令面板执行的命令，都可以通过这种方式绑定到按钮上。
 
 **实例：**
-[[【合集-Buttons】Home Buttons|Buttons Set]]
+[[【合集-Buttons】Buttons Set|Buttons Set]]
+![](https://obsidian-001-1312884387.cos.ap-nanjing.myqcloud.com/ImageBed/20220720173738.png)
+
 
 **相关：**
 * [[-【Obsidian-插件】Obsidian插件MOC]]

@@ -1,0 +1,268 @@
+{
+  "workspaces": {
+    "Homepage": {
+      "main": {
+        "id": "e7bc10f8a346adb3",
+        "type": "split",
+        "children": [
+          {
+            "id": "a60870524b175b23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B1=纵览-Atlas/Scopes/Homepage.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "27a1dac6530b3b07",
+        "type": "split",
+        "children": [
+          {
+            "id": "9829c25bff00bcb8",
+            "type": "tabs",
+            "dimension": 59.71316818774446,
+            "children": [
+              {
+                "id": "4ff809925e594524",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c983e745fa9d6cc4",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#dailynote",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "cd7b11737bb23077",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "36bb2cec5e36f24c",
+            "type": "tabs",
+            "dimension": 40.28683181225554,
+            "children": [
+              {
+                "id": "5fb5b275729a1738",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "B1=纵览-Atlas/Scopes/Homepage.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.4296780914342545,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "9c84ad6af9dd59b9",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 275
+      },
+      "right": {
+        "id": "65807b9ac34befb3",
+        "type": "split",
+        "children": [
+          {
+            "id": "635ef8ebb1eab5db",
+            "type": "tabs",
+            "dimension": 47.45762711864407,
+            "children": [
+              {
+                "id": "3b72d47620d80631",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c11a224e87ef7a37",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "4b831222221e5560",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "B1=纵览-Atlas/Scopes/Homepage.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "bdec814626836d82",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "d75ccd9c7255d81c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "B1=纵览-Atlas/Scopes/Homepage.md"
+                  }
+                }
+              },
+              {
+                "id": "be9671d3a77b6b2f",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "65d4654b9fbc7acf",
+            "type": "tabs",
+            "dimension": 52.54237288135594,
+            "children": [
+              {
+                "id": "22bb047546a68d58",
+                "type": "leaf",
+                "state": {
+                  "type": "memos_view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ffe842bf9bec843d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "B1=纵览-Atlas/MOCs/-【Obsidian-使用】My Obsidian使用手册.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "58f917c386e643b0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "B1=纵览-Atlas/MOCs/-【MOC-合集】内容MOC合集.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e0d734a6efddfe0c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "B1=纵览-Atlas/MOCs/-【Obsidian-资源】Obsidian参考资料合集.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "bd53f28ded36357b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 330
+      },
+      "active": "5fb5b275729a1738"
+    }
+  },
+  "active": "Homepage"
+}

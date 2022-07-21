@@ -1,7 +1,5 @@
 #app/obsidian #set/info #set/moc 
 
-`button-heian` `button-mingliang`
-
 # 1. 标签系统
 * ## 输入端 input
 * ## 编写未完成 pending
@@ -21,10 +19,11 @@
 * ## 永久笔记 permanent
 * ## 日记笔记 dailynote
 
-* ## 兴趣领域
+## 兴趣领域
 app/应用软件
+book、movie、episode、variety 读书观影看剧追综艺
 
-* ## 专业领域
+## 专业领域
 参考：[美国留学CS/CE/EE/IT这些专业有何差别？ (baidu.com)](https://baijiahao.baidu.com/s?id=1709210109948267273&wfr=spider&for=pc)
 area/ee 电子工程领域
 area/it 信息技术领域

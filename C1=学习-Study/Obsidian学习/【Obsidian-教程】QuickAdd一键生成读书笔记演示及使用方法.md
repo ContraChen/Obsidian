@@ -18,7 +18,7 @@
 
 
 ## 相关
-[[-【Obsidian-教程-Johnny学OB】MOC]]
+
 
 ## 问题与解决
 >一个适用于Obsidian的读书笔记快速生成脚本。 用到的第三方插件有 Buttons，QuickAdd，Admonition以及Dataview。 脚本和模板文件已放至仓库：https://github.com/LumosLovegood/myScripts/tree/main/CreateReadNote 仓库里也有一个说明文档。

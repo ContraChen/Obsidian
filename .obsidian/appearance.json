@@ -1,6 +1,11 @@
 {
-  "theme": "moonstone",
+  "theme": "obsidian",
   "cssTheme": "Blue Topaz",
   "baseFontSize": 15,
-  "translucency": false
+  "translucency": false,
+  "enabledCssSnippets": [
+    "cardview",
+    "整齐排列中文-两端对齐",
+    "nav-labels-zh"
+  ]
 }

@@ -33,52 +33,82 @@
       },
       "openFile": false,
       "openFileInMode": "default"
+    },
+    {
+      "id": "619f8fe7-d4cb-4140-905d-af81e189764c",
+      "name": "CreateReadNote",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Z=附件-Extras/Template/T_ReadNote.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "《{{VALUE:name}}》"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "D3=读书-Reading"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "bdd79dfc-75c4-47ba-abb9-6f30395422b5",
+      "name": "CreateMovieNote",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Z=附件-Extras/Template/T_MovieNote.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "《{{VALUE:name}}》"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "D4=观影-Viewing"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "1cc96a07-a770-41b6-a2dd-f9090154da89",
+      "name": "豆瓣笔记生成",
+      "type": "Macro",
+      "command": true,
+      "macroId": "ac0e2753-dfee-4d6d-85d2-616e102970af"
     }
   ],
   "macros": [
     {
-      "name": "生成读书笔记",
-      "id": "05bd0dd5-3dcd-412d-8466-bbb7ca0aaee9",
+      "name": "豆瓣笔记生成",
+      "id": "ac0e2753-dfee-4d6d-85d2-616e102970af",
       "commands": [
         {
-          "name": "douban",
+          "name": "doubanInOne",
           "type": "UserScript",
-          "id": "75f26001-90ca-40ab-b1e5-7e48c14ae54c",
-          "path": "Z=附件-Extras/Script/douban.js",
+          "id": "4dc3f735-5748-4e79-aa84-423b749aa67d",
+          "path": "Z=附件-Extras/Script/doubanInOne.js",
           "settings": {}
-        },
-        {
-          "name": "生成读书笔记",
-          "type": "NestedChoice",
-          "id": "cb9cf46f-c32c-462b-9ff1-fde6d9a6b845",
-          "choice": {
-            "id": "969280cc-38c6-47ac-854c-7e674d7331cd",
-            "name": "生成读书笔记",
-            "type": "Template",
-            "command": false,
-            "templatePath": "Z=附件-Extras/Template/T_readnote.md",
-            "fileNameFormat": {
-              "enabled": true,
-              "format": "《{{VALUE:name}}》"
-            },
-            "folder": {
-              "enabled": true,
-              "folders": [
-                "D3=读书-Reading"
-              ],
-              "chooseWhenCreatingNote": false,
-              "createInSameFolderAsActiveFile": false
-            },
-            "appendLink": false,
-            "incrementFileName": false,
-            "openFileInNewTab": {
-              "enabled": false,
-              "direction": "vertical",
-              "focus": true
-            },
-            "openFile": true,
-            "openFileInMode": "default"
-          }
         }
       ],
       "runOnStartup": false

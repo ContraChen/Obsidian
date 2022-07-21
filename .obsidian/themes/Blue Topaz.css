@@ -12032,9 +12032,9 @@ body.show-border-table :is(.markdown-preview-view,.markdown-rendered) :is(th,td)
   border: 1px solid var(--table-border-color);
 }
 
-:is(.markdown-preview-view,.markdown-rendered) table {
+/*:is(.markdown-preview-view,.markdown-rendered) table {
   box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
-}
+}*/
 
 body.table-style-one.theme-light {
   --table-background-color-odd: rgba(0, 0, 0, 0.02);

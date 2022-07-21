@@ -1,5 +1,11 @@
 {
-  "sidebarCommands": [],
+  "sidebarCommands": [
+    {
+      "id": "workspaces-plus:Homepage",
+      "name": "Workspaces Plus: Load: Homepage",
+      "icon": "logo-crystal"
+    }
+  ],
   "hiddenCommands": [
     "Advanced Tables Toolbar",
     "新建 Excalidraw 绘图",
