@@ -25,8 +25,14 @@
       "encode": true
     },
     {
-      "name": "百度翻译",
+      "tags": [],
       "query": "https://fanyi.baidu.com/?aldtype=16047#en/zh/{{query}}",
+      "name": "百度翻译",
+      "encode": true
+    },
+    {
+      "name": "开发者搜索",
+      "query": "https://kaifa.baidu.com/searchPage?wd={{query}}",
       "tags": [],
       "encode": true
     }

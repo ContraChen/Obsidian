@@ -16,6 +16,7 @@ https://forum-zh.obsidian.md/
 ## from Johnny学
 [Johnny学OB 插件下载网址](https://ob.pory.app/)
 [[【Obsidian-教程-Johnny学OB】07 OB新手终极入门库，含大量资源]]
+[Docs](https://milinshushe.feishu.cn/docs/doccnfCDGSUJls2wYzr1gS80ZVf)
 新手终极入门库：[阿里云盘分享](https://www.aliyundrive.com/s/xMcaS67n5bU)
 
 ## oldwinter的数字花园

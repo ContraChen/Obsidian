@@ -71,17 +71,6 @@ color purple
 
 ---
 
-
-```button
-name 打开B 站
-type link
-action https://t.bilibili.com/?spm_id_from=333.999.b_696e7465726e6174696f6e616c486561646572.29
-color blue
-```
-^button-bzz
-
----
-
 ```button
 name 知识图谱
 type command

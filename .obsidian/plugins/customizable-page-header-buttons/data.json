@@ -1,0 +1,21 @@
+{
+  "enabledButtons": [
+    {
+      "id": "workspaces-plus:Homepage",
+      "icon": "lucide-home",
+      "name": "Workspaces Plus: Load: Homepage",
+      "showButtons": "both"
+    }
+  ],
+  "desktop": true,
+  "titleLeft": [
+    {
+      "id": "workspace:undo-close-pane",
+      "icon": "undo-glyph",
+      "name": "重新打开上一个关闭的面板"
+    }
+  ],
+  "titleRight": [],
+  "titleCenter": [],
+  "paneRelief": false
+}

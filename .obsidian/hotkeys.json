@@ -2,5 +2,17 @@
   "file-explorer:new-file-in-new-pane": [],
   "obsidian-auto-link-title:enhance-url-with-title": [],
   "obsidian-excalidraw-plugin:insert-link": [],
-  "editor:set-heading": []
+  "editor:set-heading": [],
+  "obsidian-advanced-slides:reload-advanced-slides-preview": [],
+  "obsidian-advanced-slides:open-advanced-slides-preview": [],
+  "obsidian-excalidraw-plugin:toggle-lock": [],
+  "workspaces-plus:Homepage": [
+    {
+      "modifiers": [
+        "Mod",
+        "Meta"
+      ],
+      "key": "H"
+    }
+  ]
 }

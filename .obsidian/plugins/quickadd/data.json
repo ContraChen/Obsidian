@@ -70,7 +70,7 @@
       "templatePath": "Z=附件-Extras/Template/T_MovieNote.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "《{{VALUE:name}}》"
+        "format": "《{{VALUE:fileName}}》"
       },
       "folder": {
         "enabled": true,
@@ -96,6 +96,13 @@
       "type": "Macro",
       "command": true,
       "macroId": "ac0e2753-dfee-4d6d-85d2-616e102970af"
+    },
+    {
+      "id": "1836fd1a-33eb-48a4-afce-8f1a04544ed2",
+      "name": "悬浮memos",
+      "type": "Macro",
+      "command": false,
+      "macroId": "0754ad99-1d9f-4265-98d7-f25c264d1175"
     }
   ],
   "macros": [
@@ -109,6 +116,31 @@
           "id": "4dc3f735-5748-4e79-aa84-423b749aa67d",
           "path": "Z=附件-Extras/Script/doubanInOne.js",
           "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "悬浮memos",
+      "id": "0754ad99-1d9f-4265-98d7-f25c264d1175",
+      "commands": [
+        {
+          "name": "Hover Editor: Open new Hover Editor",
+          "type": "Obsidian",
+          "id": "dd8306b8-a93d-45b5-b0da-5a2b02daab7c",
+          "commandId": "obsidian-hover-editor:open-new-popover"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "222fc529-fcd0-400d-b2df-571e13bcb064",
+          "time": 500
+        },
+        {
+          "name": "Obsidian Memos: Open Memos",
+          "type": "Obsidian",
+          "id": "a0e3628f-b11b-4743-bfbf-6d84d8bd8b85",
+          "commandId": "obsidian-memos:open-memos"
         }
       ],
       "runOnStartup": false

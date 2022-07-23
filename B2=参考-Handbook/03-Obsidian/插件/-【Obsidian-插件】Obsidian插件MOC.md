@@ -13,12 +13,14 @@
 - [ ] [[【Obsidian-插件】Commits-可视化的笔记仪表盘]]
 - [ ] [[【Obsidian-插件】Convert an url into an iframe]]
 - [ ] [[【Obsidian-插件】Customizable Menu]]
+- [ ] [[【Obsidian-插件】Customizable Page Header and Title Bar]]
 - [ ] [[【Obsidian-插件】Customization Sidebar-侧边栏管理和增添]]
 - [ ] [[【Obsidian-插件】DataView]]
 - [ ] [[【Obsidian-插件】Editor Syntax Highlight-代码高亮工具]]
 - [ ] [[【Obsidian-插件】Excalidraw-Excalidraw 白板支持]]
 - [ ] [[【Obsidian-插件】Gallery]]
 - [ ] [[【Obsidian-插件】Highlightr]]
+- [x] [[【Obsidian-插件】Homepage]]  （可由Customization Sidebar和workspace plus代替）
 - [ ] [[【Obsidian-插件】hover editor-悬浮窗口插件]]
 - [x] [[【Obsidian-插件】Icon Folder]]
 - [ ] [[【Obsidian-插件】Image auto upload Plugin]]
@@ -50,7 +52,6 @@
 # 暂未安装：
 - [ ] [[【Obsidian-插件】proxy github]]
 - [ ] [[【Obsidian-插件】Pandoc]]
-- [ ] [[【Obsidian-插件】Homepage]]
 - [ ] [[【Obsidian-插件】Tasks]]
 - [ ] [[【Obsidian-插件】Advanced Obsidian URI]]
 

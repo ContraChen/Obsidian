@@ -1,11 +1,15 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "cssTheme": "Blue Topaz",
-  "baseFontSize": 15,
+  "baseFontSize": 14,
   "translucency": false,
   "enabledCssSnippets": [
     "cardview",
     "整齐排列中文-两端对齐",
-    "nav-labels-zh"
+    "nav-labels-zh",
+    "custom-admonitions.c9c6cb",
+    "【自定义】myhome 样式",
+    "【天气】weather",
+    "custom-admonitions.a89ea4"
   ]
 }

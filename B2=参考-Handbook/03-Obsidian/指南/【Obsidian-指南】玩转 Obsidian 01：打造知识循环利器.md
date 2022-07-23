@@ -1,12 +1,12 @@
 ---
 alias: 玩转 Obsidian 01：打造知识循环利器
+tags: app/obsidian
 ---
 
 
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [sspai.com](https://sspai.com/post/62414)
 > 
 > 随着 Roam Research 的流行，越来越多人了解到 Zettelkasten 笔记法。
-#app/obsidian  #permanent
 最近随着 [Roam Research](https://roamresearch.com/) 的流行，越来越多的人了解到 Zettelkasten 这种笔记管理方法，它也被称为「卡片盒笔记法」。在各路大咖各种渠道的大力推广下，Roam Research 俨然扛起了 Zettelkasten 的大旗。诚然 Roam Research 非常优秀，但是其相对高昂的价格也让一些人望而却步，所以今天王掌柜带着大家一起玩转一款免费的 Zettelkasten 笔记软件——[Obsidian](https://obsidian.md/)。
 
 起因

@@ -3,14 +3,16 @@
     {
       "id": "workspaces-plus:Homepage",
       "name": "Workspaces Plus: Load: Homepage",
-      "icon": "logo-crystal"
+      "icon": "feather-home"
     }
   ],
   "hiddenCommands": [
     "Advanced Tables Toolbar",
-    "新建 Excalidraw 绘图",
     "Templater",
     "打开 Markdown 格式转换器",
-    "Manage workspace layouts"
+    "Manage workspace layouts",
+    "Memos",
+    "打开快速切换",
+    "打开命令面板"
   ]
 }

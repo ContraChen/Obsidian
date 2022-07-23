@@ -37,5 +37,6 @@ This is in the original admonition.
 > [!quote: This is the title!] > This is an admonition!、
 
 **相关：**
-* Obsidian 插件之 Admonition - AllinBon的文章 - 知乎 https://zhuanlan.zhihu.com/p/391252867
+* [[【Obsidian-Admonition-效果】分栏效果示例]]
+* [Obsidian 插件之 Admonition - AllinBon的文章 - 知乎 ](https://zhuanlan.zhihu.com/p/391252867)
 * [[-【Obsidian-插件】Obsidian插件MOC]]

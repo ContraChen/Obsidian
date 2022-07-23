@@ -12,7 +12,7 @@
             "file": "B1=纵览-Atlas/Scopes/Homepage.md",
             "mode": "preview",
             "backlinks": false,
-            "source": false
+            "source": true
           }
         }
       }
@@ -109,7 +109,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -259,17 +260,17 @@
     "direction": "horizontal",
     "width": 330
   },
-  "active": "5fb5b275729a1738",
+  "active": "a60870524b175b23",
   "lastOpenFiles": [
-    "D1=日记-Dailynote/2022-07-21-周四.md",
+    "A=收集-Inbox/【Obsidian-Admonition-效果】分栏效果示例.md",
     "B1=纵览-Atlas/Scopes/Homepage.md",
-    "B1=纵览-Atlas/Database/【合集-Buttons】Buttons Set.md",
-    "D4=观影-Viewing/-我的影单.md",
-    "D4=观影-Viewing/《爱，死亡和机器人 第一季》.md",
     "B1=纵览-Atlas/MOCs/-【Obsidian-使用】My Obsidian使用手册.md",
-    "D4=观影-Viewing/综艺/《非正式会谈 第七季》.md",
-    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】DataView.md",
-    "D3=读书-Reading/- 我的书单.md",
-    "D3=读书-Reading/《人类简史》.md"
+    "B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md",
+    "A=收集-Inbox/【Obsidian-插件】Customizable Page Header and Title Bar.md",
+    "B1=纵览-Atlas/MOCs/-【Obsidian-资源】Obsidian参考资料合集.md",
+    "D1=日记-Dailynote/2022-07-23-周六.md",
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Admonition-文本渲染.md",
+    "A=收集-Inbox/Pasted image 20220518090553.png.md",
+    "D1=日记-Dailynote/2022-07-22-周五.md"
   ]
 }

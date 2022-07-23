@@ -42,12 +42,12 @@
     "B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md": {
       "size": 3229,
       "tags": 2,
-      "links": 51
+      "links": 52
     },
     "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Admonition-文本渲染.md": {
       "size": 0,
       "tags": 1,
-      "links": 1
+      "links": 2
     },
     "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Advanced Obsidian URI.md": {
       "size": 0,
@@ -316,7 +316,7 @@
     },
     "B2=参考-Handbook/03-Obsidian/指南/【Obsidian-指南】玩转 Obsidian 01：打造知识循环利器.md": {
       "size": 31821,
-      "tags": 2,
+      "tags": 1,
       "links": 1
     },
     "B2=参考-Handbook/03-Obsidian/指南/【Obsidian-指南】玩转 Obsidian：以知识内化为目标，做好阅读和记录.md": {
@@ -700,7 +700,7 @@
       "links": 1
     },
     "B1=纵览-Atlas/Scopes/Homepage.md": {
-      "size": 0,
+      "size": 3888,
       "tags": 0,
       "links": 7
     },
@@ -787,7 +787,7 @@
     "D1=日记-Dailynote/2022-07-21-周四.md": {
       "size": 181,
       "tags": 2,
-      "links": 0
+      "links": 1
     },
     "D4=观影-Viewing/剧集/《大秦帝国之裂变》.md": {
       "size": 1444,
@@ -880,7 +880,7 @@
       "links": 1
     },
     "D4=观影-Viewing/-我的影单.md": {
-      "size": 2390,
+      "size": 3254,
       "tags": 1,
       "links": 1
     },
@@ -929,18 +929,83 @@
       "tags": 1,
       "links": 2
     },
-    "D4=观影-Viewing/《爱，死亡和机器人 第一季》.md": {
+    "D4=观影-Viewing/剧集/《爱，死亡和机器人 第一季》.md": {
       "size": 1561,
       "tags": 1,
+      "links": 1
+    },
+    "D1=日记-Dailynote/2022-07-22-周五.md": {
+      "size": 186,
+      "tags": 2,
+      "links": 2
+    },
+    "D4=观影-Viewing/剧集/《山海情》.md": {
+      "size": 1734,
+      "tags": 1,
+      "links": 1
+    },
+    "D4=观影-Viewing/剧集/《大山的女儿》.md": {
+      "size": 814,
+      "tags": 1,
+      "links": 1
+    },
+    "D4=观影-Viewing/纪录片/《河西走廊》.md": {
+      "size": 1182,
+      "tags": 1,
+      "links": 1
+    },
+    "A=收集-Inbox/Warren Buffett- Integrity Is the Most Important Attribute to Hire For. Ask 7 Simple Questions to Find It - Inc.com.md": {
+      "size": 3901,
+      "tags": 0,
+      "links": 0
+    },
+    "D3=读书-Reading/《黑客与画家》.md": {
+      "size": 12439,
+      "tags": 1,
+      "links": 2
+    },
+    "D3=读书-Reading/《史蒂夫·乔布斯传（修订版）》.md": {
+      "size": 3469,
+      "tags": 1,
+      "links": 2
+    },
+    "D3=读书-Reading/《爱因斯坦：生活和宇宙》.md": {
+      "size": 3554,
+      "tags": 1,
+      "links": 2
+    },
+    "D4=观影-Viewing/《中国通史》.md": {
+      "size": 1333,
+      "tags": 1,
+      "links": 1
+    },
+    "A=收集-Inbox/【LaTex-上下标】LaTex 中把下标置于文本正下方的方法.md": {
+      "size": 1509,
+      "tags": 1,
+      "links": 0
+    },
+    "D1=日记-Dailynote/2022-07-23-周六.md": {
+      "size": 174,
+      "tags": 2,
+      "links": 0
+    },
+    "A=收集-Inbox/【Obsidian-Admonition-效果】分栏效果示例.md": {
+      "size": 14533,
+      "tags": 1,
+      "links": 1
+    },
+    "A=收集-Inbox/【Obsidian-插件】Customizable Page Header and Title Bar.md": {
+      "size": 0,
+      "tags": 2,
       "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2153,
-      "Create": 338,
-      "Link": 543,
-      "Expand": 34
+      "Refactor": 2173,
+      "Create": 357,
+      "Link": 571,
+      "Expand": 38
     }
   },
   "dailyCommits": {
@@ -953,19 +1018,19 @@
       "5": 0,
       "6": 0,
       "7": 32,
-      "8": 276,
-      "9": 993,
-      "10": 252,
+      "8": 285,
+      "9": 1009,
+      "10": 262,
       "11": 50,
       "12": 2,
       "13": 65,
-      "14": 172,
+      "14": 190,
       "15": 161,
-      "16": 112,
+      "16": 113,
       "17": 135,
       "18": 31,
       "19": 5,
-      "20": 210,
+      "20": 227,
       "21": 238,
       "22": 224,
       "23": 75
@@ -976,10 +1041,10 @@
       "Mon": 227,
       "Tue": 244,
       "Wed": 1603,
-      "Thu": 380,
-      "Fri": 286,
+      "Thu": 396,
+      "Fri": 322,
       "Sat": 0,
-      "Sun": 328
+      "Sun": 347
     }
   },
   "recentCommits": {
@@ -1018,9 +1083,32 @@
         "<a class=\"internal-link\" href=\"Z=附件-Extras/Database/【合集-Buttons】Home Buttons.md\"> 【合集-Buttons】Home Buttons </a>",
         "<a class=\"internal-link\" href=\"D3=读书-Reading/默认书单.md\"> 默认书单 </a>",
         "<a class=\"internal-link\" href=\"D3=读书-Reading/-【Book-书单】默认书单.md\"> -【Book-书单】默认书单 </a>",
-        "<a class=\"internal-link\" href=\"D4=观影-Viewing/-我的影单.md\"> -我的影单 </a>"
+        "<a class=\"internal-link\" href=\"D4=观影-Viewing/-我的影单.md\"> -我的影单 </a>",
+        "<a class=\"internal-link\" href=\"D4=观影-Viewing/-我的影单.md\"> -我的影单 </a>",
+        "<a class=\"internal-link\" href=\"B1=纵览-Atlas/Scopes/Homepage.md\"> Homepage </a>",
+        "<a class=\"internal-link\" href=\"B1=纵览-Atlas/Scopes/Homepage.md\"> Homepage </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/分栏效果示例.md\"> 分栏效果示例 </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/【Obsidian-插件】Customizable Page Header and Title Bar.md\"> 【Obsidian-插件】Customizable Page Header and Title Bar </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Pasted image 20220518090553.png.md\"> Pasted image 20220518090553.png </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"D1=日记-Dailynote/2022-07-23-周六.md\"> 2022-07-23-周六 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/LaTex 中把下标置于文本正下方的方法_da_kao_la 的博客 - CSDN 博客_latex 正下方下标.md\"> LaTex 中把下标置于文本正下方的方法_da_kao_la 的博客 - CSDN 博客_latex 正下方下标 </a>",
+        "<a class=\"internal-link\" href=\"D4=观影-Viewing/《中国通史》.md\"> 《中国通史》 </a>",
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/《爱因斯坦》.md\"> 《爱因斯坦》 </a>",
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/《史蒂夫·乔布斯传（修订版）》.md\"> 《史蒂夫·乔布斯传（修订版）》 </a>",
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/《黑客与画家》.md\"> 《黑客与画家》 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Warren Buffett- Integrity Is the Most Important Attribute to Hire For. Ask 7 Simple Questions to Find It - Inc.com.md\"> Warren Buffett- Integrity Is the Most Important Attribute to Hire For. Ask 7 Simple Questions to Find It - Inc.com </a>",
+        "<a class=\"internal-link\" href=\"D4=观影-Viewing/《河西走廊》.md\"> 《河西走廊》 </a>",
+        "<a class=\"internal-link\" href=\"D4=观影-Viewing/《大三的女儿》.md\"> 《大三的女儿》 </a>",
+        "<a class=\"internal-link\" href=\"D4=观影-Viewing/《山海情》.md\"> 《山海情》 </a>",
+        "<a class=\"internal-link\" href=\"D1=日记-Dailynote/2022-07-22-周五.md\"> 2022-07-22-周五 </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Draws/Drawing 2022-07-21 20.21.03.excalidraw.md\"> Drawing 2022-07-21 20.21.03.excalidraw </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Draws/Drawing 2022-07-21 20.12.35.excalidraw.md\"> Drawing 2022-07-21 20.12.35.excalidraw </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extra/Draws/Drawing 2022-07-21 20.11.02.excalidraw.md\"> Drawing 2022-07-21 20.11.02.excalidraw </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/未命名.md\"> 未命名 </a>",
         "<a class=\"internal-link\" href=\"D4=观影-Viewing/《爱，死亡与机器人》.md\"> 《爱，死亡与机器人》 </a>",
         "<a class=\"internal-link\" href=\"D3=读书-Reading/《人类简史》.md\"> 《人类简史》 </a>",
         "<a class=\"internal-link\" href=\"X=资源-Sources/iframe/未命名.md\"> 未命名 </a>",
@@ -1052,28 +1140,21 @@
         "<a class=\"internal-link\" href=\"D4=观影-Viewing/《英雄》.md\"> 《英雄》 </a>",
         "<a class=\"internal-link\" href=\"D4=观影-Viewing/《甜蜜蜜》.md\"> 《甜蜜蜜》 </a>",
         "<a class=\"internal-link\" href=\"D4=观影-Viewing/《甜蜜蜜》.md\"> 《甜蜜蜜》 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/《三体Ⅲ》.md\"> 《三体Ⅲ》 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/《三体Ⅱ》.md\"> 《三体Ⅱ》 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/《三体》.md\"> 《三体》 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/《柳林风声诺顿注释本》.md\"> 《柳林风声诺顿注释本》 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/《兄弟》.md\"> 《兄弟》 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/【Book-被讨厌的勇气】.md\"> 【Book-被讨厌的勇气】 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/【Book-三体】.md\"> 【Book-三体】 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/【Book-蛤蟆先生去看心理医生】.md\"> 【Book-蛤蟆先生去看心理医生】 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/【Book-蛤蟆先生去看心理医生】.md\"> 【Book-蛤蟆先生去看心理医生】 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/【Book-蛤蟆先生去看心理医生】.md\"> 【Book-蛤蟆先生去看心理医生】 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/【Book-蛤蟆先生去看心理医生】.md\"> 【Book-蛤蟆先生去看心理医生】 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/【Book-三体】.md\"> 【Book-三体】 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/【Book-三体】.md\"> 【Book-三体】 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/-【Book-书单】默认书单.md\"> -【Book-书单】默认书单 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/home.md\"> home </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/未命名.md\"> 未命名 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Books.md\"> Books </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/未命名.md\"> 未命名 </a>",
-        "<a class=\"internal-link\" href=\"D4=观影-Viewing/【Movie-萌探探探案】.md\"> 【Movie-萌探探探案】 </a>",
-        "<a class=\"internal-link\" href=\"D4=观影-Viewing/【Movie-undefined】.md\"> 【Movie-undefined】 </a>"
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/《三体Ⅲ》.md\"> 《三体Ⅲ》 </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/【Obsidian-Admonition-效果】分栏效果示例.md\"> 【Obsidian-Admonition-效果】分栏效果示例 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/分栏效果示例.md\"> 分栏效果示例 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/【LaTex-上下标】LaTex 中把下标置于文本正下方的方法.md\"> 【LaTex-上下标】LaTex 中把下标置于文本正下方的方法 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/【Latex-上下标】LaTex 中把下标置于文本正下方的方法.md\"> 【Latex-上下标】LaTex 中把下标置于文本正下方的方法 </a>",
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/《爱因斯坦：生活和宇宙》.md\"> 《爱因斯坦：生活和宇宙》 </a>",
+        "<a class=\"internal-link\" href=\"D4=观影-Viewing/纪录片/《河西走廊》.md\"> 《河西走廊》 </a>",
+        "<a class=\"internal-link\" href=\"D4=观影-Viewing/剧集/《大山的女儿》.md\"> 《大山的女儿》 </a>",
+        "<a class=\"internal-link\" href=\"D4=观影-Viewing/剧集/《山海情》.md\"> 《山海情》 </a>",
+        "<a class=\"internal-link\" href=\"D4=观影-Viewing/剧集/《大三的女儿》.md\"> 《大三的女儿》 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Excalidraw.md\"> Excalidraw </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Ex.md\"> Ex </a>",
+        "<a class=\"internal-link\" href=\"D4=观影-Viewing/剧集/《爱，死亡和机器人 第一季》.md\"> 《爱，死亡和机器人 第一季》 </a>",
         "<a class=\"internal-link\" href=\"D4=观影-Viewing/《爱，死亡和机器人 第一季》.md\"> 《爱，死亡和机器人 第一季》 </a>",
         "<a class=\"internal-link\" href=\"D4=观影-Viewing/《爱，死亡和机器人》.md\"> 《爱，死亡和机器人》 </a>",
         "<a class=\"internal-link\" href=\"X=资源-Sources/iframe/微信读书iframe.md\"> 微信读书iframe </a>",
@@ -1112,21 +1193,22 @@
         "<a class=\"internal-link\" href=\"D3=读书-Reading/《三体》.md\"> 《三体》 </a>",
         "<a class=\"internal-link\" href=\"D3=读书-Reading/《蛤蟆先生去看心理医生》.md\"> 《蛤蟆先生去看心理医生》 </a>",
         "<a class=\"internal-link\" href=\"D3=读书-Reading/-【Book-书单】我的书单.md\"> -【Book-书单】我的书单 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/-【Book-书单】默认书单.md\"> -【Book-书单】默认书单 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/默认书单.md\"> 默认书单 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/【View-Buttons】.md\"> 【View-Buttons】 </a>",
-        "<a class=\"internal-link\" href=\"Z=附件-Extras/Database/【合集-Buttons】Buttons Set.md\"> 【合集-Buttons】Buttons Set </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Buttons.md\"> Buttons </a>",
-        "<a class=\"internal-link\" href=\"D4=观影-Viewing/【Movie-肖申克的救赎】.md\"> 【Movie-肖申克的救赎】 </a>",
-        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/T_ReadNote.md\"> T_ReadNote </a>",
-        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/T_MovieNote.md\"> T_MovieNote </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/【Obsidian-教程】Obsidian使用技巧：一站式搜索并生成书影笔记.md\"> 【Obsidian-教程】Obsidian使用技巧：一站式搜索并生成书影笔记 </a>",
-        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/T_Alias.md\"> T_Alias </a>",
-        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/T_Booknote.md\"> T_Booknote </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/《被讨厌的勇气》.md\"> 《被讨厌的勇气》 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/书单.md\"> 书单 </a>"
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/-【Book-书单】默认书单.md\"> -【Book-书单】默认书单 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/【Obsidian-插件】Customizable Page Header and Title Bar.md\"> 【Obsidian-插件】Customizable Page Header and Title Bar </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/【Obsidian-Admonition-效果】分栏效果示例.md\"> 【Obsidian-Admonition-效果】分栏效果示例 </a>",
+        "<a class=\"internal-link\" href=\"D1=日记-Dailynote/2022-07-23-周六.md\"> 2022-07-23-周六 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/【LaTex-上下标】LaTex 中把下标置于文本正下方的方法.md\"> 【LaTex-上下标】LaTex 中把下标置于文本正下方的方法 </a>",
+        "<a class=\"internal-link\" href=\"D4=观影-Viewing/《中国通史》.md\"> 《中国通史》 </a>",
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/《黑客与画家》.md\"> 《黑客与画家》 </a>",
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/《史蒂夫·乔布斯传（修订版）》.md\"> 《史蒂夫·乔布斯传（修订版）》 </a>",
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/《爱因斯坦》.md\"> 《爱因斯坦》 </a>",
+        "<a class=\"internal-link\" href=\"D4=观影-Viewing/《河西走廊》.md\"> 《河西走廊》 </a>",
+        "<a class=\"internal-link\" href=\"D1=日记-Dailynote/2022-07-22-周五.md\"> 2022-07-22-周五 </a>",
+        "<a class=\"internal-link\" href=\"D4=观影-Viewing/剧集/《山海情》.md\"> 《山海情》 </a>",
+        "<a class=\"internal-link\" href=\"D4=观影-Viewing/剧集/《大山的女儿》.md\"> 《大山的女儿》 </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Draws/Drawing 2022-07-21 20.12.35.excalidraw.md\"> Drawing 2022-07-21 20.12.35.excalidraw </a>",
         "<a class=\"internal-link\" href=\"D4=观影-Viewing/《爱，死亡和机器人》.md\"> 《爱，死亡和机器人》 </a>",
         "<a class=\"internal-link\" href=\"D3=读书-Reading/《人类简史》.md\"> 《人类简史》 </a>",
         "<a class=\"internal-link\" href=\"D3=读书-Reading/- 我的书单.md\"> - 我的书单 </a>",
@@ -1164,20 +1246,7 @@
         "<a class=\"internal-link\" href=\"D3=读书-Reading/《兄弟》.md\"> 《兄弟》 </a>",
         "<a class=\"internal-link\" href=\"D3=读书-Reading/【Book-被讨厌的勇气】.md\"> 【Book-被讨厌的勇气】 </a>",
         "<a class=\"internal-link\" href=\"D3=读书-Reading/【Book-三体】.md\"> 【Book-三体】 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/【Book-蛤蟆先生去看心理医生】.md\"> 【Book-蛤蟆先生去看心理医生】 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/【Book-蛤蟆先生去看心理医生】.md\"> 【Book-蛤蟆先生去看心理医生】 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/【Book-蛤蟆先生去看心理医生】.md\"> 【Book-蛤蟆先生去看心理医生】 </a>",
-        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/T_ReadNote.md\"> T_ReadNote </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/【Book-三体】.md\"> 【Book-三体】 </a>",
-        "<a class=\"internal-link\" href=\"D4=观影-Viewing/【Movie-肖申克的救赎】.md\"> 【Movie-肖申克的救赎】 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/【Book-三体】.md\"> 【Book-三体】 </a>",
-        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/MovieNote.md\"> MovieNote </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/【Obsidian-教程】Obsidian使用技巧：一站式搜索并生成书影笔记.md\"> 【Obsidian-教程】Obsidian使用技巧：一站式搜索并生成书影笔记 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/《如何阅读一本书》.md\"> 《如何阅读一本书》 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/被讨厌的勇气.md\"> 被讨厌的勇气 </a>",
-        "<a class=\"internal-link\" href=\"C1=学习-Study/Obsidian学习/【Obsidian-教程】QuickAdd一键生成读书笔记演示及使用方法.md\"> 【Obsidian-教程】QuickAdd一键生成读书笔记演示及使用方法 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/【Obsidian-插件】Workspaces Plus.md\"> 【Obsidian-插件】Workspaces Plus </a>",
-        "<a class=\"internal-link\" href=\"D3=外刊-Periodical/【外刊-路透社】羽生结弦宣布退役.md\"> 【外刊-路透社】羽生结弦宣布退役 </a>"
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/【Book-蛤蟆先生去看心理医生】.md\"> 【Book-蛤蟆先生去看心理医生】 </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"B1=参考/01-Obsidian/插件/【Obsidian-插件】插件MOC.md\"> 【Obsidian-插件】插件MOC </a>",
@@ -1189,6 +1258,12 @@
         "<a class=\"internal-link\" href=\"B1=纵览-Atlas/MOCs/-【Obsidian-使用】My Obsidian使用手册.md\"> -【Obsidian-使用】My Obsidian使用手册 </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Pasted image 20220518090553.png.md\"> Pasted image 20220518090553.png </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Draws/Drawing 2022-07-21 20.12.35.excalidraw.md\"> Drawing 2022-07-21 20.12.35.excalidraw </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extras/Draws/Drawing 2022-07-21 20.21.03.excalidraw.md\"> Drawing 2022-07-21 20.21.03.excalidraw </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Excalidraw.md\"> Excalidraw </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"Z=附件-Extra/Draws/Drawing 2022-07-21 20.11.02.excalidraw.md\"> Drawing 2022-07-21 20.11.02.excalidraw </a>",
         "<a class=\"internal-link\" href=\"D4=观影-Viewing/《脱口秀大会 第五季》.md\"> 《脱口秀大会 第五季》 </a>",
         "<a class=\"internal-link\" href=\"D4=观影-Viewing/《甜蜜蜜》.md\"> 《甜蜜蜜》 </a>",
         "<a class=\"internal-link\" href=\"D4=观影-Viewing/【Movie-肖申克的救赎】.md\"> 【Movie-肖申克的救赎】 </a>",
@@ -1233,15 +1308,24 @@
         "<a class=\"internal-link\" href=\"A=收集-Inbox/GTD.md\"> GTD </a>",
         "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/T_Metadata.md\"> T_Metadata </a>",
         "<a class=\"internal-link\" href=\"B1=纵览-Atlas/Scopes/【合集-Buttons】Home Buttons.md\"> 【合集-Buttons】Home Buttons </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/未命名.md\"> 未命名 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/delete.md\"> delete </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-15-周五.md\"> 2022-07-15-周五 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-13-周三.md\"> 2022-07-13-周三 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Daily/2022-07-14-周四.md\"> 2022-07-14-周四 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/Default/未命名.md\"> 未命名 </a>",
-        "<a class=\"internal-link\" href=\"C3=提升-Improve/01-外刊阅读/-【外刊-MOC】我的外刊阅读手册.md\"> -【外刊-MOC】我的外刊阅读手册 </a>"
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/未命名.md\"> 未命名 </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"B1=纵览-Atlas/Scopes/Homepage.md\"> Homepage </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/【Obsidian-插件】Customizable Page Header and Title Bar.md\"> 【Obsidian-插件】Customizable Page Header and Title Bar </a>",
+        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md\"> -【Obsidian-插件】Obsidian插件MOC </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/【Obsidian-Admonition-效果】分栏效果示例.md\"> 【Obsidian-Admonition-效果】分栏效果示例 </a>",
+        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Admonition-文本渲染.md\"> 【Obsidian-插件】Admonition-文本渲染 </a>",
+        "<a class=\"internal-link\" href=\"D1=日记-Dailynote/2022-07-22-周五.md\"> 2022-07-22-周五 </a>",
+        "<a class=\"internal-link\" href=\"D4=观影-Viewing/《中国通史》.md\"> 《中国通史》 </a>",
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/《黑客与画家》.md\"> 《黑客与画家》 </a>",
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/《史蒂夫·乔布斯传（修订版）》.md\"> 《史蒂夫·乔布斯传（修订版）》 </a>",
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/《爱因斯坦》.md\"> 《爱因斯坦》 </a>",
+        "<a class=\"internal-link\" href=\"D4=观影-Viewing/《河西走廊》.md\"> 《河西走廊》 </a>",
+        "<a class=\"internal-link\" href=\"D4=观影-Viewing/剧集/《山海情》.md\"> 《山海情》 </a>",
+        "<a class=\"internal-link\" href=\"D4=观影-Viewing/剧集/《大山的女儿》.md\"> 《大山的女儿》 </a>",
+        "<a class=\"internal-link\" href=\"D1=日记-Dailynote/2022-07-21-周四.md\"> 2022-07-21-周四 </a>",
+        "<a class=\"internal-link\" href=\"A=收集-Inbox/Excalidraw.md\"> Excalidraw </a>",
         "<a class=\"internal-link\" href=\"D4=观影-Viewing/《爱，死亡和机器人》.md\"> 《爱，死亡和机器人》 </a>",
         "<a class=\"internal-link\" href=\"B1=纵览-Atlas/Scopes/Homepage.md\"> Homepage </a>",
         "<a class=\"internal-link\" href=\"D3=读书-Reading/《人类简史》.md\"> 《人类简史》 </a>",
@@ -1277,24 +1361,10 @@
         "<a class=\"internal-link\" href=\"D3=读书-Reading/《柳林风声诺顿注释本》.md\"> 《柳林风声诺顿注释本》 </a>",
         "<a class=\"internal-link\" href=\"D3=读书-Reading/《三体》.md\"> 《三体》 </a>",
         "<a class=\"internal-link\" href=\"D3=读书-Reading/《三体Ⅱ》.md\"> 《三体Ⅱ》 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/《兄弟》.md\"> 《兄弟》 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/《三体》.md\"> 《三体》 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/【Book-被讨厌的勇气】.md\"> 【Book-被讨厌的勇气】 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/【Book-三体】.md\"> 【Book-三体】 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/【Book-蛤蟆先生去看心理医生】.md\"> 【Book-蛤蟆先生去看心理医生】 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/【Book-蛤蟆先生去看心理医生】.md\"> 【Book-蛤蟆先生去看心理医生】 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/【Book-蛤蟆先生去看心理医生】.md\"> 【Book-蛤蟆先生去看心理医生】 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/-【Book-书单】默认书单.md\"> -【Book-书单】默认书单 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/【Book-三体】.md\"> 【Book-三体】 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/默认书单.md\"> 默认书单 </a>",
-        "<a class=\"internal-link\" href=\"Z=附件-Extras/Database/【合集-Buttons】Buttons Set.md\"> 【合集-Buttons】Buttons Set </a>",
-        "<a class=\"internal-link\" href=\"D1=日记-Dailynote/2022-07-20-周三.md\"> 2022-07-20-周三 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/【Obsidian-教程】Obsidian使用技巧：一站式搜索并生成书影笔记.md\"> 【Obsidian-教程】Obsidian使用技巧：一站式搜索并生成书影笔记 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/【Book-三体】.md\"> 【Book-三体】 </a>",
-        "<a class=\"internal-link\" href=\"A=收集-Inbox/【Obsidian-教程】Obsidian使用技巧：一站式搜索并生成书影笔记.md\"> 【Obsidian-教程】Obsidian使用技巧：一站式搜索并生成书影笔记 </a>",
-        "<a class=\"internal-link\" href=\"Z=附件-Extras/Template/ReadNote.md\"> ReadNote </a>"
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/《兄弟》.md\"> 《兄弟》 </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/指南/【Obsidian-指南】玩转 Obsidian 01：打造知识循环利器.md\"> 【Obsidian-指南】玩转 Obsidian 01：打造知识循环利器 </a>",
         "<a class=\"internal-link\" href=\"D3=读书-Reading/【Book-蛤蟆先生去看心理医生】.md\"> 【Book-蛤蟆先生去看心理医生】 </a>",
         "<a class=\"internal-link\" href=\"D3=读书-Reading/【Book-三体】.md\"> 【Book-三体】 </a>",
         "<a class=\"internal-link\" href=\"C1=学习-Study/卡片盒笔记法/【卡片盒笔记法-介绍】卡片盒笔记法详细介绍.md\"> 【卡片盒笔记法-介绍】卡片盒笔记法详细介绍 </a>",
@@ -1344,8 +1414,7 @@
         "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Editor Syntax Highlight-代码高亮工具.md\"> 【Obsidian-插件】Editor Syntax Highlight-代码高亮工具 </a>",
         "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Customizable Menu.md\"> 【Obsidian-插件】Customizable Menu </a>",
         "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Sliding Panes (Andy's Mode)-滑动窗口插件.md\"> 【Obsidian-插件】Sliding Panes (Andy's Mode)-滑动窗口插件 </a>",
-        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Style Setting.md\"> 【Obsidian-插件】Style Setting </a>",
-        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Search on Internet.md\"> 【Obsidian-插件】Search on Internet </a>"
+        "<a class=\"internal-link\" href=\"B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Style Setting.md\"> 【Obsidian-插件】Style Setting </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"C1=学习/C1.1=课程学习/樊昌信通信原理期末复习.md\"> 樊昌信通信原理期末复习 </a>",
@@ -1369,7 +1438,8 @@
         "<a class=\"internal-link\" href=\"C2=工作-Work/毕业设计/笔记/【毕设-选题】我的毕设选题.md\"> 【毕设-选题】我的毕设选题 </a>",
         "<a class=\"internal-link\" href=\"C1=学习-Study/Obsidian学习/【Obsidian-教程】QuickAdd一键生成读书笔记演示及使用方法.md\"> 【Obsidian-教程】QuickAdd一键生成读书笔记演示及使用方法 </a>",
         "<a class=\"internal-link\" href=\"D3=读书-Reading/默认书单.md\"> 默认书单 </a>",
-        "<a class=\"internal-link\" href=\"D3=读书-Reading/《三体》.md\"> 《三体》 </a>"
+        "<a class=\"internal-link\" href=\"D3=读书-Reading/《三体》.md\"> 《三体》 </a>",
+        "<a class=\"internal-link\" href=\"B1=纵览-Atlas/Scopes/Homepage.md\"> Homepage </a>"
       ]
     }
   },
