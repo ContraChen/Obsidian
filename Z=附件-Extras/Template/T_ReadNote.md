@@ -35,7 +35,7 @@ from #book
 where file.name!=this.file.name & file.name!="T_ReadNote" & ((((date(BeginDate)-this.BeginDate).days<=90 & (date(BeginDate)-this.BeginDate).days>=0)) | (((date(this.BeginDate)-BeginDate).days<=90 & (date(this.BeginDate)-BeginDate).days>=0)))
 ```
 ````
-[[- 我的书单|查看完整书单]]
+[[-我的书单|查看完整书单]]
 
 ---
 # {{VALUE:name}}

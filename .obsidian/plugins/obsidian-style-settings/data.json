@@ -15,13 +15,12 @@
   "ITS@@o-stat-bar": false,
   "ITS@@rsb-up": false,
   "ITS@@op-h": false,
-  "blue-topaz-theme@@setting-etc-pane-style": "setting-style-traditional",
-  "blue-topaz-theme@@hr-for-pagination": false,
-  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
-  "blue-topaz-theme@@left-ribbon-style": "default-left-ribbon-style",
-  "blue-topaz-theme@@right-ribbon-style": "hide-right-ribbon-button-top",
-  "blue-topaz-theme@@layout-style-options": "layout-style-options-default",
-  "blue-topaz-theme@@hide-vault-name": false,
-  "blue-topaz-theme@@search-bar-style-option": "default-search-bar",
-  "blue-topaz-theme@@rainbow-checklist": false
+  "customizable-page-header-buttons@@page-header-spacing-desktop": 18,
+  "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-blue-mountain",
+  "blue-topaz-theme@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-four-seasons",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-avocado-topaz",
+  "blue-topaz-theme@@background-settings-workplace-background-image": true,
+  "blue-topaz-theme@@blur-depth": 0,
+  "blue-topaz-theme@@toggle-bg-file-page": false,
+  "blue-topaz-theme@@style-options-for-buttons-plugin": true
 }

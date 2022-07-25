@@ -98,11 +98,27 @@
       "macroId": "ac0e2753-dfee-4d6d-85d2-616e102970af"
     },
     {
-      "id": "1836fd1a-33eb-48a4-afce-8f1a04544ed2",
-      "name": "悬浮memos",
-      "type": "Macro",
-      "command": false,
-      "macroId": "0754ad99-1d9f-4265-98d7-f25c264d1175"
+      "id": "e0568178-a968-49a0-a452-2dd7ed6fad5e",
+      "name": "悬浮页面",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "06ba47ea-ef1f-4c97-ac15-79bde693aa53",
+          "name": "写日记",
+          "type": "Macro",
+          "command": true,
+          "macroId": "82bb3105-e7f1-4360-b637-7ff4565701f9"
+        },
+        {
+          "id": "1836fd1a-33eb-48a4-afce-8f1a04544ed2",
+          "name": "写memos",
+          "type": "Macro",
+          "command": true,
+          "macroId": "0754ad99-1d9f-4265-98d7-f25c264d1175"
+        }
+      ],
+      "collapsed": false
     }
   ],
   "macros": [
@@ -141,6 +157,31 @@
           "type": "Obsidian",
           "id": "a0e3628f-b11b-4743-bfbf-6d84d8bd8b85",
           "commandId": "obsidian-memos:open-memos"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "悬浮日记",
+      "id": "82bb3105-e7f1-4360-b637-7ff4565701f9",
+      "commands": [
+        {
+          "name": "Hover Editor: Open new Hover Editor",
+          "type": "Obsidian",
+          "id": "e5533af6-1602-4bba-8c15-9d54802b7daa",
+          "commandId": "obsidian-hover-editor:open-new-popover"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "968a3802-dfb7-430f-aa54-0a712982a539",
+          "time": 500
+        },
+        {
+          "name": "日记: 打开/创建今天的日记",
+          "type": "Obsidian",
+          "id": "1c4512e0-8ecd-407b-97ba-043daf085b03",
+          "commandId": "daily-notes"
         }
       ],
       "runOnStartup": false

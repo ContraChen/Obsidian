@@ -36,21 +36,12 @@ banner_y: 0.5
 <!-----指定城市后面添加城市拼音比例如 重庆天气预报：https://i.tianqi.com/?c=code&id=34&bdc=%23&icon=4&site=14&py=chongqing------>
 </div>
 ```
-**笔记导航**:    [[-我的影单|我的影单]] | [[- 我的书单|我的书单]] | [[时光序iframe|时光序]] | [[微信读书iframe|微信读书]]
-**网址导航**:    [B站动态](https://t.bilibili.com/?spm_id_from=333.1007.0.0) | [程序员导航](https://cxy521.com/) | [微信公众平台](https://mp.weixin.qq.com/) | [语雀](https://www.yuque.com/dashboard) | [GitHub](https://github.com/)
-
-
----
-常用功能：`button-rj` `button-douban` `button-tu` `button-heian` `button-mingliang`
-
----
 ```ad-note
-title:我的小白板
-icon:fire
-collapse:close
-<iframe src="https://excalidraw.com" width="100%" height="450" > </iframe>
+title:启航2022
+icon:plane
+collapse: close
+![[工具箱]]
 ```
-
 
 ---
 # 最近阅读 
@@ -68,7 +59,9 @@ where status = "在看" | (status = "已看" & WatchDate>=date(today)-dur(30 day
 sort file.mtime desc
 ```
 ---
-数据：[[【合集-Buttons】Buttons Set|Buttons合集]] | [[-【MOC-合集】内容MOC合集|MOC合集]] | [[-【Obsidian-资源】Obsidian参考资料合集|OB资料合集]]
-
----
- 
+```ad-note
+title:我的小白板
+icon:fire
+collapse:close
+<iframe src="https://excalidraw.com" width="100%" height="450" > </iframe>
+```

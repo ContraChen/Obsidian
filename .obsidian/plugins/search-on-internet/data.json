@@ -31,8 +31,14 @@
       "encode": true
     },
     {
-      "name": "开发者搜索",
+      "tags": [],
       "query": "https://kaifa.baidu.com/searchPage?wd={{query}}",
+      "name": "开发者搜索",
+      "encode": true
+    },
+    {
+      "name": "图标搜索",
+      "query": "https://www.flaticon.com/search?word={{query}}",
       "tags": [],
       "encode": true
     }

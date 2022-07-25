@@ -5,200 +5,200 @@
       "path": "B1=纵览-Atlas/Scopes/Homepage.md"
     },
     {
+      "basename": "T_WeeklyNote",
+      "path": "Z=附件-Extras/Template/T_WeeklyNote.md"
+    },
+    {
+      "basename": "工具箱",
+      "path": "B1=纵览-Atlas/Scopes/工具箱.md"
+    },
+    {
+      "basename": "使用手册",
+      "path": "B1=纵览-Atlas/Scopes/使用手册.md"
+    },
+    {
       "basename": "【Obsidian-Admonition-效果】分栏效果示例",
       "path": "A=收集-Inbox/【Obsidian-Admonition-效果】分栏效果示例.md"
-    },
-    {
-      "basename": "-【Obsidian-使用】My Obsidian使用手册",
-      "path": "B1=纵览-Atlas/MOCs/-【Obsidian-使用】My Obsidian使用手册.md"
-    },
-    {
-      "basename": "-【Obsidian-插件】Obsidian插件MOC",
-      "path": "B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md"
-    },
-    {
-      "basename": "【Obsidian-插件】Customizable Page Header and Title Bar",
-      "path": "A=收集-Inbox/【Obsidian-插件】Customizable Page Header and Title Bar.md"
-    },
-    {
-      "basename": "-【Obsidian-资源】Obsidian参考资料合集",
-      "path": "B1=纵览-Atlas/MOCs/-【Obsidian-资源】Obsidian参考资料合集.md"
-    },
-    {
-      "basename": "2022-07-23-周六",
-      "path": "D1=日记-Dailynote/2022-07-23-周六.md"
-    },
-    {
-      "basename": "【Obsidian-插件】Admonition-文本渲染",
-      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Admonition-文本渲染.md"
-    },
-    {
-      "basename": "2022-07-22-周五",
-      "path": "D1=日记-Dailynote/2022-07-22-周五.md"
-    },
-    {
-      "basename": "《河西走廊》",
-      "path": "D4=观影-Viewing/纪录片/《河西走廊》.md"
-    },
-    {
-      "basename": "-我的影单",
-      "path": "D4=观影-Viewing/-我的影单.md"
-    },
-    {
-      "basename": "【LaTex-上下标】LaTex 中把下标置于文本正下方的方法",
-      "path": "A=收集-Inbox/【LaTex-上下标】LaTex 中把下标置于文本正下方的方法.md"
-    },
-    {
-      "basename": "-【MOC-合集】内容MOC合集",
-      "path": "B1=纵览-Atlas/MOCs/-【MOC-合集】内容MOC合集.md"
-    },
-    {
-      "basename": "《阳光普照》",
-      "path": "D4=观影-Viewing/电影/《阳光普照》.md"
-    },
-    {
-      "basename": "《中国通史》",
-      "path": "D4=观影-Viewing/《中国通史》.md"
     },
     {
       "basename": "【Obsidian-教程】Obsidian使用技巧：一站式搜索并生成书影笔记",
       "path": "A=收集-Inbox/【Obsidian-教程】Obsidian使用技巧：一站式搜索并生成书影笔记.md"
     },
     {
-      "basename": "《爱因斯坦：生活和宇宙》",
-      "path": "D3=读书-Reading/《爱因斯坦：生活和宇宙》.md"
+      "basename": "2022-07-25-周一",
+      "path": "D1=日记-Dailynote/2022-07-25-周一.md"
     },
     {
-      "basename": "- 我的书单",
-      "path": "D3=读书-Reading/- 我的书单.md"
-    },
-    {
-      "basename": "《史蒂夫·乔布斯传（修订版）》",
-      "path": "D3=读书-Reading/《史蒂夫·乔布斯传（修订版）》.md"
-    },
-    {
-      "basename": "《黑客与画家》",
-      "path": "D3=读书-Reading/《黑客与画家》.md"
-    },
-    {
-      "basename": "【Obsidian-指南】玩转 Obsidian 01：打造知识循环利器",
-      "path": "B2=参考-Handbook/03-Obsidian/指南/【Obsidian-指南】玩转 Obsidian 01：打造知识循环利器.md"
-    },
-    {
-      "basename": "《山海情》",
-      "path": "D4=观影-Viewing/剧集/《山海情》.md"
-    },
-    {
-      "basename": "《开端》",
-      "path": "D4=观影-Viewing/剧集/《开端》.md"
-    },
-    {
-      "basename": "《大山的女儿》",
-      "path": "D4=观影-Viewing/剧集/《大山的女儿》.md"
-    },
-    {
-      "basename": "《后宫·甄嬛传》",
-      "path": "D4=观影-Viewing/剧集/《后宫·甄嬛传》.md"
-    },
-    {
-      "basename": "2022-07-21-周四",
-      "path": "D1=日记-Dailynote/2022-07-21-周四.md"
-    },
-    {
-      "basename": "《三体Ⅱ》",
-      "path": "D3=读书-Reading/《三体Ⅱ》.md"
-    },
-    {
-      "basename": "《三体》",
-      "path": "D3=读书-Reading/《三体》.md"
-    },
-    {
-      "basename": "【Obsidian-插件】Excalidraw-Excalidraw 白板支持",
-      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Excalidraw-Excalidraw 白板支持.md"
-    },
-    {
-      "basename": "【Note-组织】ACCESS笔记组织法",
-      "path": "B2=参考-Handbook/01-Take Notes/【Note-组织】ACCESS笔记组织法.md"
-    },
-    {
-      "basename": "《萌探探探案 第二季》",
-      "path": "D4=观影-Viewing/综艺/《萌探探探案 第二季》.md"
-    },
-    {
-      "basename": "【Obsidian-插件】DataView",
-      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】DataView.md"
-    },
-    {
-      "basename": "《人类简史》",
-      "path": "D3=读书-Reading/《人类简史》.md"
-    },
-    {
-      "basename": "《爱，死亡和机器人 第一季》",
-      "path": "D4=观影-Viewing/剧集/《爱，死亡和机器人 第一季》.md"
-    },
-    {
-      "basename": "《甜蜜蜜》",
-      "path": "D4=观影-Viewing/电影/《甜蜜蜜》.md"
-    },
-    {
-      "basename": "《这个杀手不太冷静》",
-      "path": "D4=观影-Viewing/电影/《这个杀手不太冷静》.md"
-    },
-    {
-      "basename": "《三体Ⅲ》",
-      "path": "D3=读书-Reading/《三体Ⅲ》.md"
-    },
-    {
-      "basename": "《超脱》",
-      "path": "D4=观影-Viewing/电影/《超脱》.md"
-    },
-    {
-      "basename": "《沙丘》",
-      "path": "D4=观影-Viewing/电影/《沙丘》.md"
-    },
-    {
-      "basename": "《长津湖》",
-      "path": "D4=观影-Viewing/电影/《长津湖》.md"
-    },
-    {
-      "basename": "【外刊-路透社】羽生结弦宣布退役",
-      "path": "D5=外刊-Periodical/【外刊-路透社】羽生结弦宣布退役.md"
-    },
-    {
-      "basename": "【数学-素养课】考研数学素养课",
-      "path": "C2=工作-Work/考研学习/D2.2=考研数学/【数学-素养课】考研数学素养课.md"
-    },
-    {
-      "basename": "T_ReadNote",
-      "path": "Z=附件-Extras/Template/T_ReadNote.md"
+      "basename": "【CSS-侧边栏】边栏工作区文档图标自定义",
+      "path": "A=收集-Inbox/【CSS-侧边栏】边栏工作区文档图标自定义.md"
     },
     {
       "basename": "【合集-Buttons】Buttons Set",
       "path": "B1=纵览-Atlas/Database/【合集-Buttons】Buttons Set.md"
     },
     {
-      "basename": "《非正式会谈 第七季》",
-      "path": "D4=观影-Viewing/综艺/《非正式会谈 第七季》.md"
+      "basename": "【Obsidian-插件】Banners",
+      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Banners.md"
     },
     {
-      "basename": "时光序iframe",
-      "path": "X=资源-Sources/iframe/时光序iframe.md"
+      "basename": "2022-07-23-周六",
+      "path": "D1=日记-Dailynote/2022-07-23-周六.md"
     },
     {
-      "basename": "搜书集iframe",
-      "path": "X=资源-Sources/iframe/搜书集iframe.md"
+      "basename": "2022-07-24-周日",
+      "path": "D1=日记-Dailynote/2022-07-24-周日.md"
+    },
+    {
+      "basename": "2022-07-22-周五",
+      "path": "D1=日记-Dailynote/2022-07-22-周五.md"
+    },
+    {
+      "basename": "《人类简史》",
+      "path": "D3=读书-Reading/《人类简史》.md"
+    },
+    {
+      "basename": "Drawing 2022-07-25 16.05.35.excalidraw",
+      "path": "Z=附件-Extras/Draws/Drawing 2022-07-25 16.05.35.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2022-07-25 16.03.43.excalidraw",
+      "path": "Z=附件-Extras/Draws/Drawing 2022-07-25 16.03.43.excalidraw.md"
+    },
+    {
+      "basename": "2022-07-13-周三",
+      "path": "D1=日记-Dailynote/2022-07-13-周三.md"
+    },
+    {
+      "basename": "-【MOC-合集】内容MOC合集",
+      "path": "B1=纵览-Atlas/MOCs/-【MOC-合集】内容MOC合集.md"
+    },
+    {
+      "basename": "-【Obsidian-资源】Obsidian参考资料合集",
+      "path": "B1=纵览-Atlas/MOCs/-【Obsidian-资源】Obsidian参考资料合集.md"
+    },
+    {
+      "basename": "-【Obsidian-插件】Obsidian插件MOC",
+      "path": "B1=纵览-Atlas/MOCs/-【Obsidian-插件】Obsidian插件MOC.md"
+    },
+    {
+      "basename": "pyramids-g2b942ed19_1920",
+      "path": "Z=附件-Extras/Banner/pyramids-g2b942ed19_1920.jpg"
+    },
+    {
+      "basename": "《黑客与画家》",
+      "path": "D3=读书-Reading/《黑客与画家》.md"
+    },
+    {
+      "basename": "《蛤蟆先生去看心理医生》",
+      "path": "D3=读书-Reading/《蛤蟆先生去看心理医生》.md"
+    },
+    {
+      "basename": "-我的书单",
+      "path": "D3=读书-Reading/-我的书单.md"
+    },
+    {
+      "basename": "《爱因斯坦：生活和宇宙》",
+      "path": "D3=读书-Reading/《爱因斯坦：生活和宇宙》.md"
+    },
+    {
+      "basename": "《城市之光》",
+      "path": "D4=观影-Viewing/电影/《城市之光》.md"
+    },
+    {
+      "basename": "-我的影单",
+      "path": "D4=观影-Viewing/-我的影单.md"
+    },
+    {
+      "basename": "《河西走廊》",
+      "path": "D4=观影-Viewing/纪录片/《河西走廊》.md"
+    },
+    {
+      "basename": "【Obsidian-插件】Custom Frames",
+      "path": "A=收集-Inbox/【Obsidian-插件】Custom Frames.md"
+    },
+    {
+      "basename": "【Obsidian-插件】QuickAdd",
+      "path": "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】QuickAdd.md"
+    },
+    {
+      "basename": "【Obsidian-插件】Emoji Toolbar",
+      "path": "A=收集-Inbox/【Obsidian-插件】Emoji Toolbar.md"
+    },
+    {
+      "basename": "【Obsidian-插件】增强编辑",
+      "path": "A=收集-Inbox/【Obsidian-插件】增强编辑.md"
+    },
+    {
+      "basename": "【Obsidian-插件】cMenu",
+      "path": "A=收集-Inbox/【Obsidian-插件】cMenu.md"
+    },
+    {
+      "basename": "T_DailyNote",
+      "path": "Z=附件-Extras/Template/T_DailyNote.md"
+    },
+    {
+      "basename": "2022-07-18-周一",
+      "path": "D1=日记-Dailynote/2022-07-18-周一.md"
+    },
+    {
+      "basename": "2022-07-19-周二",
+      "path": "D1=日记-Dailynote/2022-07-19-周二.md"
+    },
+    {
+      "basename": "文本处理iframe",
+      "path": "X=资源-Sources/iframe/文本处理iframe.md"
     },
     {
       "basename": "微信读书iframe",
       "path": "X=资源-Sources/iframe/微信读书iframe.md"
     },
     {
+      "basename": "搜书集iframe",
+      "path": "X=资源-Sources/iframe/搜书集iframe.md"
+    },
+    {
+      "basename": "历史上的今天iframe",
+      "path": "X=资源-Sources/iframe/历史上的今天iframe.md"
+    },
+    {
+      "basename": "《非正式会谈 第七季》",
+      "path": "D4=观影-Viewing/综艺/《非正式会谈 第七季》.md"
+    },
+    {
+      "basename": "《萌探探探案 第二季》",
+      "path": "D4=观影-Viewing/综艺/《萌探探探案 第二季》.md"
+    },
+    {
       "basename": "《王牌对王牌 第七季》",
       "path": "D4=观影-Viewing/综艺/《王牌对王牌 第七季》.md"
     },
     {
-      "basename": "T_Alias",
-      "path": "Z=附件-Extras/Template/T_Alias.md"
+      "basename": "《中国通史》",
+      "path": "D4=观影-Viewing/纪录片/《中国通史》.md"
+    },
+    {
+      "basename": "【机器学习-吴恩达-EN】机器学习-吴恩达 笔记",
+      "path": "C2=工作-Work/Python/机器学习/【机器学习-吴恩达-EN】机器学习-吴恩达 笔记.md"
+    },
+    {
+      "basename": "【外刊-路透社】羽生结弦宣布退役",
+      "path": "D5=外刊-Periodical/【外刊-路透社】羽生结弦宣布退役.md"
+    },
+    {
+      "basename": "【书籍-技术】Pro Git",
+      "path": "X=资源-Sources/Books/【书籍-技术】Pro Git.md"
+    },
+    {
+      "basename": "【Obsidian-插件】Quick Explorer",
+      "path": "A=收集-Inbox/【Obsidian-插件】Quick Explorer.md"
+    },
+    {
+      "basename": "【Markdown-语法教程】MarkDown超级教程 Obsidian版 2022.1.12",
+      "path": "B2=参考-Handbook/02-Markdown/【Markdown-语法教程】MarkDown超级教程 Obsidian版 2022.1.12.md"
+    },
+    {
+      "basename": "【Markdown-基础语法】Markdown的使用",
+      "path": "B2=参考-Handbook/02-Markdown/【Markdown-基础语法】Markdown的使用.md"
     }
   ],
   "omittedPaths": [

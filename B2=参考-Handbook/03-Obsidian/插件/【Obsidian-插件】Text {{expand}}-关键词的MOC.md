@@ -15,7 +15,7 @@ obsidian -#obsidian
 - [[-【MOC-合集】内容MOC合集]]
 - [[-【Obsidian-插件】Obsidian插件MOC]]
 - [[-【Obsidian-教程-Johnny学OB】MOC]]
-- [[-【Obsidian-使用】My Obsidian使用手册]]
+- [[使用手册]]
 - [[-【Obsidian-指南-Johnny学OB】OB所有第三方插件简介]]
 - [[-【Obsidian-资源】Obsidian参考资料合集]]
 - [[T_PluginNote]]

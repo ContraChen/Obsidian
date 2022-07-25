@@ -17,7 +17,6 @@
   "obsidian-admonition",
   "cm-editor-syntax-highlight-obsidian",
   "table-extended",
-  "obsidian-gallery",
   "sliding-panes-obsidian",
   "convert-url-to-iframe",
   "obsidian-charts",
@@ -44,5 +43,10 @@
   "obsidian-checklist-plugin",
   "workspaces-plus",
   "obsidian-banners",
-  "customizable-page-header-buttons"
+  "customizable-page-header-buttons",
+  "quick-explorer",
+  "obsidian-gallery",
+  "Enhanced-editing",
+  "obsidian-emoji-toolbar",
+  "obsidian-custom-frames"
 ]

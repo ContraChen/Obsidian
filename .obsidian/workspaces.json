@@ -6,7 +6,7 @@
         "type": "split",
         "children": [
           {
-            "id": "a60870524b175b23",
+            "id": "9fcf754a7cb112ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,7 +28,7 @@
           {
             "id": "9829c25bff00bcb8",
             "type": "tabs",
-            "dimension": 59.71316818774446,
+            "dimension": 57.16145833333334,
             "children": [
               {
                 "id": "4ff809925e594524",
@@ -66,15 +66,23 @@
           {
             "id": "36bb2cec5e36f24c",
             "type": "tabs",
-            "dimension": 40.28683181225554,
+            "dimension": 42.83854166666667,
             "children": [
+              {
+                "id": "9c84ad6af9dd59b9",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
               {
                 "id": "5fb5b275729a1738",
                 "type": "leaf",
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "B1=纵览-Atlas/Scopes/Homepage.md",
+                    "file": "B1=纵览-Atlas/Scopes/工具箱.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -102,20 +110,12 @@
                     }
                   }
                 }
-              },
-              {
-                "id": "9c84ad6af9dd59b9",
-                "type": "leaf",
-                "state": {
-                  "type": "recent-files",
-                  "state": {}
-                }
               }
             ]
           }
         ],
         "direction": "horizontal",
-        "width": 275
+        "width": 333
       },
       "right": {
         "id": "65807b9ac34befb3",
@@ -124,7 +124,7 @@
           {
             "id": "635ef8ebb1eab5db",
             "type": "tabs",
-            "dimension": 47.45762711864407,
+            "dimension": 49.38053097345133,
             "children": [
               {
                 "id": "3b72d47620d80631",
@@ -148,7 +148,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "B1=纵览-Atlas/Scopes/Homepage.md",
+                    "file": "B1=纵览-Atlas/Scopes/工具箱.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "B1=纵览-Atlas/Scopes/Homepage.md"
+                    "file": "B1=纵览-Atlas/Scopes/工具箱.md"
                   }
                 }
               },
@@ -191,9 +191,9 @@
             ]
           },
           {
-            "id": "65d4654b9fbc7acf",
+            "id": "d1c9dd4b8c746f41",
             "type": "tabs",
-            "dimension": 52.54237288135594,
+            "dimension": 50.61946902654867,
             "children": [
               {
                 "id": "22bb047546a68d58",
@@ -204,64 +204,39 @@
                 }
               },
               {
-                "id": "ffe842bf9bec843d",
+                "id": "0ad9f77a11972e51",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "B1=纵览-Atlas/MOCs/-【Obsidian-使用】My Obsidian使用手册.md",
+                    "file": "B1=纵览-Atlas/Scopes/工具箱.md",
                     "mode": "preview",
                     "backlinks": false,
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "58f917c386e643b0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "B1=纵览-Atlas/MOCs/-【MOC-合集】内容MOC合集.md",
-                    "mode": "source",
-                    "backlinks": false,
                     "source": false
                   }
                 }
               },
               {
-                "id": "e0d734a6efddfe0c",
+                "id": "a562c2c1d35ac25d",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "B1=纵览-Atlas/MOCs/-【Obsidian-资源】Obsidian参考资料合集.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "bd53f28ded36357b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md",
+                    "file": "B1=纵览-Atlas/Scopes/使用手册.md",
                     "mode": "preview",
                     "backlinks": false,
                     "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal",
-        "width": 330
+        "width": 345
       },
-      "active": "5fb5b275729a1738"
+      "active": "3b72d47620d80631"
     }
   },
   "active": "Homepage"

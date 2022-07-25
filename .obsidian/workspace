@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a60870524b175b23",
+        "id": "9fcf754a7cb112ce",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -12,7 +12,7 @@
             "file": "B1=纵览-Atlas/Scopes/Homepage.md",
             "mode": "preview",
             "backlinks": false,
-            "source": true
+            "source": false
           }
         }
       }
@@ -26,7 +26,7 @@
       {
         "id": "9829c25bff00bcb8",
         "type": "tabs",
-        "dimension": 59.71316818774446,
+        "dimension": 57.16145833333333,
         "children": [
           {
             "id": "4ff809925e594524",
@@ -64,8 +64,16 @@
       {
         "id": "36bb2cec5e36f24c",
         "type": "tabs",
-        "dimension": 40.28683181225554,
+        "dimension": 42.838541666666664,
         "children": [
+          {
+            "id": "9c84ad6af9dd59b9",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
           {
             "id": "5fb5b275729a1738",
             "type": "leaf",
@@ -100,21 +108,12 @@
                 }
               }
             }
-          },
-          {
-            "id": "9c84ad6af9dd59b9",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 275
+    "width": 333
   },
   "right": {
     "id": "65807b9ac34befb3",
@@ -123,7 +122,7 @@
       {
         "id": "635ef8ebb1eab5db",
         "type": "tabs",
-        "dimension": 47.45762711864407,
+        "dimension": 49.38053097345133,
         "children": [
           {
             "id": "3b72d47620d80631",
@@ -190,9 +189,9 @@
         ]
       },
       {
-        "id": "65d4654b9fbc7acf",
+        "id": "d1c9dd4b8c746f41",
         "type": "tabs",
-        "dimension": 52.54237288135594,
+        "dimension": 50.61946902654867,
         "children": [
           {
             "id": "22bb047546a68d58",
@@ -203,74 +202,49 @@
             }
           },
           {
-            "id": "ffe842bf9bec843d",
+            "id": "0ad9f77a11972e51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B1=纵览-Atlas/MOCs/-【Obsidian-使用】My Obsidian使用手册.md",
+                "file": "B1=纵览-Atlas/Scopes/工具箱.md",
                 "mode": "preview",
                 "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "58f917c386e643b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B1=纵览-Atlas/MOCs/-【MOC-合集】内容MOC合集.md",
-                "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             }
           },
           {
-            "id": "e0d734a6efddfe0c",
+            "id": "a562c2c1d35ac25d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B1=纵览-Atlas/MOCs/-【Obsidian-资源】Obsidian参考资料合集.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd53f28ded36357b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md",
+                "file": "B1=纵览-Atlas/Scopes/使用手册.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 330
+    "width": 345
   },
-  "active": "a60870524b175b23",
+  "active": "3b72d47620d80631",
   "lastOpenFiles": [
-    "A=收集-Inbox/【Obsidian-Admonition-效果】分栏效果示例.md",
+    "Z=附件-Extras/Template/T_WeeklyNote.md",
+    "B1=纵览-Atlas/Scopes/工具箱.md",
     "B1=纵览-Atlas/Scopes/Homepage.md",
-    "B1=纵览-Atlas/MOCs/-【Obsidian-使用】My Obsidian使用手册.md",
-    "B2=参考-Handbook/03-Obsidian/插件/-【Obsidian-插件】Obsidian插件MOC.md",
-    "A=收集-Inbox/【Obsidian-插件】Customizable Page Header and Title Bar.md",
-    "B1=纵览-Atlas/MOCs/-【Obsidian-资源】Obsidian参考资料合集.md",
-    "D1=日记-Dailynote/2022-07-23-周六.md",
-    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Admonition-文本渲染.md",
-    "A=收集-Inbox/Pasted image 20220518090553.png.md",
-    "D1=日记-Dailynote/2022-07-22-周五.md"
+    "B1=纵览-Atlas/Scopes/使用手册.md",
+    "A=收集-Inbox/【Obsidian-Admonition-效果】分栏效果示例.md",
+    "A=收集-Inbox/【Obsidian-教程】Obsidian使用技巧：一站式搜索并生成书影笔记.md",
+    "D1=日记-Dailynote/2022-07-25-周一.md",
+    "A=收集-Inbox/【CSS-侧边栏】边栏工作区文档图标自定义.md",
+    "B1=纵览-Atlas/Database/【合集-Buttons】Buttons Set.md",
+    "B2=参考-Handbook/03-Obsidian/插件/【Obsidian-插件】Banners.md"
   ]
 }

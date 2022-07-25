@@ -15,12 +15,13 @@
       "type": "flex",
       "color": "#7d7d7d",
       "icon": {
-        "name": "ad",
-        "type": "font-awesome"
+        "type": "obsidian",
+        "name": "Loader"
       },
       "command": false,
       "injectColor": true,
-      "noTitle": true
+      "noTitle": true,
+      "copy": false
     },
     "icon": {
       "type": "icon",
@@ -33,17 +34,6 @@
       "injectColor": true,
       "noTitle": true,
       "copy": false
-    },
-    "col": {
-      "type": "col",
-      "color": "#7d7d7d",
-      "icon": {
-        "name": "ad",
-        "type": "font-awesome"
-      },
-      "command": false,
-      "injectColor": true,
-      "noTitle": true
     },
     "col2": {
       "type": "col2",

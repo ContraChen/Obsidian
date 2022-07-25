@@ -5,6 +5,12 @@
       "icon": "lucide-home",
       "name": "Workspaces Plus: Load: Homepage",
       "showButtons": "both"
+    },
+    {
+      "id": "daily-notes",
+      "icon": "calendar-glyph",
+      "name": "日记: 打开/创建今天的日记",
+      "showButtons": "both"
     }
   ],
   "desktop": true,

@@ -1,7 +1,7 @@
 #set/moc 
 # Obsidian 
 #app/obsidian 
-[[-【Obsidian-使用】My Obsidian使用手册]]
+[[使用手册]]
 [[-【Obsidian-资源】Obsidian参考资料合集]]
 [[-【Obsidian-教程-Johnny学OB】MOC]]
 [[-【Obsidian-插件】Obsidian插件MOC]]

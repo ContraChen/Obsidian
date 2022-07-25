@@ -42,5 +42,5 @@
   "newFileFolderPath": "A=收集-Inbox",
   "showUnsupportedFiles": true,
   "showFrontmatter": false,
-  "trashOption": "local"
+  "trashOption": "system"
 }

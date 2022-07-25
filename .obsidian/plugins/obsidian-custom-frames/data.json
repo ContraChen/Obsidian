@@ -1,0 +1,16 @@
+{
+  "frames": [
+    {
+      "url": "https://www.flaticon.com/",
+      "displayName": "Flaticon",
+      "icon": "brush",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ".edge-content-icon-list{visibility:hidden !important; position: absolute !important;}"
+    }
+  ],
+  "padding": 5
+}

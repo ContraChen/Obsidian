@@ -1,11 +1,5 @@
 {
-  "sidebarCommands": [
-    {
-      "id": "workspaces-plus:Homepage",
-      "name": "Workspaces Plus: Load: Homepage",
-      "icon": "feather-home"
-    }
-  ],
+  "sidebarCommands": [],
   "hiddenCommands": [
     "Advanced Tables Toolbar",
     "Templater",
